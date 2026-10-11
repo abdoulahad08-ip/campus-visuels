@@ -1,35 +1,104 @@
-"""Génère un carrousel Campus des Bâtisseurs.
-Usage: python3 carousel.py slides.json outdir
-slides.json = {"slides":[{"label":"LA RÈGLE DU JOUR","title":"...","body":"..."}, ...]}
-Produit fb_01.png... (1080x1350) et tt_01.png... (1080x1920).
+"""Carrousel Campus des Bâtisseurs — v2 (couleurs vives, orienté solution).
+
+Usage : python3 -I outils/carousel.py AAAA-MM-JJ/slides.json AAAA-MM-JJ
+Produit fb_01.png… (1080x1350, Facebook) et tt_01.png… (1080x1920, TikTok).
+
+slides.json = {"slides": [ {"type": "...", "tag": "...", "title": "...", "body": "...", "big": "..."}, ... ]}
+Types (un par diapo, dans cet ordre conseillé) :
+  curiosite  -> accroche qui intrigue (diapo 1)
+  probleme   -> le piège / la vraie cause
+  solution   -> une étape concrète (tag ex. « Solution 1/3 »)
+  promesse   -> ce que la personne va obtenir
+  resultat   -> le résultat chiffré ; "big" = gros chiffre (ex. « 180 000 FCFA »)
+  cta        -> appel à l'action ; "big" = mot-clé à commenter (ex. « ORDRE »)
+Dans "title", entoure un ou deux mots avec *étoiles* pour les surligner.
 """
-import json, sys, os
+import json, os, sys
 from PIL import Image, ImageDraw, ImageFont
 
-BG = (11, 11, 11)
-GOLD = (201, 162, 39)
-WHITE = (245, 245, 240)
-GREY = (150, 150, 145)
-FD = "/usr/share/fonts/truetype/google-fonts/"
-F_BOLD = FD + "Poppins-Bold.ttf"
-F_SEMI = FD + "Poppins-SemiBold.ttf" if os.path.exists(FD + "Poppins-SemiBold.ttf") else F_BOLD
-F_REG = FD + "Poppins-Regular.ttf"
+HERE = os.path.dirname(os.path.abspath(__file__))
+FONT_DIRS = [os.path.join(HERE, "fonts"), "/usr/share/fonts/truetype/google-fonts"]
+
+
+def _f(name):
+    for d in FONT_DIRS:
+        p = os.path.join(d, name)
+        if os.path.exists(p):
+            return p
+    return "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+
+
+F_BOLD = _f("Poppins-Bold.ttf")
+F_MED = _f("Poppins-Medium.ttf")
+F_SYM = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+if not os.path.exists(F_SYM):
+    F_SYM = F_BOLD
+
+WHITE = (255, 255, 255)
+DARK = (20, 20, 35)
+YELLOW = (255, 214, 0)
+
+# type -> (couleur haut, couleur bas, couleur texte, couleur surlignage, texte surligné, icône, tag par défaut)
+THEMES = {
+    "curiosite": ((255, 94, 20), (255, 30, 110), WHITE, YELLOW, DARK, "?", "Tu savais ?"),
+    "probleme": ((24, 32, 72), (52, 20, 90), WHITE, (255, 70, 90), WHITE, "!", "Le piège"),
+    "solution": ((0, 168, 120), (0, 120, 190), WHITE, YELLOW, DARK, "✓", "La solution"),
+    "promesse": ((110, 40, 220), (40, 100, 240), WHITE, YELLOW, DARK, "★", "La promesse"),
+    "resultat": ((255, 200, 0), (255, 140, 0), DARK, WHITE, DARK, "↗", "Le résultat"),
+    "cta": ((255, 30, 110), (255, 94, 20), WHITE, YELLOW, DARK, "→", "À toi de jouer"),
+}
 
 
 def font(p, s):
     return ImageFont.truetype(p, s)
 
 
-def wrap(draw, text, f, maxw):
+def gradient(W, H, c1, c2):
+    base = Image.new("RGB", (W, H), c1)
+    top = Image.new("RGB", (W, H), c2)
+    mask = Image.linear_gradient("L").resize((W, H))
+    return Image.composite(top, base, mask)
+
+
+def tokens(title):
+    """Découpe le titre en mots (texte, surligné?)."""
+    out, hl = [], False
+    for raw in [w for w in title.split(" ") if w]:
+        w = raw
+        start = w.startswith("*")
+        if start:
+            hl = True
+            w = w[1:]
+        end = w.endswith("*") or w.endswith("*,") or w.endswith("*.") or w.endswith("*!") or w.endswith("*?")
+        w = w.replace("*", "")
+        out.append((w, hl))
+        if end:
+            hl = False
+    return out
+
+
+def layout_title(d, title, f, maxw):
+    lines, cur, curw = [], [], 0
+    sp = d.textlength(" ", font=f)
+    for w, hl in tokens(title):
+        ww = d.textlength(w, font=f)
+        if cur and curw + sp + ww > maxw:
+            lines.append(cur)
+            cur, curw = [], 0
+        cur.append((w, hl, ww))
+        curw += (sp if len(cur) > 1 else 0) + ww
+    if cur:
+        lines.append(cur)
+    return lines
+
+
+def wrap(d, text, f, maxw):
     lines = []
     for para in text.split("\n"):
-        if not para.strip():
-            lines.append("")
-            continue
         cur = ""
         for w in [x for x in para.split(" ") if x]:
             t = (cur + " " + w).strip()
-            if draw.textlength(t, font=f) <= maxw:
+            if d.textlength(t, font=f) <= maxw:
                 cur = t
             else:
                 if cur:
@@ -39,86 +108,148 @@ def wrap(draw, text, f, maxw):
     return lines
 
 
-def brick(draw, x, y, s, color):
-    # petit mur de briques : 2 rangées décalées
+def brick(d, x, y, s, color):
     w, h, g = s, s // 2, max(3, s // 10)
-    draw.rectangle([x, y, x + w - g, y + h - g], fill=color)
-    draw.rectangle([x + w, y, x + 2 * w - g, y + h - g], fill=color)
-    draw.rectangle([x, y + h, x + w // 2 - g, y + 2 * h - g], fill=color)
-    draw.rectangle([x + w // 2, y + h, x + w // 2 + w - g, y + 2 * h - g], fill=color)
-    draw.rectangle([x + w // 2 + w, y + h, x + 2 * w - g, y + 2 * h - g], fill=color)
+    d.rectangle([x, y, x + w - g, y + h - g], fill=color)
+    d.rectangle([x + w, y, x + 2 * w - g, y + h - g], fill=color)
+    d.rectangle([x, y + h, x + w // 2 - g, y + 2 * h - g], fill=color)
+    d.rectangle([x + w // 2, y + h, x + w // 2 + w - g, y + 2 * h - g], fill=color)
+    d.rectangle([x + w // 2 + w, y + h, x + 2 * w - g, y + 2 * h - g], fill=color)
 
 
-F_SYM = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
-
-
-def text_fb(draw, xy, txt, f, fill):
-    """Dessine le texte ; les flèches → passent par DejaVu (absentes de Poppins)."""
+def text_sym(d, xy, txt, f, fill):
+    """Texte Poppins ; les symboles absents de Poppins (→ ✓ ★) passent par DejaVu."""
     x, y = xy
-    parts = txt.split("→")
-    sym = font(F_SYM, int(f.size * 0.85))
-    for i, part in enumerate(parts):
-        draw.text((x, y), part, font=f, fill=fill)
-        x += draw.textlength(part, font=f)
-        if i < len(parts) - 1:
-            draw.text((x, y + int(f.size * 0.12)), "→", font=sym, fill=GOLD)
-            x += draw.textlength("→", font=sym)
+    sym = font(F_SYM, int(f.size * 0.9))
+    buf = ""
+    for ch in txt + "\0":
+        if ch in "→✓★↗" or ch == "\0":
+            if buf:
+                d.text((x, y), buf, font=f, fill=fill)
+                x += d.textlength(buf, font=f)
+                buf = ""
+            if ch != "\0":
+                d.text((x, y + int(f.size * 0.08)), ch, font=sym, fill=fill)
+                x += d.textlength(ch, font=sym)
+        else:
+            buf += ch
 
 
-def fit_block(draw, title, body, maxw, maxh, tsize, bsize):
-    while True:
-        ft, fb = font(F_BOLD, tsize), font(F_REG, bsize)
-        tl = wrap(draw, title, ft, maxw) if title else []
-        bl = wrap(draw, body, fb, maxw) if body else []
-        th = len(tl) * int(tsize * 1.18)
-        bh = len(bl) * int(bsize * 1.45)
-        gap = 50 if (tl and bl) else 0
-        if th + gap + bh <= maxh or tsize <= 60:
-            return ft, fb, tl, bl, th, gap, bh, tsize, bsize
-        tsize = int(tsize * 0.93)
-        bsize = max(40, int(bsize * 0.95))
+def centered(d, cx, y, txt, f, fill):
+    w = d.textlength(txt, font=f)
+    d.text((cx - w / 2, y), txt, font=f, fill=fill)
 
 
-def render(slide, idx, total, W, H, path):
-    im = Image.new("RGB", (W, H), BG)
-    d = ImageDraw.Draw(im)
-    M = 90
+def render(s, idx, total, W, H, path):
+    typ = s.get("type", "solution")
+    c1, c2, tc, hlc, hltc, icon, deftag = THEMES.get(typ, THEMES["solution"])
+    im = gradient(W, H, c1, c2)
+    d = ImageDraw.Draw(im, "RGBA")
+    M = 80
     maxw = W - 2 * M
-    # cadre fin doré
-    d.rectangle([40, 40, W - 40, H - 40], outline=(60, 50, 20), width=2)
-    # label
-    top = 150 if H > 1500 else 120
-    fl = font(F_BOLD, 34)
-    label = slide.get("label", "")
-    if label:
-        d.rectangle([M, top, M + 70, top + 6], fill=GOLD)
-        d.text((M, top + 30), label.upper(), font=fl, fill=GOLD)
+    tall = H > 1500
+
+    # formes décoratives douces
+    d.ellipse([W - 330, -170, W + 170, 330], fill=(255, 255, 255, 28))
+    d.ellipse([-200, H - 420, 260, H + 40], fill=(255, 255, 255, 22))
+
+    # tag en pastille + icône
+    top = 170 if tall else 110
+    ftag = font(F_BOLD, 36)
+    tag = s.get("tag") or deftag
+    tag = tag.upper()
+    tw = d.textlength(tag, font=ftag)
+    pill_bg = (255, 255, 255, 235) if tc == WHITE else (20, 20, 35, 235)
+    pill_fg = c1 if tc == WHITE else WHITE
+    d.rounded_rectangle([M, top, M + tw + 60, top + 70], radius=35, fill=pill_bg)
+    d.text((M + 30, top + 13), tag, font=ftag, fill=pill_fg)
+    # icône ronde à droite
+    r = 60
+    cx, cy = W - M - r, top + 35
+    d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=pill_bg)
+    fi = font(F_SYM if icon in "✓★↗→" else F_BOLD, 64)
+    iw = d.textlength(icon, font=fi)
+    bb = d.textbbox((0, 0), icon, font=fi)
+    d.text((cx - iw / 2, cy - (bb[1] + bb[3]) / 2), icon, font=fi, fill=pill_fg)
+
     # zone de contenu
-    ctop = top + 130
-    cbot = H - 230
-    big = slide.get("big", False)
-    ft, fb, tl, bl, th, gap, bh, ts, bs = fit_block(
-        d, slide.get("title", ""), slide.get("body", ""), maxw, cbot - ctop,
-        110 if big else 84, 48)
-    y = ctop + max(0, ((cbot - ctop) - (th + gap + bh)) // 2)
-    for ln in tl:
-        d.text((M, y), ln, font=ft, fill=GOLD if slide.get("gold_title", True) else WHITE)
-        y += int(ts * 1.18)
-    y += gap
-    for ln in bl:
-        text_fb(d, (M, y), ln, fb, WHITE)
-        y += int(bs * 1.45)
-    # pied de page
-    fy = H - 140
+    ctop = top + 140
+    cbot = H - (230 if tall else 190)
+    title = s.get("title", "")
+    body = s.get("body", "")
+    big = s.get("big", "")
+
+    tsize = 104 if typ == "curiosite" else 86
+    while True:
+        ft = font(F_BOLD, tsize)
+        fb = font(F_MED, max(42, int(tsize * 0.52)))
+        fbig = font(F_BOLD, int(tsize * 1.25))
+        tl = layout_title(d, title, ft, maxw) if title else []
+        bl = wrap(d, body, fb, maxw) if body else []
+        lh = int(tsize * 1.25)
+        bigh = 0
+        if big:
+            bw = d.textlength(big, font=fbig)
+            while bw > maxw - 60:
+                fbig = font(F_BOLD, int(fbig.size * 0.9))
+                bw = d.textlength(big, font=fbig)
+            bigh = int(fbig.size * 1.5) + 50
+        th = len(tl) * lh
+        bh = len(bl) * int(fb.size * 1.45)
+        total_h = th + (40 if bl else 0) + bh + bigh
+        if total_h <= cbot - ctop or tsize <= 58:
+            break
+        tsize = int(tsize * 0.93)
+
+    y = ctop + max(0, (cbot - ctop - total_h) // 2)
+    sp = d.textlength(" ", font=ft)
+    for line in tl:
+        x = M
+        prev_hl = False
+        for w, hl, ww in line:
+            if hl and not prev_hl and x > M:
+                x += 14
+            if not hl and prev_hl:
+                x += 14
+            prev_hl = hl
+            if hl:
+                d.rounded_rectangle([x - 12, y + int(tsize * 0.08), x + ww + 12, y + int(tsize * 1.2)],
+                                    radius=14, fill=hlc)
+                d.text((x, y), w, font=ft, fill=hltc)
+            else:
+                d.text((x, y), w, font=ft, fill=tc)
+            x += ww + sp
+        y += lh
+    if bl:
+        y += 40
+        for ln in bl:
+            text_sym(d, (M, y), ln, fb, tc)
+            y += int(fb.size * 1.45)
+    if big:
+        y += 50
+        bw = d.textlength(big, font=fbig)
+        bh2 = int(fbig.size * 1.5)
+        box_bg = DARK if typ == "resultat" else WHITE
+        box_fg = YELLOW if typ == "resultat" else c1
+        d.rounded_rectangle([M, y, M + bw + 60, y + bh2], radius=bh2 // 2, fill=box_bg)
+        bb = d.textbbox((0, 0), big, font=fbig)
+        d.text((M + 30, y + (bh2 - (bb[1] + bb[3])) / 2), big, font=fbig, fill=box_fg)
+
+    # pied : marque + progression
+    fy = H - (150 if tall else 120)
     ff = font(F_BOLD, 32)
     name = "Campus des Bâtisseurs"
     nw = d.textlength(name, font=ff)
-    d.text((W - M - nw, fy), name, font=ff, fill=WHITE)
-    brick(d, int(W - M - nw - 92), fy + 6, 34, GOLD)
-    d.text((M, fy), f"{idx}/{total}", font=font(F_REG, 32), fill=GREY)
-    if idx < total:
-        arrow = "→"
-        d.text((M + 90, fy - 2), arrow, font=font(F_SYM, 34), fill=GOLD)
+    d.text((W - M - nw, fy), name, font=ff, fill=tc)
+    brick(d, int(W - M - nw - 88), fy + 6, 32, tc)
+    # points de progression
+    x = M
+    for i in range(total):
+        on = i + 1 == idx
+        col = tc if on else (tc + (90,))
+        wdot = 44 if on else 18
+        d.rounded_rectangle([x, fy + 14, x + wdot, fy + 32], radius=9, fill=col)
+        x += wdot + 12
     im.save(path, optimize=True)
 
 
