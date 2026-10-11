@@ -10,7 +10,10 @@ Types (un par diapo, dans cet ordre conseillé) :
   solution   -> une étape concrète (tag ex. « Solution 1/3 »)
   promesse   -> ce que la personne va obtenir
   resultat   -> le résultat chiffré ; "big" = gros chiffre (ex. « 180 000 FCFA »)
-  cta        -> appel à l'action ; "big" = mot-clé à commenter (ex. « ORDRE »)
+  cta        -> appel à l'action ; "big" = « campusdesbatisseurs.com »
+Clé optionnelle "story" (même format qu'une diapo, type conseillé « curiosite ») :
+  génère story.png (1080x1920) pour la story Facebook, avec « Abonne-toi : @campusdesbatisseurs ».
+  Texte total de la story (tag + title + body) ≤ 100 caractères.
 Dans "title", entoure un ou deux mots avec *étoiles* pour les surligner.
 """
 import json, os, sys
@@ -154,7 +157,7 @@ def render(s, idx, total, W, H, path):
     d.ellipse([-200, H - 420, 260, H + 40], fill=(255, 255, 255, 22))
 
     # tag en pastille + icône
-    top = 170 if tall else 110
+    top = (260 if total == 0 else 170) if tall else 110
     ftag = font(F_BOLD, 36)
     tag = s.get("tag") or deftag
     tag = tag.upper()
@@ -174,7 +177,7 @@ def render(s, idx, total, W, H, path):
 
     # zone de contenu
     ctop = top + 140
-    cbot = H - (230 if tall else 190)
+    cbot = H - ((340 if total == 0 else 230) if tall else 190)
     title = s.get("title", "")
     body = s.get("body", "")
     big = s.get("big", "")
@@ -242,6 +245,15 @@ def render(s, idx, total, W, H, path):
     nw = d.textlength(name, font=ff)
     d.text((W - M - nw, fy), name, font=ff, fill=tc)
     brick(d, int(W - M - nw - 88), fy + 6, 32, tc)
+    if total == 0:  # story : pas de progression, incitation à s'abonner
+        fs = font(F_BOLD, 44)
+        txt = "Abonne-toi : @campusdesbatisseurs"
+        tw2 = d.textlength(txt, font=fs)
+        py = fy - 150
+        bg = WHITE if tc == WHITE else DARK
+        fg = c1 if tc == WHITE else YELLOW
+        d.rounded_rectangle([(W - tw2) / 2 - 40, py, (W + tw2) / 2 + 40, py + 90], radius=45, fill=bg)
+        d.text(((W - tw2) / 2, py + 16), txt, font=fs, fill=fg)
     # points de progression
     x = M
     for i in range(total):
@@ -262,6 +274,9 @@ def main():
     for i, s in enumerate(slides, 1):
         render(s, i, n, 1080, 1350, os.path.join(out, f"fb_{i:02d}.png"))
         render(s, i, n, 1080, 1920, os.path.join(out, f"tt_{i:02d}.png"))
+    if data.get("story"):
+        render(data["story"], 0, 0, 1080, 1920, os.path.join(out, "story.png"))
+        print("story ok")
     print("ok", n)
 
 
