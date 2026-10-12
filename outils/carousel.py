@@ -12,7 +12,9 @@ Types (un par diapo, dans cet ordre conseillé) :
   resultat   -> le résultat chiffré ; "big" = gros chiffre (ex. « 180 000 FCFA »)
   cta        -> appel à l'action ; "big" = « campusdesbatisseurs.com »
 Clé optionnelle "story" (même format qu'une diapo, type conseillé « curiosite ») :
-  génère story.png (1080x1920) pour la story Facebook, avec « Abonne-toi : @campusdesbatisseurs ».
+  génère story.png (1080x1920) pour la story Facebook, avec « Suis le Campus : dans quelques mois, tu verras la différence. ».
+Clé optionnelle "cover" (même format) : visuel UNIQUE des posts « liste valeur » de 10h
+  -> cover_fb.png (1080x1350) et cover_tt.png (1080x1920), sans points de progression.
   Texte total de la story (tag + title + body) ≤ 100 caractères.
 Dans "title", entoure un ou deux mots avec *étoiles* pour les surligner.
 """
@@ -177,7 +179,7 @@ def render(s, idx, total, W, H, path):
 
     # zone de contenu
     ctop = top + 140
-    cbot = H - ((340 if total == 0 else 230) if tall else 190)
+    cbot = H - ((400 if total == 0 else 230) if tall else 190)
     title = s.get("title", "")
     body = s.get("body", "")
     big = s.get("big", "")
@@ -245,18 +247,20 @@ def render(s, idx, total, W, H, path):
     nw = d.textlength(name, font=ff)
     d.text((W - M - nw, fy), name, font=ff, fill=tc)
     brick(d, int(W - M - nw - 88), fy + 6, 32, tc)
-    if total == 0:  # story : pas de progression, incitation à s'abonner
-        fs = font(F_BOLD, 44)
-        txt = "Abonne-toi : @campusdesbatisseurs"
-        tw2 = d.textlength(txt, font=fs)
-        py = fy - 150
+    if total == 0:  # story : message communauté (pas d'« abonne-toi »)
+        fs = font(F_BOLD, 40)
+        lines2 = ["Suis le Campus : dans quelques mois,", "tu verras la différence."]
+        lh2 = 54
+        tw2 = max(d.textlength(t, font=fs) for t in lines2)
+        py = fy - 60 - lh2 * len(lines2) - 40
         bg = WHITE if tc == WHITE else DARK
         fg = c1 if tc == WHITE else YELLOW
-        d.rounded_rectangle([(W - tw2) / 2 - 40, py, (W + tw2) / 2 + 40, py + 90], radius=45, fill=bg)
-        d.text(((W - tw2) / 2, py + 16), txt, font=fs, fill=fg)
+        d.rounded_rectangle([(W - tw2) / 2 - 40, py, (W + tw2) / 2 + 40, py + lh2 * len(lines2) + 40], radius=40, fill=bg)
+        for k, t in enumerate(lines2):
+            d.text(((W - d.textlength(t, font=fs)) / 2, py + 18 + k * lh2), t, font=fs, fill=fg)
     # points de progression
     x = M
-    for i in range(total):
+    for i in range(max(total, 0)):
         on = i + 1 == idx
         col = tc if on else (tc + (90,))
         wdot = 44 if on else 18
@@ -269,11 +273,15 @@ def main():
     data = json.load(open(sys.argv[1], encoding="utf-8"))
     out = sys.argv[2]
     os.makedirs(out, exist_ok=True)
-    slides = data["slides"]
+    slides = data.get("slides", [])
     n = len(slides)
     for i, s in enumerate(slides, 1):
         render(s, i, n, 1080, 1350, os.path.join(out, f"fb_{i:02d}.png"))
         render(s, i, n, 1080, 1920, os.path.join(out, f"tt_{i:02d}.png"))
+    if data.get("cover"):
+        render(data["cover"], 0, -1, 1080, 1350, os.path.join(out, "cover_fb.png"))
+        render(data["cover"], 0, -1, 1080, 1920, os.path.join(out, "cover_tt.png"))
+        print("cover ok")
     if data.get("story"):
         render(data["story"], 0, 0, 1080, 1920, os.path.join(out, "story.png"))
         print("story ok")
