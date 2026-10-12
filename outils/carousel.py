@@ -1,7 +1,7 @@
 """Carrousel Campus des Bâtisseurs — v2 (couleurs vives, orienté solution).
 
 Usage : python3 -I outils/carousel.py AAAA-MM-JJ/slides.json AAAA-MM-JJ
-Produit fb_01.png… (1080x1350, Facebook) et tt_01.png… (1080x1920, TikTok).
+Produit fb_01.png… (1080x1350, Facebook) et tt_01.jpg… (1080x1920, TikTok — JPEG obligatoire).
 
 slides.json = {"slides": [ {"type": "...", "tag": "...", "title": "...", "body": "...", "big": "..."}, ... ]}
 Types (un par diapo, dans cet ordre conseillé) :
@@ -14,7 +14,7 @@ Types (un par diapo, dans cet ordre conseillé) :
 Clé optionnelle "story" (même format qu'une diapo, type conseillé « curiosite ») :
   génère story.png (1080x1920) pour la story Facebook, avec « Suis le Campus : dans quelques mois, tu verras la différence. ».
 Clé optionnelle "cover" (même format) : visuel UNIQUE des posts « liste valeur » de 10h
-  -> cover_fb.png (1080x1350) et cover_tt.png (1080x1920), sans points de progression.
+  -> cover_fb.png (1080x1350) et cover_tt.jpg (1080x1920, JPEG pour TikTok), sans points de progression.
   Texte total de la story (tag + title + body) ≤ 100 caractères.
 Dans "title", entoure un ou deux mots avec *étoiles* pour les surligner.
 """
@@ -145,6 +145,14 @@ def centered(d, cx, y, txt, f, fill):
     d.text((cx - w / 2, y), txt, font=f, fill=fill)
 
 
+def save(im, path):
+    """PNG pour Facebook ; JPEG obligatoire pour les photos TikTok (Metricool refuse le PNG)."""
+    if path.endswith(".jpg"):
+        im.convert("RGB").save(path, "JPEG", quality=92, optimize=True)
+    else:
+        save(im, path)
+
+
 def render(s, idx, total, W, H, path):
     typ = s.get("type", "solution")
     c1, c2, tc, hlc, hltc, icon, deftag = THEMES.get(typ, THEMES["solution"])
@@ -266,7 +274,7 @@ def render(s, idx, total, W, H, path):
         wdot = 44 if on else 18
         d.rounded_rectangle([x, fy + 14, x + wdot, fy + 32], radius=9, fill=col)
         x += wdot + 12
-    im.save(path, optimize=True)
+    save(im, path)
 
 
 def main():
@@ -277,10 +285,10 @@ def main():
     n = len(slides)
     for i, s in enumerate(slides, 1):
         render(s, i, n, 1080, 1350, os.path.join(out, f"fb_{i:02d}.png"))
-        render(s, i, n, 1080, 1920, os.path.join(out, f"tt_{i:02d}.png"))
+        render(s, i, n, 1080, 1920, os.path.join(out, f"tt_{i:02d}.jpg"))
     if data.get("cover"):
         render(data["cover"], 0, -1, 1080, 1350, os.path.join(out, "cover_fb.png"))
-        render(data["cover"], 0, -1, 1080, 1920, os.path.join(out, "cover_tt.png"))
+        render(data["cover"], 0, -1, 1080, 1920, os.path.join(out, "cover_tt.jpg"))
         print("cover ok")
     if data.get("story"):
         render(data["story"], 0, 0, 1080, 1920, os.path.join(out, "story.png"))
