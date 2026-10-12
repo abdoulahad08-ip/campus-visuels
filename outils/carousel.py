@@ -150,7 +150,7 @@ def save(im, path):
     if path.endswith(".jpg"):
         im.convert("RGB").save(path, "JPEG", quality=92, optimize=True)
     else:
-        save(im, path)
+        im.save(path, optimize=True)
 
 
 def render(s, idx, total, W, H, path):
