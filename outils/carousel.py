@@ -50,6 +50,7 @@ THEMES = {
     "solution": ((0, 168, 120), (0, 120, 190), WHITE, YELLOW, DARK, "✓", "La solution"),
     "promesse": ((110, 40, 220), (40, 100, 240), WHITE, YELLOW, DARK, "★", "La promesse"),
     "resultat": ((255, 200, 0), (255, 140, 0), DARK, WHITE, DARK, "↗", "Le résultat"),
+    "marque": ((24, 32, 72), (70, 20, 110), WHITE, YELLOW, DARK, "★", "Connecter • Accompagner • Bâtir"),
     "cta": ((255, 30, 110), (255, 94, 20), WHITE, YELLOW, DARK, "→", "À toi de jouer"),
 }
 
