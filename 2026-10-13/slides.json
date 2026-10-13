@@ -1,0 +1,60 @@
+{
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Tu savais ?",
+   "title": "Et si la bourse était aussi simple qu'une *boulangerie* ?",
+   "body": "Un enfant de 10 ans peut la comprendre. Toi aussi."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "La bourse fait peur parce qu'on l'explique *mal.*",
+   "body": "Jargon, graphiques, rumeurs : on fuit sans jamais comprendre."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "3 idées simples pour enfin *comprendre* la bourse.",
+   "body": "Avec une boulangerie. Zéro jargon."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 1/3",
+   "title": "Une action = un *petit morceau* d'entreprise.",
+   "body": "La boulangerie est coupée en 1 000 parts. Tu en achètes une : tu es copropriétaire."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 2/3",
+   "title": "La bourse = le *marché* des morceaux.",
+   "body": "On y achète et revend des parts. Chez nous, c'est la BRVM, à Abidjan."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 3/3",
+   "title": "Ta part monte… ou *descend.*",
+   "body": "Si l'entreprise prospère, ta part vaut plus et peut te verser un dividende. Sinon, elle baisse."
+  },
+  {
+   "type": "resultat",
+   "tag": "Le résultat",
+   "title": "Exemple : 10 parts, dividende de 250 FCFA par part :",
+   "body": "Par an, si l'entreprise le verse. Le prix de la part peut aussi baisser.",
+   "big": "2 500 FCFA"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Une brique par jour. Dans quelques mois, tu verras la *différence.*",
+   "body": "Des solutions concrètes, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ],
+ "story": {
+  "type": "curiosite",
+  "tag": "À midi sur la page",
+  "title": "La bourse, expliquée avec une *boulangerie.*",
+  "body": "Tu ne la verras plus pareil."
+ }
+}
