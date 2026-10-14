@@ -18,17 +18,20 @@ Des solutions concrètes, vérifiées, applicables dès aujourd'hui, sans promes
 « Ici, on partage chaque jour ce qui marche vraiment, sans promesse magique. »
 
 ## 4. Mes piliers (calendrier de la semaine)
-| Jour | Pilier | Format du carrousel |
-|---|---|---|
-| Lundi | Argent & épargne | Erreur ou bonne pratique |
-| Mardi | Bourse & investissement | Carrousel pas à pas |
-| Mercredi | Cybersécurité & arnaques ⭐ | Arnaque décryptée (prévention uniquement) |
-| Jeudi | Carrière, emploi, entretien ⭐ | Liste utile |
-| Vendredi | Protéger son argent ⭐ | Checklist |
-| Samedi | Anglais & compétences ⭐ | Liste de phrases / exemples |
-| Dimanche | Mental & choix de vie | Histoire ou réflexion (sans faux témoignage) |
+Règle n° 1 : chaque contenu doit CHOQUER (accroche qui arrête le pouce) ET donner une vraie valeur (on repart avec quelque chose d'utile). Ni choc vide, ni leçon ennuyeuse.
 
-⭐ = piliers qui performent le mieux sur TikTok (mesure du 14 oct 2026). Le rapport du lundi (rapports/consignes.md) peut les réordonner.
+| Jour | Pilier | Angle choc + valeur |
+|---|---|---|
+| Lundi | Finance & argent | le chiffre qui fait mal (ce que coûte une habitude, l'inflation, les frais cachés) + la méthode pour s'en sortir |
+| Mardi | BRVM & bourse | ce que les gens ignorent sur la bourse régionale (sociétés cotées, dividendes, chiffres réels vérifiés) + comment ça marche |
+| Mercredi | Cybersécurité | l'arnaque ou la faille qui touche tout le monde + les réglages de protection (prévention uniquement) |
+| Jeudi | IT, tech & science | la découverte ou la techno qui va changer ta vie (IA, espace, santé, énergie) + ce que ça change concrètement pour toi |
+| Vendredi | Géopolitique & infos | l'événement mondial qui touche ton portefeuille (pétrole, dollar, CFA, conflits, accords) expliqué simplement et neutre + l'impact pour l'Afrique de l'Ouest |
+| Samedi | Bâtir | business, carrière, compétences, anglais : ce que font ceux qui réussissent + les étapes pour commencer |
+| Dimanche | Mindset & liberté | la vérité dérangeante (liberté financière, temps, discipline, choix de vie) + un exercice à faire |
+
+Alternance : le rapport du lundi (rapports/consignes.md) peut renforcer les piliers qui performent, sans en supprimer un sans l'accord de l'utilisateur.
+Faits « choc » : toujours vrais, sourcés et vérifiables (chiffre officiel, étude, grand média). Le choc vient du fait, jamais de l'exagération.
 
 Formats fixes chaque jour : Flash des dernières 24h (10h FB + TikTok), carrousel (FB 12h, TikTok 18h), vidéo (19h FB Reel + TikTok + YouTube).
 
