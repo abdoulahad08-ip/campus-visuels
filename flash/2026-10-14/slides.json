@@ -1,0 +1,59 @@
+{
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 14 octobre",
+   "title": "Les *dernières 24h* en 1 minute",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Le FMI relève sa prévision de croissance *mondiale* pour 2026 à 3,1 %, soit +0,1 point.",
+   "body": "Source : Boursorama / AFP"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "Séoul : *Samsung* chute de 7,4 % et SK hynix de 10 %, après des progrès du chinois CXMT.",
+   "body": "Source : Korea JoongAng Daily"
+  },
+  {
+   "type": "probleme",
+   "tag": "BRVM",
+   "title": "6,2 milliards FCFA échangés mardi à la BRVM ; l'indice *Composite* recule de 0,28 %.",
+   "body": "Source : Lejecos / AllAfrica"
+  },
+  {
+   "type": "resultat",
+   "tag": "Startup",
+   "title": "Character.AI, pionnier des chatbots IA, dépose le bilan ; *Disney* offre 20 M$ pour des actifs.",
+   "body": "Source : NBC News"
+  },
+  {
+   "type": "solution",
+   "tag": "Cybersécurité",
+   "title": "France : une cyberattaque a mis hors service les *frigos* de centaines de supermarchés.",
+   "body": "Source : franceinfo"
+  },
+  {
+   "type": "promesse",
+   "tag": "IT",
+   "title": "Apple dévoile *HomeView*, écran pour maison connectée à 299 $, disponible le 13 novembre.",
+   "body": "Source : MacRumors"
+  },
+  {
+   "type": "probleme",
+   "tag": "Géopolitique",
+   "title": "Selon Reuters, l'armée éthiopienne est entrée à *Zalambessa*, ville frontalière de l'Érythrée.",
+   "body": "Source : Reuters (via TimesLIVE)"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Ici, on décode l'actualité qui compte, sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
