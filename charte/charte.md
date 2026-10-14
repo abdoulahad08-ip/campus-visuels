@@ -85,3 +85,6 @@ Corriger, puis programmer.
 
 ## Ligne rouge (jamais déléguée à l'automate)
 Stratégie et offres, sujets sensibles (actualité grave, deuil, crise), réponses aux clients, budget et ciblage des pubs, prix et contenu des produits. En cas d'actualité grave au Sénégal : voir charte/procedure-pause.md.
+
+## Mode de publication (décision du 14 oct 2026)
+Publication directe : les tâches programment les posts en autoPublish, sans brouillon à valider. Le contrôle qualité automatique et la procédure pause restent obligatoires.
