@@ -1,0 +1,60 @@
+{
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Tu savais ?",
+   "title": "Il te promet 20 % par mois. Il ment *forcément.*",
+   "body": "Voici comment le repérer en 30 secondes."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Les arnaques ne ressemblent jamais à des *arnaques.*",
+   "body": "Elles arrivent par un ami, un groupe WhatsApp, un « mentor » souriant."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "5 signes pour démasquer un faux *investissement.*",
+   "body": "Retiens-les et tu protèges ton argent, et celui de tes proches."
+  },
+  {
+   "type": "solution",
+   "tag": "Signes 1 et 2",
+   "title": "Un gain *garanti*, un rendement énorme.",
+   "body": "Personne ne peut garantir un gain. Encore moins 10 % par mois."
+  },
+  {
+   "type": "solution",
+   "tag": "Signes 3 et 4",
+   "title": "L'urgence et le *parrainage.*",
+   "body": "« Dernières places ce soir ! » « Ramène 3 personnes. » Les nouveaux paient les anciens."
+  },
+  {
+   "type": "solution",
+   "tag": "Signe 5",
+   "title": "Aucun agrément, aucune *trace.*",
+   "body": "Avant de payer, vérifie l'agrément auprès de l'AMF-UMOA ou de la BCEAO."
+  },
+  {
+   "type": "resultat",
+   "tag": "Fais le calcul",
+   "title": "« 20 % par mois » sur 500 000 FCFA, en 1 an :",
+   "big": "4 458 050 FCFA",
+   "body": "Aucune activité réelle ne fait ça."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Une brique par jour. Dans quelques mois, tu verras la *différence.*",
+   "body": "Des réflexes simples pour protéger ce que tu construis.",
+   "big": "@campusdesbatisseurs"
+  }
+ ],
+ "story": {
+  "type": "curiosite",
+  "tag": "À midi sur la page",
+  "title": "Ton « placement » est-il une *arnaque* ?",
+  "body": "5 signes qui ne trompent pas."
+ }
+}
