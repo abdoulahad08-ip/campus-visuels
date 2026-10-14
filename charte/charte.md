@@ -33,7 +33,7 @@ Règle n° 1 : chaque contenu doit CHOQUER (accroche qui arrête le pouce) ET do
 Alternance : le rapport du lundi (rapports/consignes.md) peut renforcer les piliers qui performent, sans en supprimer un sans l'accord de l'utilisateur.
 Faits « choc » : toujours vrais, sourcés et vérifiables (chiffre officiel, étude, grand média). Le choc vient du fait, jamais de l'exagération.
 
-Formats fixes chaque jour : Flash des dernières 24h (10h FB + TikTok), carrousel (FB 12h, TikTok 18h), vidéo (19h FB Reel + TikTok + YouTube).
+Formats fixes chaque jour (4 posts, décision du 14 oct 2026, test de 2 semaines) : 10h Flash des dernières 24h (FB + TikTok) = attirer ; carrousel (FB 12h, TikTok 18h) = valeur ; 19h vidéo (FB Reel + TikTok + YouTube) ou cadeau = confiance ; 20h post communauté (FB + TikTok : question, défi, débat, bilan) = fidéliser. Passage à 5 posts seulement si les vues par post ne baissent pas.
 
 ## 5. Mon ton
 Direct, chaleureux, exigeant, bienveillant. Tutoiement. Phrases courtes, une idée par ligne.
@@ -58,6 +58,7 @@ Mentions obligatoires :
 - Conclusion avant signature : « Ici, on partage chaque jour ce qui marche vraiment, sans promesse magique. / Ceux qui nous suivent verront la différence d'ici quelques mois. 🧱 »
 - Facebook : outils/signature.txt (sans ligne Facebook). YouTube : outils/signature_youtube.txt (sans ligne YouTube). TikTok : outils/signature_tiktok.txt (première ligne invisible à garder).
 - Seul appel à l'action autorisé en phase communauté : un cadeau gratuit contre un mot-clé (« écris BÂTIR / INVESTIR / VENTE / BÂTISSEUR / PUISSANT / SUIVI / AUTO », en commentaire ou sur WhatsApp), jamais une vente. Liste des cadeaux et messages d'envoi : cadeaux/README.md.
+- Post communauté de 20h : une question ouverte ou un choix (« Et toi ? », « A, B, C ou D ? », « Dis-nous en commentaire ») est autorisé. Le reste des interdits s'applique.
 
 ## 8. Mes hashtags
 - Facebook : 8 à 10, dont #CampusDesBatisseurs ; jamais #fyp #pourtoi #tiktokAfrique.
