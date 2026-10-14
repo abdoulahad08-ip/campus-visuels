@@ -1,0 +1,35 @@
+{
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Outil gratuit",
+   "title": "Tu vends… mais combien tu *gagnes* vraiment ?",
+   "body": "Un seul fichier Excel pour le savoir.\nGlisse pour voir →"
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Vendre sans *chiffres*",
+   "body": "Pubs, livraisons, frais : beaucoup de vendeurs perdent de l'argent sans le savoir."
+  },
+  {
+   "type": "promesse",
+   "tag": "Tout en un seul fichier",
+   "title": "Ventes, pubs, clients, *bénéfice*",
+   "body": "Tableau de bord du mois\nVraie marge et rentabilité des pubs\nClients fidèles et à relancer\nBilan annuel"
+  },
+  {
+   "type": "resultat",
+   "tag": "C'est offert",
+   "title": "Les calculs se font *tout seuls*",
+   "big": "GRATUIT",
+   "body": "Tu remplis les cases jaunes, le fichier calcule le reste."
+  },
+  {
+   "type": "cta",
+   "tag": "Pour le recevoir",
+   "title": "Écris *« SUIVI »*",
+   "body": "En commentaire sur Facebook ou sur WhatsApp au +221 76 760 22 22.\nOn te l'envoie en privé."
+  }
+ ]
+}

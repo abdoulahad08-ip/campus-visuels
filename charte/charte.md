@@ -57,7 +57,7 @@ Mentions obligatoires :
 ## 7. Ma signature et mes appels à l'action
 - Conclusion avant signature : « Ici, on partage chaque jour ce qui marche vraiment, sans promesse magique. / Ceux qui nous suivent verront la différence d'ici quelques mois. 🧱 »
 - Facebook : outils/signature.txt (sans ligne Facebook). YouTube : outils/signature_youtube.txt (sans ligne YouTube). TikTok : outils/signature_tiktok.txt (première ligne invisible à garder).
-- Seul appel à l'action autorisé en phase communauté : un cadeau gratuit (ex. « écris BÂTIR » pour le guide des 5 étapes), jamais une vente.
+- Seul appel à l'action autorisé en phase communauté : un cadeau gratuit contre un mot-clé (« écris BÂTIR / INVESTIR / VENTE / BÂTISSEUR / PUISSANT / SUIVI / AUTO », en commentaire ou sur WhatsApp), jamais une vente. Liste des cadeaux et messages d'envoi : cadeaux/README.md.
 
 ## 8. Mes hashtags
 - Facebook : 8 à 10, dont #CampusDesBatisseurs ; jamais #fyp #pourtoi #tiktokAfrique.
