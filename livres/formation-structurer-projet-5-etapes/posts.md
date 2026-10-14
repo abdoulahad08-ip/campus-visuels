@@ -83,6 +83,6 @@ On t'offre la formation « Structurer un projet solide de A à Z » :
 - les 5 étapes, 5 questions et 5 livrables qui forment ton dossier de projet ;
 - un exemple suivi du début à la fin, chiffres à l'appui ;
 - pensé pour nos réalités : financement limité, famille, tontine, saisons, imprévus ;
-- une checklist à la fin de chaque étape, pour savoir si tu es prêt pour la suite.
+- le kit Excel : fiche projet, seuil de rentabilité, matrice des risques, budget, tableau de bord et plan de 30 jours, les calculs se font tout seuls.
 
 Pour la recevoir gratuitement, écris BÂTIR en message privé sur WhatsApp. On te l'envoie dans les 24 h.
