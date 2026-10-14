@@ -5,6 +5,7 @@
 > Chaque accroche doit choquer ET la valeur doit être réelle. Tout chiffre est vérifié avant publication (sinon on le retire).
 > Le rapport du lundi ajoute 5 idées inspirées des meilleurs posts et des questions en commentaire.
 > Tu peux ajouter tes idées à tout moment.
+> Les lignes « post prêt » renvoient à un post déjà écrit à partir de nos livres (livres/<produit>/posts.md) : le reprendre en carrousel, sans citer le produit.
 
 ## Finance & argent (lundi)
 - [x] [Finance] Tu gagnes plus et il ne reste rien à la fin du mois — erreur/bonne pratique (2026-10-12)
@@ -15,6 +16,16 @@
 - [ ] [Finance] Tu n'as pas de problème de salaire, tu as un problème de système — le budget 50/30/20 en FCFA
 - [ ] [Finance] Tontine : la meilleure ou la pire idée pour ton argent ? — 3 avantages, 3 pièges
 - [ ] [Finance] Combien faut-il pour ne plus jamais paniquer en fin de mois ? — le fonds d'urgence pas à pas
+- [ ] [Finance] Ton argent qui dort perd un quart de sa valeur — post prêt : livres/investisseur-debutant/posts.md (post 1)
+- [ ] [Finance] Les 5 conditions avant de placer ton premier franc — post prêt : livres/investisseur-debutant/posts.md (post 3)
+- [ ] [Finance] Un appartement loué 220 000 FCFA par mois rapporte-t-il vraiment 8 % ? — post prêt : livres/investisseur-debutant/posts.md (post 5)
+- [ ] [Finance] Le patrimoine ne se construit pas avec ce que tu gagnes — post prêt : livres/code-du-batisseur/posts.md (post 4)
+- [ ] [Finance] Le même terrain vendu à trois personnes — post prêt : livres/code-du-batisseur/posts.md (post 5)
+- [ ] [Finance] Tu n'as pas besoin d'être riche pour avoir de l'autorité — post prêt : livres/devenir-puissant/posts.md (post 4)
+- [ ] [Finance] Ce n'est pas le manque de profit qui tue une entreprise — post prêt : livres/comprendre-entrepreneuriat/posts.md (post 3)
+- [ ] [Finance] Tu crois gagner 3 000 FCFA par vente. Tu en gagnes 200. — post prêt : livres/vendre-sur-facebook/posts.md (post 2)
+- [ ] [Finance] Le calcul qui dit oui ou non à ton projet — post prêt : livres/formation-structurer-projet-5-etapes/posts.md (post 4)
+- [ ] [Finance] Les 2 lignes que tout le monde oublie dans son budget — post prêt : livres/formation-structurer-projet-5-etapes/posts.md (post 5)
 
 ## BRVM & bourse (mardi)
 - [x] [Bourse] La bourse aussi simple qu'une boulangerie — pas à pas (2026-10-13)
@@ -24,6 +35,13 @@
 - [ ] [BRVM] Pourquoi 9 Africains sur 10 n'investissent jamais en bourse — les vrais freins et comment ouvrir un compte (SGI)
 - [ ] [BRVM] Action, obligation, fonds : la différence en 1 minute — liste
 - [ ] [BRVM] Les 5 erreurs qui font perdre de l'argent au débutant — erreur/bonne pratique
+- [ ] [BRVM] La règle de 72 : en combien d'années ton argent double ? — post prêt : livres/investisseur-debutant/posts.md (post 2)
+- [ ] [BRVM] Action, obligation, fonds : la différence en 1 minute — post prêt : livres/investisseur-debutant/posts.md (post 4)
+- [ ] [BRVM] Même salaire, même bourse : pourquoi l'un perd et l'autre bâtit ? — post prêt : livres/portefeuille-de-fer/posts.md (post 1)
+- [ ] [BRVM] Le prix, c'est ce que tu paies. La valeur, c'est ce que tu obtiens. — post prêt : livres/portefeuille-de-fer/posts.md (post 2)
+- [ ] [BRVM] Ce que tu dois savoir sur la BRVM avant d'y mettre un franc — post prêt : livres/portefeuille-de-fer/posts.md (post 3)
+- [ ] [BRVM] Les douves : pourquoi certaines entreprises résistent aux tempêtes — post prêt : livres/portefeuille-de-fer/posts.md (post 4)
+- [ ] [BRVM] 30 minutes par mois : le rituel de l'investisseur patient — post prêt : livres/portefeuille-de-fer/posts.md (post 5)
 
 ## Cybersécurité (mercredi)
 - [ ] [Cyber] Ton code Wave ou Orange Money peut être volé en 30 secondes — 4 réglages anti-vol
@@ -32,6 +50,8 @@
 - [ ] [Cyber] Ton mot de passe se casse en quelques secondes s'il ressemble à ça — créer un mot de passe solide
 - [ ] [Cyber] Le Wi-Fi gratuit du café lit peut-être tes messages — les précautions simples
 - [ ] [Cyber] Les fausses vidéos IA (deepfakes) qui imitent des célébrités pour arnaquer — les repérer
+- [ ] [Cyber] Le faux message « Meta Support » qui vole des pages — post prêt : livres/vendre-sur-facebook/posts.md (post 5)
+- [ ] [Cyber] Ce que tu ne dois jamais confier à un outil automatique — post prêt : livres/formation-automatiser-reseaux/posts.md (post 5)
 
 ## IT, tech & science (jeudi)
 - [ ] [Science] Ton cerveau ne finit de se développer que vers 25 ans — ce que la science dit des décisions d'argent
@@ -40,6 +60,14 @@
 - [ ] [Tech] Ton téléphone sait où tu étais il y a 3 mois — vérifier et couper la localisation
 - [ ] [Tech] Les métiers de l'IT les mieux payés qu'on peut apprendre en ligne — par où commencer
 - [ ] [Science] Pourquoi les réseaux sociaux te rendent accro : la dopamine expliquée — reprendre le contrôle
+- [ ] [Tech] Tu publies un post à la fois ? C'est ça qui te prend tes journées. — post prêt : livres/formation-automatiser-reseaux/posts.md (post 1)
+- [ ] [Tech] Tes visuels : 5 modèles et 2 formats suffisent — post prêt : livres/formation-automatiser-reseaux/posts.md (post 3)
+- [ ] [Tech] Les likes mentent. Regarde ces 5 chiffres. — post prêt : livres/formation-automatiser-reseaux/posts.md (post 4)
+- [ ] [Science] Tu cuisines ton ail trop vite — post prêt : livres/ail-gingembre-curcuma/posts.md (post 1)
+- [ ] [Science] Le curcuma que tu manges passe presque entièrement à côté — post prêt : livres/ail-gingembre-curcuma/posts.md (post 2)
+- [ ] [Science] Le gingembre contre les nausées : ce que disent vraiment les études — post prêt : livres/ail-gingembre-curcuma/posts.md (post 3)
+- [ ] [Science] « Naturel » ne veut pas dire « sans danger » — post prêt : livres/ail-gingembre-curcuma/posts.md (post 4)
+- [ ] [Science] Le tonique gingembre-citron-miel de grand-mère, version précise — post prêt : livres/ail-gingembre-curcuma/posts.md (post 5)
 
 ## Géopolitique & infos (vendredi)
 - [ ] [Géopo] Quand le dollar monte, ton panier au marché coûte plus cher — le lien expliqué simplement
@@ -56,6 +84,28 @@
 - [ ] [Bâtir] 7 faux amis qui piègent les francophones en anglais — erreur/bonne pratique
 - [ ] [Bâtir] Négocier son salaire sans perdre l'offre — pas à pas
 - [ ] [Bâtir] Publier tous les jours sans y passer ses journées : le système en 6 étapes (formation Automatiser)
+- [ ] [Bâtir] Tu n'as pas besoin d'être le meilleur. Tu as besoin d'être rare. — post prêt : livres/code-du-batisseur/posts.md (post 2)
+- [ ] [Bâtir] Les 3 mensonges qu'on te raconte sur l'entrepreneuriat — post prêt : livres/comprendre-entrepreneuriat/posts.md (post 1)
+- [ ] [Bâtir] Risque aveugle ou risque calculé ? — post prêt : livres/comprendre-entrepreneuriat/posts.md (post 2)
+- [ ] [Bâtir] Ta mémoire n'est pas un système comptable — post prêt : livres/comprendre-entrepreneuriat/posts.md (post 4)
+- [ ] [Bâtir] Tes clients n'achètent pas ton produit — post prêt : livres/comprendre-entrepreneuriat/posts.md (post 5)
+- [ ] [Bâtir] « Prix en inbox » : la phrase qui fait fuir tes clients — post prêt : livres/vendre-sur-facebook/posts.md (post 1)
+- [ ] [Bâtir] Ne commande jamais ton stock avant ce test — post prêt : livres/vendre-sur-facebook/posts.md (post 3)
+- [ ] [Bâtir] Oublie les likes. Regarde ces 3 chiffres. — post prêt : livres/vendre-sur-facebook/posts.md (post 4)
+- [ ] [Bâtir] Facebook est la vitrine. WhatsApp est le comptoir. — post prêt : livres/formation-vendre-facebook-whatsapp/posts.md (post 1)
+- [ ] [Bâtir] Transforme ton WhatsApp en vrai magasin en 20 minutes — post prêt : livres/formation-vendre-facebook-whatsapp/posts.md (post 2)
+- [ ] [Bâtir] La conversation qui vend, en 5 messages — post prêt : livres/formation-vendre-facebook-whatsapp/posts.md (post 3)
+- [ ] [Bâtir] « Je vais réfléchir » : la réponse qui sauve la vente — post prêt : livres/formation-vendre-facebook-whatsapp/posts.md (post 4)
+- [ ] [Bâtir] Trouver un client coûte cher. Le faire revenir ne coûte presque rien. — post prêt : livres/formation-vendre-facebook-whatsapp/posts.md (post 5)
+- [ ] [Bâtir] L'ordre qui ruine tant de projets avant leur lancement — post prêt : livres/formation-lancer-business-30-jours/posts.md (post 1)
+- [ ] [Bâtir] Tu ne démarres jamais de zéro — post prêt : livres/formation-lancer-business-30-jours/posts.md (post 2)
+- [ ] [Bâtir] La meilleure idée n'est pas la plus originale — post prêt : livres/formation-lancer-business-30-jours/posts.md (post 3)
+- [ ] [Bâtir] Ne demande jamais « Tu achèterais mon produit ? » — post prêt : livres/formation-lancer-business-30-jours/posts.md (post 4)
+- [ ] [Bâtir] Ta promesse en une phrase — post prêt : livres/formation-lancer-business-30-jours/posts.md (post 5)
+- [ ] [Bâtir] Pourquoi tant de projets s'arrêtent au bout de 6 mois — post prêt : livres/formation-structurer-projet-5-etapes/posts.md (post 1)
+- [ ] [Bâtir] « Réussir mon atelier » n'est pas un objectif — post prêt : livres/formation-structurer-projet-5-etapes/posts.md (post 2)
+- [ ] [Bâtir] Une précommande payée vaut plus que cent « bonne idée ! » — post prêt : livres/formation-structurer-projet-5-etapes/posts.md (post 3)
+- [ ] [Bâtir] Le document qui fait qu'on reconnaît ton style en 2 secondes — post prêt : livres/formation-automatiser-reseaux/posts.md (post 2)
 
 ## Mindset & liberté (dimanche)
 - [ ] [Liberté] Tu échanges 40 ans de ta vie contre un salaire : as-tu fait le calcul ? — définir sa liberté financière
@@ -64,3 +114,10 @@
 - [ ] [Liberté] Riche ou libre ? Ce n'est pas la même chose — les 3 libertés (temps, argent, choix)
 - [ ] [Mindset] Ce que tu fais entre 18h et minuit décide de ta vie dans 5 ans — un plan simple
 - [ ] [Mindset] Les 3 choix qui construisent une vie — liste
+- [ ] [Mindset] Chasseur ou bâtisseur ? — post prêt : livres/code-du-batisseur/posts.md (post 1)
+- [ ] [Mindset] La motivation te fait commencer. La discipline te fait arriver. — post prêt : livres/code-du-batisseur/posts.md (post 3)
+- [ ] [Mindset] On te juge en un dixième de seconde — post prêt : livres/devenir-puissant/posts.md (post 1)
+- [ ] [Mindset] Parle peu, mais fort — post prêt : livres/devenir-puissant/posts.md (post 2)
+- [ ] [Mindset] Disponible pour tout le monde, respecté par personne ? — post prêt : livres/devenir-puissant/posts.md (post 3)
+- [ ] [Mindset] Quelqu'un qu'on peut provoquer est quelqu'un qu'on peut diriger — post prêt : livres/devenir-puissant/posts.md (post 5)
+
