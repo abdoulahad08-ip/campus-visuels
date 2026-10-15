@@ -67,6 +67,8 @@ Mentions obligatoires :
 ## 9. Mes couleurs et polices
 Générateur : outils/carousel.py (thèmes déjà réglés, dont « marque » bleu nuit → violet, jaune).
 Formats : Facebook 1080 × 1350 PNG ; TikTok 1080 × 1920 JPEG uniquement. Pas d'emoji dans les visuels.
+Flash TikTok (décision du 15 oct 2026) : la 1re photo est toujours le visuel titre « Les dernières 24h en *une minute*… » (clé "cover" → cover_tt.jpg), puis les diapos.
+Signatures (décision du 15 oct 2026) : ni téléphone ni email, sur aucun réseau.
 Espaces insécables avant « : ? ! » et entre nombre et unité.
 
 ## 10. Exemples de référence (ce qui a le mieux marché)
