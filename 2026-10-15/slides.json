@@ -1,0 +1,54 @@
+{
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Tu savais ?",
+   "title": "Ton cerveau reste en mode *ado* jusqu'à 32 ans.",
+   "body": "Étude de l'université de Cambridge : 3 802 cerveaux scannés, publiée fin 2025."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Le danger n'est pas ton âge. C'est *l'impulsion.*",
+   "body": "Décider vite, fatigué ou sous pression : c'est là que ton argent part."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "Ton cerveau se *construit* encore. Tes décisions aussi.",
+   "body": "3 réglages simples pour protéger ton argent de tes impulsions."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 1/3",
+   "title": "La règle des *48 heures.*",
+   "body": "Un achat non prévu de plus de 10 000 FCFA ? Attends 2 jours avant de payer."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 2/3",
+   "title": "Décide une fois, puis *automatise.*",
+   "body": "Le jour de la paie, un virement automatique vers ton épargne. Plus besoin de volonté."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 3/3",
+   "title": "Jamais de grosse décision *le soir.*",
+   "body": "Fatigué, pressé ou en colère ? Note l'idée. Décide demain, à tête reposée."
+  },
+  {
+   "type": "resultat",
+   "tag": "Le résultat",
+   "title": "3 achats impulsifs de 10 000 FCFA évités chaque mois :",
+   "body": "Exemple de calcul sur 12 mois. Sans gagner un franc de plus.",
+   "big": "360 000 FCFA"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Une brique par jour. Dans quelques mois, tu verras la *différence.*",
+   "body": "Des solutions concrètes, vérifiées, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
