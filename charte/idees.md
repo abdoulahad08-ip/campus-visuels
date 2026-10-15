@@ -54,7 +54,7 @@
 - [ ] [Cyber] Ce que tu ne dois jamais confier à un outil automatique — post prêt : livres/formation-automatiser-reseaux/posts.md (post 5)
 
 ## IT, tech & science (jeudi)
-- [ ] [Science] Ton cerveau ne finit de se développer que vers 25 ans — ce que la science dit des décisions d'argent
+- [x] [Science] Ton cerveau ne finit de se développer que vers 25 ans — ce que la science dit des décisions d'argent (2026-10-15)
 - [ ] [Tech] L'IA fait déjà une partie de ton futur métier — 5 compétences qu'elle ne remplacera pas
 - [ ] [Science] Dormir moins de 6 heures te rend aussi lent qu'un verre de trop — ce que disent les études et que faire
 - [ ] [Tech] Ton téléphone sait où tu étais il y a 3 mois — vérifier et couper la localisation
