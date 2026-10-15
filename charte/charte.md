@@ -54,18 +54,20 @@ Mentions obligatoires :
 - Bourse / investissement / placement : « Contenu éducatif, pas un conseil en investissement. Tout placement comporte un risque de perte. »
 - Flash : « Contenu d'information, pas un conseil en investissement. »
 
-## 6 bis. Éduquer ET convertir (décision du 15 oct 2026, remplace la « phase communauté »)
-Chaque post fait deux choses : il ÉDUQUE (vraie valeur, utilisable sans rien acheter) puis il CONVERTIT (un seul appel à l'action clair vers l'offre qui prolonge le sujet).
-- 80 % éducation, 20 % conversion : le post reste utile même pour qui n'achète pas.
-- Une seule offre par post, choisie dans livres/produits.md selon le sujet (lien exact de ce fichier), ou un cadeau gratuit contre un mot-clé (cadeaux/README.md).
-- Formule : une ligne de transition qui relie le sujet au produit + le bénéfice concret + le lien. Ex. : « Pour aller plus loin : L'Investisseur Débutant t'explique pas à pas comment épargner et investir sans te faire piéger 👉 https://campusdesbatisseurs.com/inves-debutant »
-- Placement : Facebook / LinkedIn / YouTube = juste avant la conclusion communauté, lien cliquable. TikTok (liens non cliquables) = « Le guide complet : campusdesbatisseurs.com » ou un mot-clé cadeau. Diapos : la dernière diapo peut présenter l'offre (nom du produit + « campusdesbatisseurs.com »), sans prix.
-- Jamais de prix dans les posts automatiques (les promotions changent) ; jamais de promesse de gain ni de faux témoignage.
+## 6 bis. Vente douce : la communauté d'abord (décision du 15 oct 2026)
+Priorité : construire une communauté de qualité qui nous fait confiance. La vente vient ensuite, naturellement.
+- 90 % de valeur pure. On ne pousse jamais un produit ; on le mentionne seulement quand il prolonge vraiment le sujet.
+- Carrousel du jour : au maximum UNE ligne discrète en fin de texte (« Pour aller plus loin : <produit> 👉 <lien exact de livres/produits.md> » ; TikTok : « … sur campusdesbatisseurs.com »). La dernière diapo reste communautaire (« Une brique par jour… »), jamais une pub.
+- Flash de 10h et post communauté de 20h : AUCUNE mention de produit (information et échange uniquement).
+- Cadeaux gratuits contre un mot-clé (cadeaux/README.md) = conversion principale : ils créent le lien et la confiance.
+- Jamais de prix dans les posts automatiques, de fausse urgence, de promesse de gain, de faux témoignage, ni de « achète maintenant ».
+- Les signatures Facebook / YouTube gardent la liste de nos guides : c'est la vitrine permanente.
+- Lancement plus appuyé d'un produit : seulement sur décision de l'utilisateur (posts 6 « offre » de livres/<produit>/posts.md).
 
 ## 7. Ma signature et mes appels à l'action
 - Conclusion avant signature : « Ici, on partage chaque jour ce qui marche vraiment, sans promesse magique. / Ceux qui nous suivent verront la différence d'ici quelques mois. 🧱 »
 - Facebook : outils/signature.txt (sans ligne Facebook). YouTube : outils/signature_youtube.txt (sans ligne YouTube). TikTok : outils/signature_tiktok.txt (première ligne invisible à garder). LinkedIn : outils/signature_linkedin.txt. Ni téléphone, ni email, ni numéro WhatsApp dans la signature TikTok.
-- Appels à l'action : l'offre du jour (rubrique 6 bis) ou un cadeau gratuit contre un mot-clé (« écris BÂTIR / INVESTIR / VENTE / BÂTISSEUR / PUISSANT / SUIVI / AUTO »). Liste des cadeaux : cadeaux/README.md. Catalogue : livres/produits.md.
+- Appels à l'action : un cadeau gratuit contre un mot-clé (« écris BÂTIR / INVESTIR / VENTE / BÂTISSEUR / PUISSANT / SUIVI / AUTO »). Liste des cadeaux : cadeaux/README.md. Catalogue (pour la ligne discrète du carrousel) : livres/produits.md.
 - Post communauté de 20h : une question ouverte ou un choix (« Et toi ? », « A, B, C ou D ? », « Dis-nous en commentaire ») est autorisé. Le reste des interdits s'applique.
 
 ## 8. Mes hashtags
@@ -96,7 +98,7 @@ Espaces insécables avant « : ? ! » et entre nombre et unité.
 Corriger, puis programmer.
 
 ## Ligne rouge (jamais déléguée à l'automate)
-Stratégie et offres, sujets sensibles (actualité grave, deuil, crise), réponses aux clients, budget et ciblage des pubs, prix et contenu des produits. En cas d'actualité grave au Sénégal : voir charte/procedure-pause.md.
+Stratégie et offres, budget et ciblage des publicités Meta Ads (compte connecté le 15 oct 2026 : on analyse et on propose, l'utilisateur décide et lance), sujets sensibles (actualité grave, deuil, crise), réponses aux clients, budget et ciblage des pubs, prix et contenu des produits. En cas d'actualité grave au Sénégal : voir charte/procedure-pause.md.
 
 ## Mode de publication (décision du 14 oct 2026)
 Publication directe : les tâches programment les posts en autoPublish, sans brouillon à valider. Le contrôle qualité automatique et la procédure pause restent obligatoires.
