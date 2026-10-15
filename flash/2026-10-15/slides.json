@@ -1,0 +1,59 @@
+{
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 15 octobre",
+   "title": "L'inflation US fait chuter le *Nasdaq* de 1,9 %",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "États-Unis : l'*inflation* grimpe à 3,7 % sur un an en septembre, au-dessus des 3,6 % attendus.",
+   "body": "Source : TheStreet / AP"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "Wall Street : le *Nasdaq* perd 1,9 % et le S&P 500 1,1 %, pire séance depuis juillet.",
+   "body": "Source : AP / ABC News"
+  },
+  {
+   "type": "probleme",
+   "tag": "BRVM",
+   "title": "BRVM : le *Composite* recule de 1,33 % mercredi, 4e séance de baisse d'affilée.",
+   "body": "Source : Lejecos"
+  },
+  {
+   "type": "resultat",
+   "tag": "Startup",
+   "title": "Pluto Security lève 34 M$ pour surveiller les *agents IA* en entreprise (42 M$ au total).",
+   "body": "Source : TechCrunch / Crypto Briefing"
+  },
+  {
+   "type": "solution",
+   "tag": "Cybersécurité",
+   "title": "Ivanti : une *faille* du VPN Connect Secure est déjà exploitée par des pirates, alerte la CISA.",
+   "body": "Source : Rapid7"
+  },
+  {
+   "type": "promesse",
+   "tag": "IT",
+   "title": "ASML, clé des puces IA, annonce un chiffre d'affaires *record* de 11,7 Md€ au 3e trimestre.",
+   "body": "Source : ASML (communiqué officiel)"
+  },
+  {
+   "type": "probleme",
+   "tag": "Géopolitique",
+   "title": "Achevé en 2014, le *pont routier* Chine–Corée du Nord sur le Yalu ouvre ce jeudi, selon Pékin.",
+   "body": "Source : AFP (via Le Courrier du Vietnam)"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Ici, on décode l'actualité qui compte, sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
