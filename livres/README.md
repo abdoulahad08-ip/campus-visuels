@@ -3,8 +3,8 @@
 Pour chaque produit : `livres/<produit>/posts.md` = 5 posts de valeur + 1 post d'offre (version complète : `posts-livres-formations.md`, aussi dans le doc « Posts des livres et formations »).
 
 ## Règles
-- Posts 1 à 5 (valeur) : publiables dès maintenant, sans citer le produit. Ils sont dans la banque d'idées (charte/idees.md, lignes « post prêt ») et la tâche du carrousel les reprend dans le pilier du jour.
-- Post 6 (offre) : réservé à la phase 3 « lancement doux » (à partir du 10 déc 2026), seulement si le feu vert est atteint. Exception : « Structurer un projet » = cadeau gratuit promis le 23 oct (écris BÂTIR).
+- Posts 1 à 5 (valeur) : publiables dès maintenant ; ils se terminent par l'appel à l'action vers ce produit (charte 6 bis). Ils sont dans la banque d'idées (charte/idees.md, lignes « post prêt ») et la tâche du carrousel les reprend dans le pilier du jour.
+- Post 6 (offre) : utilisable dès maintenant (décision du 15 oct 2026 : chaque post éduque et convertit, charte rubrique 6 bis). Liens exacts : livres/produits.md. « Structurer un projet » = cadeau gratuit (écris BÂTIR).
 - Lancement d'un produit : 10 posts sur 14 jours = 6 valeur + 2 preuve (témoignages RÉELS, avec accord écrit) + 2 offre.
 - Personnages des livres (Awa, Fatou, Mamadou…) = exemples pédagogiques, toujours présentés comme tels.
 - Jamais de faux avis, ni sur les réseaux ni sur la boutique Chariow.

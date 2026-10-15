@@ -33,7 +33,7 @@ Règle n° 1 : chaque contenu doit CHOQUER (accroche qui arrête le pouce) ET do
 Alternance : le rapport du lundi (rapports/consignes.md) peut renforcer les piliers qui performent, sans en supprimer un sans l'accord de l'utilisateur.
 Faits « choc » : toujours vrais, sourcés et vérifiables (chiffre officiel, étude, grand média). Le choc vient du fait, jamais de l'exagération.
 
-Formats fixes chaque jour (4 posts, décision du 14 oct 2026, test de 2 semaines) : 10h Flash des dernières 24h (FB + TikTok) = attirer ; carrousel (FB 12h, TikTok 18h) = valeur ; 19h vidéo (FB Reel + TikTok + YouTube) ou cadeau = confiance ; 20h post communauté (FB + TikTok : question, défi, débat, bilan) = fidéliser. Passage à 5 posts seulement si les vues par post ne baissent pas.
+Formats fixes chaque jour (4 posts, décision du 14 oct 2026, test de 2 semaines) : 10h Flash des dernières 24h (FB + TikTok) = attirer ; carrousel (FB + LinkedIn 12h, TikTok 18h) = valeur ; 19h vidéo (FB Reel + TikTok + YouTube) ou cadeau = confiance ; 20h post communauté (FB + TikTok : question, défi, débat, bilan) = fidéliser. Passage à 5 posts seulement si les vues par post ne baissent pas.
 
 ## 5. Mon ton
 Direct, chaleureux, exigeant, bienveillant. Tutoiement. Phrases courtes, une idée par ligne.
@@ -48,19 +48,28 @@ Diapo 1 / première ligne = accroche choc (question douloureuse ou chiffre surpr
 - Attaque contre une personne, politique partisane, religion.
 - Mode opératoire détaillé d'une arnaque (prévention uniquement).
 - Rien entre [crochets] ne part en publication.
-- Phase communauté (jusqu'au feu vert du plan de croissance) : pas de « abonne-toi », « like », « partage », « commente MOT », « clique », « achète », « découvre nos formations », aucun lien de vente hors signature.
+- Pas de « abonne-toi », « like », « partage » racoleurs, pas de fausse urgence (« plus que 2 h », « dernières places ») ni de faux prix barré.
 
 Mentions obligatoires :
 - Bourse / investissement / placement : « Contenu éducatif, pas un conseil en investissement. Tout placement comporte un risque de perte. »
 - Flash : « Contenu d'information, pas un conseil en investissement. »
 
+## 6 bis. Éduquer ET convertir (décision du 15 oct 2026, remplace la « phase communauté »)
+Chaque post fait deux choses : il ÉDUQUE (vraie valeur, utilisable sans rien acheter) puis il CONVERTIT (un seul appel à l'action clair vers l'offre qui prolonge le sujet).
+- 80 % éducation, 20 % conversion : le post reste utile même pour qui n'achète pas.
+- Une seule offre par post, choisie dans livres/produits.md selon le sujet (lien exact de ce fichier), ou un cadeau gratuit contre un mot-clé (cadeaux/README.md).
+- Formule : une ligne de transition qui relie le sujet au produit + le bénéfice concret + le lien. Ex. : « Pour aller plus loin : L'Investisseur Débutant t'explique pas à pas comment épargner et investir sans te faire piéger 👉 https://campusdesbatisseurs.com/inves-debutant »
+- Placement : Facebook / LinkedIn / YouTube = juste avant la conclusion communauté, lien cliquable. TikTok (liens non cliquables) = « Le guide complet : campusdesbatisseurs.com » ou un mot-clé cadeau. Diapos : la dernière diapo peut présenter l'offre (nom du produit + « campusdesbatisseurs.com »), sans prix.
+- Jamais de prix dans les posts automatiques (les promotions changent) ; jamais de promesse de gain ni de faux témoignage.
+
 ## 7. Ma signature et mes appels à l'action
 - Conclusion avant signature : « Ici, on partage chaque jour ce qui marche vraiment, sans promesse magique. / Ceux qui nous suivent verront la différence d'ici quelques mois. 🧱 »
-- Facebook : outils/signature.txt (sans ligne Facebook). YouTube : outils/signature_youtube.txt (sans ligne YouTube). TikTok : outils/signature_tiktok.txt (première ligne invisible à garder).
-- Seul appel à l'action autorisé en phase communauté : un cadeau gratuit contre un mot-clé (« écris BÂTIR / INVESTIR / VENTE / BÂTISSEUR / PUISSANT / SUIVI / AUTO », en commentaire ou sur WhatsApp), jamais une vente. Liste des cadeaux et messages d'envoi : cadeaux/README.md.
+- Facebook : outils/signature.txt (sans ligne Facebook). YouTube : outils/signature_youtube.txt (sans ligne YouTube). TikTok : outils/signature_tiktok.txt (première ligne invisible à garder). LinkedIn : outils/signature_linkedin.txt. Ni téléphone, ni email, ni numéro WhatsApp dans la signature TikTok.
+- Appels à l'action : l'offre du jour (rubrique 6 bis) ou un cadeau gratuit contre un mot-clé (« écris BÂTIR / INVESTIR / VENTE / BÂTISSEUR / PUISSANT / SUIVI / AUTO »). Liste des cadeaux : cadeaux/README.md. Catalogue : livres/produits.md.
 - Post communauté de 20h : une question ouverte ou un choix (« Et toi ? », « A, B, C ou D ? », « Dis-nous en commentaire ») est autorisé. Le reste des interdits s'applique.
 
 ## 8. Mes hashtags
+- LinkedIn : 3 à 5 hashtags professionnels, dont #CampusDesBatisseurs.
 - Facebook : 8 à 10, dont #CampusDesBatisseurs ; jamais #fyp #pourtoi #tiktokAfrique.
 - TikTok : #fyp #pourtoi #tiktokAfrique #CampusDesBatisseurs + 5 à 9 de niche.
 
