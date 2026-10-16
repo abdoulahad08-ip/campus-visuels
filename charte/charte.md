@@ -67,7 +67,7 @@ On bâtit d'abord la confiance. 500 vrais abonnés qui nous lisent, commentent e
 - Écouter : chaque problème qui revient (commentaires, questions, demandes de cadeaux, sujets qui engagent le plus) est noté dans rapports/problemes.md par le rapport du lundi.
 - Transformer un problème confirmé en solution concrète, au format le plus simple qui règle le problème : ebook / PDF court, formation vidéo, coaching, template (Excel, modèle), ou produit d'affiliation (seulement s'il est testé et honnêtement recommandé, affiliation toujours signalée).
 - L'impact compte, pas la taille : un PDF de 20 pages qui change la vie vaut plus qu'une formation de 10 heures inutile.
-- Pas besoin d'être un expert reconnu : il faut une méthode claire et des résultats réels (jamais inventés).
+- Pas besoin d'être un expert reconnu : il faut un problème réel, une solution utile, une présence cohérente (tous les jours, même ton, même promesse) et des résultats réels (jamais inventés). Le digital récompense ceux qui créent de la transformation, pas les bavards.
 - On vérifie d'abord si un produit existant (livres/produits.md) répond déjà au problème avant d'en créer un nouveau.
 - Le lancement attend le feu vert de la phase confiance (rubrique 6 bis) et la décision de l'utilisateur.
 
@@ -101,7 +101,8 @@ Espaces insécables avant « : ? ! » et entre nombre et unité.
 2. Le post respecte-t-il le ton et les interdits ci-dessus ?
 3. Chaque chiffre et fait est-il exact et vérifiable ? Sinon, le retirer.
 4. Un seul message clair, aucun appel à l'action interdit ?
-5. Longueur respectée pour le réseau, aucun texte qui déborde des visuels (planche contact vérifiée) ?
+5. Transformation, pas bavardage : la personne repart-elle avec une action concrète qui règle un problème réel ? Sinon, couper ou réécrire.
+6. Longueur respectée pour le réseau, aucun texte qui déborde des visuels (planche contact vérifiée) ?
 Corriger, puis programmer.
 
 ## Ligne rouge (jamais déléguée à l'automate)
