@@ -35,7 +35,7 @@ Mix de contenus (plan du 16 oct 2026, plan/plan-30-jours.md) : A curiosité 25 %
 Alternance : le rapport du lundi (rapports/consignes.md) peut renforcer les piliers qui performent, sans en supprimer un sans l'accord de l'utilisateur.
 Faits « choc » : toujours vrais, sourcés et vérifiables (chiffre officiel, étude, grand média). Le choc vient du fait, jamais de l'exagération.
 
-Formats fixes chaque jour (4 posts, décision du 14 oct 2026, test de 2 semaines) : 10h Flash des dernières 24h (FB + TikTok) = attirer ; carrousel (FB + LinkedIn 12h, TikTok 18h) = valeur ; 19h vidéo (FB Reel + TikTok + YouTube) ou cadeau = confiance ; 20h post communauté (FB + TikTok : question, défi, débat, bilan) = fidéliser. Passage à 5 posts seulement si les vues par post ne baissent pas.
+Formats fixes chaque jour (4 posts, décision du 14 oct 2026, test de 2 semaines) : 10h Flash des dernières 24h (FB + TikTok) = attirer ; carrousel (FB + LinkedIn 12h, TikTok 18h) = valeur ; 19h vidéo (FB Reel + TikTok + YouTube), cadeau, ou à défaut un carrousel « cas pratique / coulisses / idée reçue » (tâche du créneau vide, dossier p19/) = confiance ; 20h post communauté (FB + TikTok : question, défi, débat, bilan) = fidéliser. Passage à 5 posts seulement si les vues par post ne baissent pas.
 
 ## 5. Mon ton
 Direct, chaleureux, exigeant, bienveillant. Tutoiement. Phrases courtes, une idée par ligne.
