@@ -1,4 +1,4 @@
-# Catalogue en vente (source : boutique Chariow, vérifié le 15 oct 2026)
+# Catalogue en vente (source : boutique Chariow, vérifié le 16 oct 2026)
 
 Liens à utiliser tels quels. Les prix changent (promotions) : ne jamais écrire de prix dans un post automatique, renvoyer vers la page du produit.
 
@@ -11,6 +11,9 @@ Liens à utiliser tels quels. Les prix changent (promotions) : ne jamais écrire
 | Lancer son Business en 30 jours (formation) | https://campusdesbatisseurs.com/prd_m0cwfmko | Bâtir : lancer une activité, passer à l'action |
 | Le Code du Bâtisseur – 12 principes (livre) | https://campusdesbatisseurs.com/code-batisseur | Mindset & liberté, carrière, patrimoine, discipline |
 | Devenir Puissant – 10 lois de la puissance sociale (livre) | https://campusdesbatisseurs.com/devenir-puissant | Mindset, confiance, leadership, relations |
+| Automatiser ses réseaux sociaux de A à Z (formation) | https://campusdesbatisseurs.com/prd_sa217pfp | IT & tech, créateurs, entrepreneurs |
+| Ail, Gingembre et Curcuma (livre) | https://campusdesbatisseurs.com/ail-vertus | Santé (hors cœur de cible, pas de promotion pour l'instant) |
+| Cosmétiques Naturels (livre) | https://campusdesbatisseurs.com/cosmetic | Beauté (hors cœur de cible, pas de promotion pour l'instant) |
 
-Pas encore en vente (brouillon) : Automatiser ses réseaux sociaux de A à Z → pour l'IT/tech, utiliser le cadeau gratuit « AUTO » ou L'Investisseur Débutant / Comprendre l'Entrepreneuriat selon le sujet.
+Produits phares (plan du 16 oct 2026) : L'Investisseur Débutant, Vendre sur Facebook, Lancer son Business en 30 jours.
 Cadeaux gratuits (conversion en contact) : voir cadeaux/README.md.
