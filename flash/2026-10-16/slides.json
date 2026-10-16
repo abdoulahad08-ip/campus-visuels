@@ -1,0 +1,65 @@
+{
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 16 octobre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 16 octobre",
+   "title": "TSMC : bénéfice en hausse de *68,7 %* grâce à l'IA",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Fed : à Bangkok, Kevin Warsh promet la *stabilité* des prix sans indice sur ses prochains taux.",
+   "body": "Source : AP"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "Wall Street : le *Dow Jones* gagne 1,08 % à 52 177 points, la tech reste à la traîne.",
+   "body": "Source : TheStreet"
+  },
+  {
+   "type": "probleme",
+   "tag": "BRVM",
+   "title": "BRVM : Le Composite *remonte* de 0,19 % jeudi après 4 séances de baisse, Orange CI bondit de 4,85 %.",
+   "body": "Source : Lejecos"
+  },
+  {
+   "type": "resultat",
+   "tag": "Startup",
+   "title": "Les startups africaines ont levé *2,49 Md$* en 9 mois en 2026, dont 1,025 Md$ au 3e trimestre.",
+   "body": "Source : TechCabal"
+  },
+  {
+   "type": "solution",
+   "tag": "Cybersécurité",
+   "title": "Cisco : une *faille critique* (9,8/10) de sa passerelle mail Secure Email Gateway est exploitée.",
+   "body": "Source : SecurityWeek"
+  },
+  {
+   "type": "promesse",
+   "tag": "IT",
+   "title": "TSMC, fabricant des puces IA, voit son bénéfice bondir de *68,7 %* au 3e trimestre.",
+   "body": "Source : TSMC (résultats officiels)"
+  },
+  {
+   "type": "probleme",
+   "tag": "Géopolitique",
+   "title": "Le sommet UE–Golfe prévu à Riyad la semaine prochaine est *reporté* après des attaques houthies.",
+   "body": "Source : The National / Drop Site"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Ici, on décode l'actualité qui compte, sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
