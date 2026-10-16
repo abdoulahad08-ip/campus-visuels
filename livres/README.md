@@ -3,7 +3,7 @@
 Pour chaque produit : `livres/<produit>/posts.md` = 5 posts de valeur + 1 post d'offre (version complète : `posts-livres-formations.md`, aussi dans le doc « Posts des livres et formations »).
 
 ## Règles
-- Posts 1 à 5 (valeur) : publiables dès maintenant, SANS citer le produit (phase confiance, charte 6 bis). Ils sont dans la banque d'idées (charte/idees.md, lignes « post prêt ») et la tâche du carrousel les reprend dans le pilier du jour.
+- Posts 1 à 5 (valeur) : publiables dès maintenant, SANS citer le produit (phase confiance, charte 6 bis), et généreux : chaque post livre une étape complète et applicable (charte 6 ter). Ils sont dans la banque d'idées (charte/idees.md, lignes « post prêt ») et la tâche du carrousel les reprend dans le pilier du jour.
 - Post 6 (offre) : seulement après le feu vert (~500 vrais abonnés engagés) et sur décision de l'utilisateur (charte 6 bis). Liens exacts : livres/produits.md. « Structurer un projet » = cadeau gratuit (écris BÂTIR).
 - Lancement d'un produit : 10 posts sur 14 jours = 6 valeur + 2 preuve (témoignages RÉELS, avec accord écrit) + 2 offre.
 - Personnages des livres (Awa, Fatou, Mamadou…) = exemples pédagogiques, toujours présentés comme tels.

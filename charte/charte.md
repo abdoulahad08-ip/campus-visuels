@@ -62,6 +62,15 @@ On bâtit d'abord la confiance. 500 vrais abonnés qui nous lisent, commentent e
 - FEU VERT pour lancer un produit digital : environ 500 vrais abonnés engagés, mesurés par le rapport du lundi (abonnés gagnés + commentaires réguliers + demandes de cadeaux + retours « j'ai appliqué »). Le rapport signale quand on approche du seuil ; c'est l'utilisateur qui décide du lancement.
 - Après le feu vert : lancement doux d'un produit à la fois (livres/README.md), toujours sans fausse urgence ni faux témoignage.
 
+## 6 ter. Du problème à la solution (décision du 16 oct 2026)
+- Donner de la valeur gratuite GÉNÉREUSE : chaque post livre une étape complète, applicable tout de suite, pas un teaser. L'audience doit penser : « S'il m'aide déjà gratuitement, j'imagine ce qu'il peut faire avec son produit payant. »
+- Écouter : chaque problème qui revient (commentaires, questions, demandes de cadeaux, sujets qui engagent le plus) est noté dans rapports/problemes.md par le rapport du lundi.
+- Transformer un problème confirmé en solution concrète, au format le plus simple qui règle le problème : ebook / PDF court, formation vidéo, coaching, template (Excel, modèle), ou produit d'affiliation (seulement s'il est testé et honnêtement recommandé, affiliation toujours signalée).
+- L'impact compte, pas la taille : un PDF de 20 pages qui change la vie vaut plus qu'une formation de 10 heures inutile.
+- Pas besoin d'être un expert reconnu : il faut une méthode claire et des résultats réels (jamais inventés).
+- On vérifie d'abord si un produit existant (livres/produits.md) répond déjà au problème avant d'en créer un nouveau.
+- Le lancement attend le feu vert de la phase confiance (rubrique 6 bis) et la décision de l'utilisateur.
+
 ## 7. Ma signature et mes appels à l'action
 - Conclusion avant signature : « Ici, on partage chaque jour ce qui marche vraiment, sans promesse magique. / Ceux qui nous suivent verront la différence d'ici quelques mois. 🧱 »
 - Facebook : outils/signature.txt (sans ligne Facebook). YouTube : outils/signature_youtube.txt (sans ligne YouTube). TikTok : outils/signature_tiktok.txt (première ligne invisible à garder). LinkedIn : outils/signature_linkedin.txt. Ni téléphone, ni email, ni numéro WhatsApp dans la signature TikTok.
