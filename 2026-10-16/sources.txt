@@ -1,0 +1,5 @@
+- BCE, taux de référence euro/dollar : https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html (1 € = 1,1208 $ le 15 oct. 2026)
+- Eurocambi, historique EUR/USD : https://eurocambi.com/en/euro-us-dollar-rate (moyenne de janvier 2026 : 1,1731 ; 1,1195 le 15 oct. 2026)
+- Parité fixe BCEAO : 1 € = 655,957 FCFA
+- Calcul : 655,957 / 1,1731 ≈ 559 FCFA ; 655,957 / 1,1208 ≈ 585 FCFA ; +4,7 % ; 100 $ ≈ 55 900 → 58 500 FCFA (≈ +2 600 FCFA), exemple pédagogique avant transport et taxes
+- Importations de riz du Sénégal ≈ 302 milliards FCFA en 2023 (ANSD, via SenePlus) : https://www.seneplus.com/economie/secteur-rizicole-une-progression-freinee-par-les-importations

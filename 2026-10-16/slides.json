@@ -1,0 +1,54 @@
+{
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Tu savais ?",
+   "title": "Le dollar a pris près de *5 %* depuis janvier.",
+   "body": "Et c'est ton panier au marché qui paie la note."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Ton FCFA est lié à l'euro, pas au *dollar.*",
+   "body": "Quand l'euro baisse face au dollar, tout ce qui se paie en dollars coûte plus de FCFA."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "Comprendre ce lien pour mieux *protéger* ton budget.",
+   "body": "Pétrole, riz, blé, téléphones : beaucoup s'achètent en dollars sur le marché mondial."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 1/3",
+   "title": "Surveille un seul chiffre : *euro/dollar.*",
+   "body": "1 € = 655,957 FCFA, c'est fixe. Si l'euro recule face au dollar, le dollar monte en FCFA."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 2/3",
+   "title": "Choisis le *local* quand c'est possible.",
+   "body": "Riz local, mil, produits d'ici : ils dépendent beaucoup moins du dollar."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 3/3",
+   "title": "Tu vends de l'importé ? Calcule au taux *du jour.*",
+   "body": "Pas celui d'il y a 3 mois. Sinon ta marge fond sans que tu le voies."
+  },
+  {
+   "type": "resultat",
+   "tag": "Le résultat",
+   "title": "Le même produit à 100 $, entre janvier et octobre :",
+   "body": "Avant transport et taxes. Le produit n'a pas changé, le dollar si.",
+   "big": "+2 600 FCFA"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par jour. Tu verras la *différence.*",
+   "body": "Des explications claires, de la valeur, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
