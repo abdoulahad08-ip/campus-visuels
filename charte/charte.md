@@ -30,6 +30,8 @@ Règle n° 1 : chaque contenu doit CHOQUER (accroche qui arrête le pouce) ET do
 | Samedi | Bâtir | business, carrière, compétences, anglais : ce que font ceux qui réussissent + les étapes pour commencer |
 | Dimanche | Mindset & liberté | la vérité dérangeante (liberté financière, temps, discipline, choix de vie) + un exercice à faire |
 
+Mix de contenus (plan du 16 oct 2026, plan/plan-30-jours.md) : A curiosité 25 %, B éducation 35 %, C erreurs et idées reçues 15 %, D démonstrations et études de cas 10 %, E preuves et coulisses 15 % ; présentation produit et conversion seulement après le feu vert.
+
 Alternance : le rapport du lundi (rapports/consignes.md) peut renforcer les piliers qui performent, sans en supprimer un sans l'accord de l'utilisateur.
 Faits « choc » : toujours vrais, sourcés et vérifiables (chiffre officiel, étude, grand média). Le choc vient du fait, jamais de l'exagération.
 
