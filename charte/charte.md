@@ -35,7 +35,12 @@ Mix de contenus (plan du 16 oct 2026, plan/plan-30-jours.md) : A curiosité 25 %
 Alternance : le rapport du lundi (rapports/consignes.md) peut renforcer les piliers qui performent, sans en supprimer un sans l'accord de l'utilisateur.
 Faits « choc » : toujours vrais, sourcés et vérifiables (chiffre officiel, étude, grand média). Le choc vient du fait, jamais de l'exagération.
 
-Formats fixes chaque jour (4 posts, décision du 14 oct 2026, test de 2 semaines) : 10h Flash des dernières 24h (FB + TikTok) = attirer ; carrousel (FB + LinkedIn 12h, TikTok 18h) = valeur ; 19h vidéo (FB Reel + TikTok + YouTube), cadeau, ou à défaut un carrousel « cas pratique / coulisses / idée reçue » (tâche du créneau vide, dossier p19/) = confiance ; 20h post communauté (FB + TikTok : question, défi, débat, bilan) = fidéliser. Passage à 5 posts seulement si les vues par post ne baissent pas.
+Calendrier de publication (décision du 16 oct 2026, remplace l'ancien rythme ; le contenu et la ligne éditoriale ne changent pas) :
+- FACEBOOK (construire une communauté) : 09h story « La pensée du jour » (habitude) · 12h « L'information qui compte » = le Flash, publication courte (attirer) · 17h « La leçon stratégique » = le carrousel du jour (expertise) · 19h « L'idée qui dérange » = Reel (nouvelles personnes ; les jours où une vidéo ou un cadeau est déjà programmé à 19h, il reste prioritaire) · 21h « Le débat du jour » = question ou prise de position (conversations).
+- TIKTOK (attirer une nouvelle audience) : 09h « Une vérité méconnue », vidéo 20–40 s · 14h « Un fait ou une actualité » = le Flash en vidéo courte · 19h « Une leçon applicable » = le carrousel du jour en vidéo 30–90 s (18h si 19h est déjà pris par une vidéo ou un cadeau) · 22h « Une question controversée » = vidéo ou publication adaptée.
+- YOUTUBE (bibliothèque de référence) : mardi, jeudi, samedi 16h = vidéo approfondie / étude de cas / méthode ou tutoriel (vidéos fournies par l'utilisateur) ; autres jours 16h = Short issu de la leçon du jour.
+- LINKEDIN (lundi–vendredi, 1 post/jour) : lundi 08h idée forte stratégie ou discipline · mardi 12h30 expertise technique (réseaux, systèmes, cybersécurité) · mercredi 08h problème d'entreprise et sa solution · jeudi 12h30 étude de cas, méthode ou retour d'expérience (réel uniquement) · vendredi 08h bilan, leçon entrepreneuriale ou réflexion stratégique.
+- Vidéos automatiques : diapos TikTok assemblées en vidéo par outils/slides_video.sh (fondus, léger zoom). Une vraie vidéo tournée par l'utilisateur reste toujours prioritaire.
 
 ## 5. Mon ton
 Direct, chaleureux, exigeant, bienveillant. Tutoiement. Phrases courtes, une idée par ligne.
