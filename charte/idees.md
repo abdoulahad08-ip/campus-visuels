@@ -70,7 +70,7 @@
 - [ ] [Science] Le tonique gingembre-citron-miel de grand-mère, version précise — post prêt : livres/ail-gingembre-curcuma/posts.md (post 5)
 
 ## Géopolitique & infos (vendredi)
-- [ ] [Géopo] Quand le dollar monte, ton panier au marché coûte plus cher — le lien expliqué simplement
+- [x] [Géopo] Quand le dollar monte, ton panier au marché coûte plus cher — le lien expliqué simplement (2026-10-16)
 - [ ] [Géopo] Le prix du pétrole décide en partie du prix de ton transport — comment ça marche
 - [ ] [Géopo] Le franc CFA : ce que personne ne t'explique simplement — faits, histoire, débat (neutre)
 - [ ] [Géopo] Pourquoi le monde entier regarde les terres rares africaines — enjeux expliqués
