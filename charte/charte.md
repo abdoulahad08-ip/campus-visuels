@@ -54,20 +54,18 @@ Mentions obligatoires :
 - Bourse / investissement / placement : « Contenu éducatif, pas un conseil en investissement. Tout placement comporte un risque de perte. »
 - Flash : « Contenu d'information, pas un conseil en investissement. »
 
-## 6 bis. Vente douce : la communauté d'abord (décision du 15 oct 2026)
-Priorité : construire une communauté de qualité qui nous fait confiance. La vente vient ensuite, naturellement.
-- 90 % de valeur pure. On ne pousse jamais un produit ; on le mentionne seulement quand il prolonge vraiment le sujet.
-- Carrousel du jour : au maximum UNE ligne discrète en fin de texte (« Pour aller plus loin : <produit> 👉 <lien exact de livres/produits.md> » ; TikTok : « … sur campusdesbatisseurs.com »). La dernière diapo reste communautaire (« Une brique par jour… »), jamais une pub.
-- Flash de 10h et post communauté de 20h : AUCUNE mention de produit (information et échange uniquement).
-- Cadeaux gratuits contre un mot-clé (cadeaux/README.md) = conversion principale : ils créent le lien et la confiance.
-- Jamais de prix dans les posts automatiques, de fausse urgence, de promesse de gain, de faux témoignage, ni de « achète maintenant ».
-- Les signatures Facebook / YouTube gardent la liste de nos guides : c'est la vitrine permanente.
-- Lancement plus appuyé d'un produit : seulement sur décision de l'utilisateur (posts 6 « offre » de livres/<produit>/posts.md).
+## 6 bis. Phase confiance : on ne vend pas encore (décision du 16 oct 2026)
+On bâtit d'abord la confiance. 500 vrais abonnés qui nous lisent, commentent et appliquent nos conseils valent plus que 50 000 abonnés passifs, parce qu'ils croient déjà en nous.
+- AUCUNE vente dans les posts : pas de mention de produit, de « Pour aller plus loin : <livre> », de lien de vente, de prix ni de « achète ». 100 % valeur.
+- Seuls appels autorisés : répondre en commentaire (post de 20h) et les cadeaux GRATUITS contre un mot-clé (cadeaux/README.md), qui créent le lien.
+- Les signatures Facebook / YouTube gardent la liste de nos guides (vitrine passive, décidée par l'utilisateur) ; rien d'autre ne parle des produits.
+- FEU VERT pour lancer un produit digital : environ 500 vrais abonnés engagés, mesurés par le rapport du lundi (abonnés gagnés + commentaires réguliers + demandes de cadeaux + retours « j'ai appliqué »). Le rapport signale quand on approche du seuil ; c'est l'utilisateur qui décide du lancement.
+- Après le feu vert : lancement doux d'un produit à la fois (livres/README.md), toujours sans fausse urgence ni faux témoignage.
 
 ## 7. Ma signature et mes appels à l'action
 - Conclusion avant signature : « Ici, on partage chaque jour ce qui marche vraiment, sans promesse magique. / Ceux qui nous suivent verront la différence d'ici quelques mois. 🧱 »
 - Facebook : outils/signature.txt (sans ligne Facebook). YouTube : outils/signature_youtube.txt (sans ligne YouTube). TikTok : outils/signature_tiktok.txt (première ligne invisible à garder). LinkedIn : outils/signature_linkedin.txt. Ni téléphone, ni email, ni numéro WhatsApp dans la signature TikTok.
-- Appels à l'action : un cadeau gratuit contre un mot-clé (« écris BÂTIR / INVESTIR / VENTE / BÂTISSEUR / PUISSANT / SUIVI / AUTO »). Liste des cadeaux : cadeaux/README.md. Catalogue (pour la ligne discrète du carrousel) : livres/produits.md.
+- Appels à l'action (phase confiance) : un cadeau gratuit contre un mot-clé (« écris BÂTIR / INVESTIR / VENTE / BÂTISSEUR / PUISSANT / SUIVI / AUTO »). Liste des cadeaux : cadeaux/README.md. Catalogue (pour plus tard, après le feu vert) : livres/produits.md.
 - Post communauté de 20h : une question ouverte ou un choix (« Et toi ? », « A, B, C ou D ? », « Dis-nous en commentaire ») est autorisé. Le reste des interdits s'applique.
 
 ## 8. Mes hashtags
