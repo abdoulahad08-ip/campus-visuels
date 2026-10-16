@@ -41,7 +41,7 @@ Formats fixes chaque jour (4 posts, décision du 14 oct 2026, test de 2 semaines
 Direct, chaleureux, exigeant, bienveillant. Tutoiement. Phrases courtes, une idée par ligne.
 Exemples locaux : FCFA, Wave, Orange Money, Dakar, tontine, BRVM, BCEAO.
 Structure B.Â.T.I.R. : Curiosité → Problème → Promesse → Solution (3 étapes) → Résultat.
-Diapo 1 / première ligne = accroche choc (question douloureuse ou chiffre surprenant, ≤ 10 mots).
+Diapo 1 / première ligne = accroche choc (question douloureuse ou chiffre surprenant, ≤ 10 mots), choisie dans charte/accroches.md (formule variée chaque jour).
 
 ## 6. Ce que je ne dis jamais
 - Promesse de gain, « gain garanti », « sans risque ».
