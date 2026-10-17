@@ -1,0 +1,65 @@
+{
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 17 octobre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nRegarde jusqu'au bout"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 17 octobre",
+   "title": "Le Nasdaq chute de *2 %* : la peur de l'IA",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Sénégal : à Bangkok, Dakar vise une restructuration de sa dette d'ici fin 2026 avec le *FMI*.",
+   "body": "Source : RFI"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "Wall Street : le *Nasdaq* chute de 2,14 % vendredi, plombé par les craintes d'une bulle de l'IA.",
+   "body": "Source : TheStreet"
+  },
+  {
+   "type": "probleme",
+   "tag": "BRVM",
+   "title": "Le Composite *recule* de 0,94 % à 532,61 points vendredi ; CFAO CI bondit de 7,41 %.",
+   "body": "Source : Lejecos"
+  },
+  {
+   "type": "resultat",
+   "tag": "Startup",
+   "title": "Égypte : l'entrée en bourse de la fintech MNT-Halan demandée *43,6 fois* par les particuliers.",
+   "body": "Source : Zawya"
+  },
+  {
+   "type": "solution",
+   "tag": "Cybersécurité",
+   "title": "BeyondTrust : une *faille critique* (9,3/10) exploitée par un groupe lié à la Chine depuis août.",
+   "body": "Source : SecurityWeek"
+  },
+  {
+   "type": "promesse",
+   "tag": "IT",
+   "title": "Taïwan va financer jusqu'à *4 Md$* un parc industriel au Texas pour les fournisseurs de Nvidia.",
+   "body": "Source : Bloomberg"
+  },
+  {
+   "type": "probleme",
+   "tag": "Géopolitique",
+   "title": "À Bruxelles, en présence de Zelensky, l'UE prépare un *22e paquet* de sanctions contre la Russie.",
+   "body": "Source : CNN"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Ici, on décode l'actualité qui compte, sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
