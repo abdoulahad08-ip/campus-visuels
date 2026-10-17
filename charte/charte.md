@@ -35,7 +35,14 @@ Mix de contenus (plan du 16 oct 2026, plan/plan-30-jours.md) : A curiosité 25 %
 Alternance : le rapport du lundi (rapports/consignes.md) peut renforcer les piliers qui performent, sans en supprimer un sans l'accord de l'utilisateur.
 Faits « choc » : toujours vrais, sourcés et vérifiables (chiffre officiel, étude, grand média). Le choc vient du fait, jamais de l'exagération.
 
-Formats fixes chaque jour (4 posts, décision du 14 oct 2026, test de 2 semaines) : 10h Flash des dernières 24h (FB + TikTok) = attirer ; carrousel (FB + LinkedIn 12h, TikTok 18h) = valeur ; 19h vidéo (FB Reel + TikTok + YouTube), cadeau, ou à défaut un carrousel « cas pratique / coulisses / idée reçue » (tâche du créneau vide, dossier p19/) = confiance ; 20h post communauté (FB + TikTok : question, défi, débat, bilan) = fidéliser. Passage à 5 posts seulement si les vues par post ne baissent pas.
+Calendrier de publication (décision de l'utilisateur du 17 oct 2026 ; remplace les rythmes précédents ; ligne éditoriale et phase confiance inchangées) :
+- 08h : story Facebook (pensée, question ou mindset) = créer une relation. Dossier story/.
+- 10h : carrousel valeur (problème, solution, application) sur Facebook, TikTok et LinkedIn = éduquer et susciter les partages. Dossier AAAA-MM-JJ/.
+- 12h : carrousel Flash infos (actualité + décryptage « Ce que ça change pour toi ») sur Facebook et LinkedIn = attirer l'attention ; 14h : le même Flash sur TikTok = visibilité. Dossier flash/.
+- 16h : Short YouTube (mini-leçon) = nouveaux spectateurs. UNIQUEMENT des vidéos fournies par l'utilisateur ; sans vidéo, le créneau reste vide.
+- 17h : carrousel expérience, vérité ou transformation sur Facebook, TikTok et LinkedIn = marquer les esprits, crédibilité. Dossier p17/.
+- 19h : vidéo leçon longue sur Facebook, TikTok et YouTube = confiance et expertise. UNIQUEMENT des vidéos fournies par l'utilisateur (ou cadeaux déjà programmés) ; pas de diaporama automatique ; sans vidéo, le créneau reste vide.
+- 21h : question, sondage ou cadeau gratuit sur Facebook et TikTok = interactions. Pendant la phase confiance, l'« offre ciblée » est TOUJOURS un cadeau gratuit (mot-clé en commentaire), jamais un produit payant (confirmé par l'utilisateur le 17 oct 2026). Dossier soir/.
 
 ## 5. Mon ton
 Direct, chaleureux, exigeant, bienveillant. Tutoiement. Phrases courtes, une idée par ligne.
