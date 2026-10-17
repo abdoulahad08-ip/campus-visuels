@@ -1,0 +1,36 @@
+{
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Idée reçue",
+   "title": "10 000 heures ne feront pas de toi un *expert.*",
+   "body": "Ce que la science a vraiment trouvé."
+  },
+  {
+   "type": "probleme",
+   "tag": "Ce qu'on croit",
+   "title": "Il suffirait de *répéter* assez longtemps pour devenir bon.",
+   "body": "Alors on répète la même chose, sans méthode, pendant des années."
+  },
+  {
+   "type": "solution",
+   "tag": "En réalité",
+   "title": "La pratique n'explique que *12 %* des écarts de niveau.",
+   "body": "88 études analysées (Princeton, 2014). Dans les métiers : moins de 1 %."
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce qu'il faut faire",
+   "title": "Pratique *mieux*, pas plus longtemps.",
+   "body": "Un objectif précis, un retour honnête, une correction. Puis on recommence.",
+   "big": "Mieux > plus"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Une brique par jour. Dans quelques mois, tu verras la *différence.*",
+   "body": "Des solutions concrètes, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
