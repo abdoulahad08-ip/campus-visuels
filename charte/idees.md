@@ -77,7 +77,7 @@
 - [ ] [Géopo] Le Sénégal producteur de pétrole et de gaz : ce que ça change (ou pas) pour toi — faits vérifiés
 
 ## Bâtir (samedi) — business, carrière, compétences, anglais
-- [ ] [Bâtir] 7 questions pièges en entretien qui éliminent la plupart des candidats — comment y répondre
+- [x] [Bâtir] 7 questions pièges en entretien qui éliminent la plupart des candidats — comment y répondre (2026-10-17)
 - [ ] [Bâtir] Ton CV est lu en 6 secondes — ce que le recruteur regarde vraiment
 - [ ] [Bâtir] Lancer une activité avec 50 000 FCFA : les 5 étapes — pas à pas, sans promesse de gain
 - [ ] [Bâtir] 10 phrases d'anglais qui te font paraître pro dès le premier jour — liste
