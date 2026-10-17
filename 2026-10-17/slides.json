@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Entretien d'embauche",
+   "title": "3 questions d'entretien qui *piègent* tant de candidats.",
+   "body": "Et la méthode simple pour y répondre."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Ce ne sont pas des questions. Ce sont des *tests.*",
+   "body": "Le recruteur écoute ta structure, ton honnêteté et ta préparation."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "3 réponses à préparer *ce soir*, pour ne plus improviser.",
+   "body": "Une méthode simple pour chaque question."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 1/3",
+   "title": "« Parle-moi de toi » : *présent, passé, futur.*",
+   "body": "Ce que tu fais, une expérience utile pour ce poste, pourquoi tu es là."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 2/3",
+   "title": "« Ton plus grand défaut ? » : un vrai, *et ton remède.*",
+   "body": "Un défaut réel qui ne bloque pas le poste, puis ce que tu fais pour progresser."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 3/3",
+   "title": "« Pourquoi toi ? » : *3 preuves*, pas des qualités.",
+   "body": "Relis l'offre. Repère 3 besoins. Donne un exemple réel pour chacun."
+  },
+  {
+   "type": "resultat",
+   "tag": "Le résultat",
+   "title": "Chaque réponse préparée, dite à voix haute, tient en :",
+   "big": "1 minute"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Une brique par jour. Dans quelques mois, tu verras la *différence.*",
+   "body": "Des solutions concrètes, de la valeur, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
