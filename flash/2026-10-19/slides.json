@@ -1,0 +1,65 @@
+{
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 19 octobre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 19 octobre",
+   "title": "Ormuz : deux pétroliers en *feu*, selon l'Iran",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Chine : la croissance *accélère* à 4,5 % sur un an au 3e trimestre, au-dessus des attentes.",
+   "body": "Source : Xinhua"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "Paris : le CAC 40 *recule* d'environ 1,2 % lundi matin, après des manifestations contre la vie chère.",
+   "body": "Source : Zonebourse"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "Nscale, start-up britannique de l'IA, *perd Microsoft* pour son data center d'Essex avant son IPO.",
+   "body": "Source : Reuters"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "France : une vingtaine de *fuites de données* revendiquées, plus de 9 millions de personnes visées.",
+   "body": "Source : Journal du Coin"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "IA : au moins *47 grands projets* de data centers américains retardés, retirés ou bloqués en 2026.",
+   "body": "Source : Financial Times"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Ormuz : l'Iran affirme que deux pétroliers ont pris *feu* après avoir heurté des mines.",
+   "body": "Source : Al Jazeera"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Pétrole cher : transport et marché peuvent *coûter* plus",
+   "body": "Le Brent tournait autour de 107 $ lundi : un poids pour les pays importateurs."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Ici, on décode l'actualité qui compte, sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
