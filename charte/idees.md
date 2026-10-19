@@ -10,7 +10,7 @@
 ## Finance & argent (lundi)
 - [x] [Finance] Tu gagnes plus et il ne reste rien à la fin du mois — erreur/bonne pratique (2026-10-12)
 - [x] [Finance] 20 % par mois « sans risque » : les signes d'une arnaque — checklist (2026-10-14)
-- [ ] [Finance] Ton café à 500 FCFA par jour te coûte 180 000 FCFA par an — calcul + où mettre cet argent
+- [x] [Finance] Ton café à 500 FCFA par jour te coûte 180 000 FCFA par an — calcul + où mettre cet argent (2026-10-19)
 - [ ] [Finance] L'inflation mange ton épargne en silence — ce que ça veut dire et comment se protéger
 - [ ] [Finance] Les frais cachés de ton Mobile Money et de ta banque — comment les repérer et les réduire
 - [ ] [Finance] Tu n'as pas de problème de salaire, tu as un problème de système — le budget 50/30/20 en FCFA
