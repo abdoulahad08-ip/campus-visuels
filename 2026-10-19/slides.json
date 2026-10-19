@@ -1,0 +1,54 @@
+{
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Le calcul qui fait mal",
+   "title": "Tes 500 FCFA par jour = *182 500 FCFA* par an.",
+   "body": "Café, crédit, snack : les petites dépenses ne sont jamais petites."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Ce ne sont pas les grosses dépenses qui te *vident.*",
+   "body": "Ce sont les petites, répétées chaque jour, que personne ne compte."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "3 étapes pour *récupérer* cet argent, sans tout te refuser.",
+   "body": "Tu gardes ce qui compte. Tu coupes ce qui fuit."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 1/3",
+   "title": "Repère tes *fuites* quotidiennes.",
+   "body": "Pendant 7 jours, note chaque dépense de moins de 1 000 FCFA."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 2/3",
+   "title": "Fais le calcul *× 365.*",
+   "body": "Multiplie chaque petite dépense par 365. Garde seulement celles qui valent ce prix."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 3/3",
+   "title": "Mets l'économie de côté *le jour même.*",
+   "body": "Chaque fois que tu renonces, transfère le montant sur un compte d'épargne séparé."
+  },
+  {
+   "type": "resultat",
+   "tag": "Le résultat",
+   "title": "500 FCFA mis de côté chaque jour pendant 5 ans :",
+   "body": "Sans intérêts, sans miracle. Juste de la régularité.",
+   "big": "912 500 FCFA"
+  },
+  {
+   "type": "cta",
+   "tag": "À toi de jouer",
+   "title": "Note tes petites dépenses *dès aujourd'hui.*",
+   "body": "Ce soir, fais le total, puis multiplie par 365.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
