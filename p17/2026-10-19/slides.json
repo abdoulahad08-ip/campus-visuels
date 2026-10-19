@@ -1,0 +1,41 @@
+{
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Dans les coulisses",
+   "title": "Le post qu'on a *failli* publier aujourd'hui.",
+   "body": "Et pourquoi on l'a jeté avant de le programmer."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le brouillon",
+   "title": "Notre idée : « L'inflation *ronge* ton épargne. »",
+   "body": "Un titre qui fait peur, donc qui fait des vues. Mais est-ce vrai en ce moment ?"
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1 : la source",
+   "title": "On cherche le chiffre *officiel.*",
+   "body": "ANSD : au Sénégal, les prix ont augmenté de 1 % sur un an en septembre 2026."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2 : la décision",
+   "title": "Le chiffre ne colle pas au titre ? On *change* de sujet.",
+   "body": "On ne gonfle jamais un chiffre pour faire peur. Le choc doit venir du fait."
+  },
+  {
+   "type": "resultat",
+   "tag": "Ta règle à toi",
+   "title": "Avant de croire ou partager un chiffre, vérifie :",
+   "big": "Qui ? Quand ? Où ?"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Une brique par jour. Dans quelques mois, tu verras la *différence.*",
+   "body": "Des faits vérifiés, de la valeur, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
