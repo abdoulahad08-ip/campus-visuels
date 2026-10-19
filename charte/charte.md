@@ -82,7 +82,7 @@ On bâtit d'abord la confiance. 500 vrais abonnés qui nous lisent, commentent e
 
 ## 7. Ma signature et mes appels à l'action
 - Conclusion avant signature : « Ici, on partage chaque jour ce qui marche vraiment, sans promesse magique. / Ceux qui nous suivent verront la différence d'ici quelques mois. 🧱 »
-- Facebook : outils/signature.txt (sans ligne Facebook). YouTube : outils/signature_youtube.txt (sans ligne YouTube). TikTok : outils/signature_tiktok.txt (première ligne invisible à garder). LinkedIn : outils/signature_linkedin.txt. Ni téléphone, ni email, ni numéro WhatsApp dans la signature TikTok.
+- Facebook : outils/signature.txt (sans ligne Facebook). YouTube : outils/signature_youtube.txt (sans ligne YouTube). TikTok : outils/signature_tiktok.txt (première ligne invisible à garder). LinkedIn : outils/signature_linkedin.txt. Ni téléphone, ni email, ni numéro WhatsApp dans la signature TikTok (version du 19 oct 2026 : 3 lignes, sans site web). Lien unique (smartlink Metricool) : https://t.mtrbio.com/campusdesbatisseurs, présent dans les signatures Facebook, YouTube et LinkedIn ; c'est aussi le lien à mettre en bio.
 - Appels à l'action (phase confiance) : un cadeau gratuit contre un mot-clé (« écris BÂTIR / INVESTIR / VENTE / BÂTISSEUR / PUISSANT / SUIVI / AUTO »). Liste des cadeaux : cadeaux/README.md. Catalogue (pour plus tard, après le feu vert) : livres/produits.md.
 - Post communauté de 20h : une question ouverte ou un choix (« Et toi ? », « A, B, C ou D ? », « Dis-nous en commentaire ») est autorisé. Le reste des interdits s'applique.
 
