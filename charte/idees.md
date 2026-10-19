@@ -26,6 +26,7 @@
 - [ ] [Finance] Tu crois gagner 3 000 FCFA par vente. Tu en gagnes 200. — post prêt : livres/vendre-sur-facebook/posts.md (post 2)
 - [ ] [Finance] Le calcul qui dit oui ou non à ton projet — post prêt : livres/formation-structurer-projet-5-etapes/posts.md (post 4)
 - [ ] [Finance] Les 2 lignes que tout le monde oublie dans son budget — post prêt : livres/formation-structurer-projet-5-etapes/posts.md (post 5)
+- [ ] [Finance] Fais ce test : où sont partis tes 10 000 FCFA cette semaine ? — défi 7 jours de dépenses notées + modèle de tableau simple (carrousel)
 
 ## BRVM & bourse (mardi)
 - [x] [Bourse] La bourse aussi simple qu'une boulangerie — pas à pas (2026-10-13)
@@ -42,6 +43,7 @@
 - [ ] [BRVM] Ce que tu dois savoir sur la BRVM avant d'y mettre un franc — post prêt : livres/portefeuille-de-fer/posts.md (post 3)
 - [ ] [BRVM] Les douves : pourquoi certaines entreprises résistent aux tempêtes — post prêt : livres/portefeuille-de-fer/posts.md (post 4)
 - [ ] [BRVM] 30 minutes par mois : le rituel de l'investisseur patient — post prêt : livres/portefeuille-de-fer/posts.md (post 5)
+- [ ] [Bourse] La plus grosse introduction en bourse d'Afrique : comment des particuliers ont pu acheter des actions — ce qu'est une IPO, étape par étape, chiffres officiels vérifiés (carrousel)
 
 ## Cybersécurité (mercredi)
 - [ ] [Cyber] Ton code Wave ou Orange Money peut être volé en 30 secondes — 4 réglages anti-vol
@@ -52,6 +54,7 @@
 - [ ] [Cyber] Les fausses vidéos IA (deepfakes) qui imitent des célébrités pour arnaquer — les repérer
 - [ ] [Cyber] Le faux message « Meta Support » qui vole des pages — post prêt : livres/vendre-sur-facebook/posts.md (post 5)
 - [ ] [Cyber] Ce que tu ne dois jamais confier à un outil automatique — post prêt : livres/formation-automatiser-reseaux/posts.md (post 5)
+- [ ] [Cyber] Ton appli Wave ou Orange Money : 3 réglages à vérifier ce soir — code secret, verrouillage de l'appli, alertes (vérifier les menus dans les applis officielles) (carrousel)
 
 ## IT, tech & science (jeudi)
 - [x] [Science] Ton cerveau ne finit de se développer que vers 25 ans — ce que la science dit des décisions d'argent (2026-10-15)
@@ -75,6 +78,7 @@
 - [ ] [Géopo] Le franc CFA : ce que personne ne t'explique simplement — faits, histoire, débat (neutre)
 - [ ] [Géopo] Pourquoi le monde entier regarde les terres rares africaines — enjeux expliqués
 - [ ] [Géopo] Le Sénégal producteur de pétrole et de gaz : ce que ça change (ou pas) pour toi — faits vérifiés
+- [ ] [Géopo] Pourquoi le prix de ton sac de riz dépend du dollar — importations, change et transport expliqués + 3 réflexes (vérifier d'abord l'évolution réelle des prix avec une source officielle) (carrousel)
 
 ## Bâtir (samedi) — business, carrière, compétences, anglais
 - [x] [Bâtir] 7 questions pièges en entretien qui éliminent la plupart des candidats — comment y répondre (2026-10-17)
@@ -106,6 +110,7 @@
 - [ ] [Bâtir] « Réussir mon atelier » n'est pas un objectif — post prêt : livres/formation-structurer-projet-5-etapes/posts.md (post 2)
 - [ ] [Bâtir] Une précommande payée vaut plus que cent « bonne idée ! » — post prêt : livres/formation-structurer-projet-5-etapes/posts.md (post 3)
 - [ ] [Bâtir] Le document qui fait qu'on reconnaît ton style en 2 secondes — post prêt : livres/formation-automatiser-reseaux/posts.md (post 2)
+- [ ] [Bâtir] « Tell me about yourself » : ta réponse d'entretien en anglais en 3 phrases — modèle présent/passé/futur à copier (carrousel ou vidéo)
 
 ## Mindset & liberté (dimanche)
 - [ ] [Liberté] Tu échanges 40 ans de ta vie contre un salaire : as-tu fait le calcul ? — définir sa liberté financière
