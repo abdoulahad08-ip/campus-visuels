@@ -30,7 +30,7 @@
 
 ## BRVM & bourse (mardi)
 - [x] [Bourse] La bourse aussi simple qu'une boulangerie — pas à pas (2026-10-13)
-- [ ] [BRVM] Tu utilises leurs services tous les jours, ils sont cotés en bourse — quelles entreprises sont à la BRVM (vérifier la liste officielle)
+- [x] [BRVM] Tu utilises leurs services tous les jours, ils sont cotés en bourse — quelles entreprises sont à la BRVM (vérifier la liste officielle) (2026-10-20)
 - [ ] [BRVM] Une entreprise peut te payer chaque année sans que tu travailles : le dividende — comment ça marche
 - [ ] [BRVM] 10 000 FCFA par mois pendant 10 ans : le calcul qui surprend — intérêts composés (calcul, pas de promesse)
 - [ ] [BRVM] Pourquoi 9 Africains sur 10 n'investissent jamais en bourse — les vrais freins et comment ouvrir un compte (SGI)
