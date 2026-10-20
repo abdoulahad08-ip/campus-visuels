@@ -1,0 +1,41 @@
+{
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Idée reçue",
+   "title": "Un gros dividende n'est pas toujours une *bonne affaire.*",
+   "body": "Ce que beaucoup oublient de calculer avant d'acheter."
+  },
+  {
+   "type": "probleme",
+   "tag": "L'idée reçue",
+   "title": "On regarde le montant en FCFA. Pas ce qu'il *rapporte* vraiment.",
+   "body": "1 000 FCFA par action, ça paraît plus que 400 FCFA. Pas forcément."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1 : le rendement",
+   "title": "Divise le dividende par le *prix* de l'action.",
+   "body": "Exemple : 1 000 sur 25 000 FCFA = 4 %. 400 sur 5 000 FCFA = 8 %."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2 : la régularité",
+   "title": "Regarde les *5 dernières* années, pas une seule.",
+   "body": "Un dividende exceptionnel une fois ne dit rien de l'avenir. L'historique est sur brvm.org."
+  },
+  {
+   "type": "resultat",
+   "tag": "Ta règle à toi",
+   "title": "Avant de comparer deux dividendes, calcule toujours :",
+   "big": "Dividende ÷ prix"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Une brique par jour. Dans quelques mois, tu verras la *différence.*",
+   "body": "Des faits vérifiés, de la valeur, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
