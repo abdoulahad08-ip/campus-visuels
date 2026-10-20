@@ -1,0 +1,54 @@
+{
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Personne ne t'a dit ça",
+   "title": "Tu paies Orange chaque jour. Elle est *cotée en bourse.*",
+   "body": "Sonatel, l'entreprise derrière Orange Sénégal, appartient en partie à des actionnaires comme toi."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "On croit que la bourse, c'est *loin de nous.*",
+   "body": "Faux. La BRVM est à Abidjan et cote une cinquantaine d'entreprises de notre région."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "3 étapes pour *comprendre* les entreprises que tu utilises déjà.",
+   "body": "Sans acheter quoi que ce soit aujourd'hui. Juste ouvrir les yeux."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 1/3",
+   "title": "Repère les noms que tu *connais.*",
+   "body": "Sonatel, TotalEnergies Sénégal, Orange CI, CIE, SODECI, Solibra, Nestlé CI, des banques…"
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 2/3",
+   "title": "Comprends ce qu'elles *reversent.*",
+   "body": "Le dividende : une part du bénéfice versée aux actionnaires. Il n'est jamais garanti."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 3/3",
+   "title": "Lis leur fiche *avant* de décider.",
+   "body": "Sur brvm.org : cours, rapports annuels et dividendes passés. Gratuit, en français."
+  },
+  {
+   "type": "resultat",
+   "tag": "Exemple réel",
+   "title": "Sonatel : 1 740 FCFA par action (exercice 2025). Avec 10 actions :",
+   "body": "Montant annoncé par l'entreprise. Le cours de l'action, lui, peut baisser.",
+   "big": "17 400 FCFA"
+  },
+  {
+   "type": "cta",
+   "tag": "À toi de jouer",
+   "title": "Trouve 3 entreprises cotées que tu utilises *déjà.*",
+   "body": "Écris-les en commentaire. On répond à chaque commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
