@@ -1,0 +1,65 @@
+{
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 20 octobre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 20 octobre",
+   "title": "300 milliards FCFA dus aux *entreprises* : l'État promet de payer",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Sénégal : l'État réserve 300 milliards FCFA en 2026 pour payer ses *dettes* envers les entreprises.",
+   "body": "Source : APS"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : le Composite *recule* de 0,58 % à 529,51 points lundi, avec 1,9 milliard FCFA échangés.",
+   "body": "Source : Lejecos"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "Tenstorrent, start-up américaine de puces IA, *lève 1,5 milliard $* et vaut désormais 6,2 milliards $.",
+   "body": "Source : TechCrunch"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "France : un pirate *revendique* le vol de données de 2,9 millions de propriétaires de chiens et chats.",
+   "body": "Source : Police & Réalités"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "États-Unis : les agences fédérales civiles doivent *retirer* les produits d'IA du chinois DeepSeek.",
+   "body": "Source : MeriTalk"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Ormuz : selon les médias iraniens, Téhéran ajoute *122 pétroliers* à sa liste de navires fautifs.",
+   "body": "Source : Benzinga, d'après Mehr"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Quand l'État paie, la trésorerie des PME *respire*",
+   "body": "Payées à temps, les entreprises peuvent régler salaires et fournisseurs sans retard."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Ici, on décode l'actualité qui compte, sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
