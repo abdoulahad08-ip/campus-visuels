@@ -1,0 +1,54 @@
+{
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Alerte en ce moment",
+   "title": "Cette arnaque vide des comptes *Mobile Money* en ce moment.",
+   "body": "La Police nationale a lancé l'alerte le 9 octobre 2026. Voici comment te protéger."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Un lien « match gratuit » et ton code est *volé.*",
+   "body": "Une fausse appli reçue sur WhatsApp lit ton code. Les transferts passent sans que tu le voies."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "3 réflexes pour *verrouiller* ton argent dès ce soir.",
+   "body": "Gratuits. Deux minutes par jour. Valables pour Wave comme pour Orange Money."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 1/3",
+   "title": "Ton code reste *secret*, même pour tes proches.",
+   "body": "Pour t'envoyer de l'argent, personne n'en a besoin. Trop simple ou déjà partagé ? Change-le."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 2/3",
+   "title": "N'installe *rien* reçu par message.",
+   "body": "Seulement depuis Play Store ou App Store. Liens « match », « film », « bonus » : jamais."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 3/3",
+   "title": "Vérifie ton historique *chaque soir.*",
+   "body": "Un retrait inconnu ? Change ton code, appelle le service client officiel, signale-le à la police."
+  },
+  {
+   "type": "resultat",
+   "tag": "Exemple",
+   "title": "150 000 FCFA sur ton compte. Ces 3 réflexes te coûtent :",
+   "body": "Contre le risque de tout perdre en un clic. Exemple pédagogique.",
+   "big": "0 FCFA"
+  },
+  {
+   "type": "cta",
+   "tag": "À toi de jouer",
+   "title": "Ce soir, ouvre ton historique et *vérifie* chaque ligne.",
+   "body": "Puis préviens un proche. On répond à chaque commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
