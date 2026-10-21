@@ -46,7 +46,7 @@
 - [ ] [Bourse] La plus grosse introduction en bourse d'Afrique : comment des particuliers ont pu acheter des actions — ce qu'est une IPO, étape par étape, chiffres officiels vérifiés (carrousel)
 
 ## Cybersécurité (mercredi)
-- [ ] [Cyber] Ton code Wave ou Orange Money peut être volé en 30 secondes — 4 réglages anti-vol
+- [x] [Cyber] Ton code Wave ou Orange Money peut être volé en 30 secondes — 4 réglages anti-vol (2026-10-21)
 - [ ] [Cyber] Ce message WhatsApp d'un « conseiller » vide des comptes chaque jour — reconnaître l'arnaque
 - [ ] [Cyber] Ton compte Facebook piraté : tu as 1 heure — les 5 gestes à faire
 - [ ] [Cyber] Ton mot de passe se casse en quelques secondes s'il ressemble à ça — créer un mot de passe solide
