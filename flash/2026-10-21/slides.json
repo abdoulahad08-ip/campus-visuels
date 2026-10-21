@@ -1,0 +1,65 @@
+{
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 21 octobre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 21 octobre",
+   "title": "Budget contesté : les *obligations* du Sénégal chutent",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Sénégal : les *obligations* de l'État chutent après le refus du budget annoncé par Ousmane Sonko.",
+   "body": "Source : Reuters"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : 3e baisse d'affilée, le Composite *perd 0,94 %* à 524,52 points, 8 milliards FCFA échangés.",
+   "body": "Source : Lejecos"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "Nigeria : ses start-up ont levé *635 millions $* en 9 mois, 2,6 fois plus qu'à la même période 2025.",
+   "body": "Source : Nairametrics"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "Cyberattaque : le géant des supermarchés *Ahold Delhaize* coupe des systèmes en Europe et aux USA.",
+   "body": "Source : BleepingComputer"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "PHP, langage de nombreux sites web, annonce des correctifs d'urgence pour deux failles *critiques.*",
+   "body": "Source : BleepingComputer"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Ormuz : les craintes sur l'approvisionnement font monter le Brent au-dessus de *110 $* le baril.",
+   "body": "Source : OilPrice.com"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Dette plus chère pour l'État, un enjeu pour ton *budget*",
+   "body": "Le bras de fer porte aussi sur la baisse des subventions au carburant."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Ici, on décode l'actualité qui compte, sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
