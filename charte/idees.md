@@ -20,7 +20,7 @@
 - [ ] [Transformation] « Une compétence ne vaut rien tant que personne ne sait que tu l'as. » — carrousel : la rendre visible et démontrable
 
 ## CB | PATRIMOINE (35 %) — idées audacieuses du 22 oct 2026
-- [ ] [Patrimoine] « Un revenu élevé ne garantit pas un patrimoine élevé. » — carrousel : revenus vs actifs, exemple chiffré pédagogique
+- [x] [Patrimoine] « Un revenu élevé ne garantit pas un patrimoine élevé. » — carrousel : revenus vs actifs, exemple chiffré pédagogique (2026-10-22, 16h)
 - [ ] [Patrimoine] « Tu peux travailler 30 ans sans construire un patrimoine à la hauteur de tes efforts. » — carrousel : le mécanisme et la sortie
 - [ ] [Patrimoine] « Le problème n'est pas toujours de gagner peu. C'est de ne pas savoir transformer ses revenus en actifs. » — carrousel : actif productif vs dépense
 - [ ] [Patrimoine] « Acheter une action parce que son prix baisse n'est pas une stratégie. » — carrousel : prix vs valeur (BRVM)

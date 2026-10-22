@@ -1,0 +1,43 @@
+{
+ "territoire": "patrimoine",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Avant / après",
+   "title": "Un revenu élevé ne garantit pas un *patrimoine* élevé.",
+   "body": "Exemple : un bon salaire, une valeur nette à zéro. Et comment ça change."
+  },
+  {
+   "type": "probleme",
+   "tag": "Avant : le piège",
+   "title": "Chaque augmentation est *avalée* par le train de vie.",
+   "body": "Exemple : Awa passe de 600 000 à 700 000 FCFA par mois. Trois ans après, valeur nette : zéro."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1 : mesurer",
+   "title": "Suis ta *valeur nette*, pas ton salaire.",
+   "body": "Ce que tu possèdes moins ce que tu dois. Une fois par mois, sur une seule feuille."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2 : capter",
+   "title": "La moitié de chaque *augmentation* part avant d'être dépensée.",
+   "body": "Le jour de la paie : 10 % du salaire et 50 % de la hausse vont vers l'épargne."
+  },
+  {
+   "type": "resultat",
+   "theme": "turquoise",
+   "tag": "Après : 3 ans plus tard",
+   "title": "120 000 FCFA mis de côté chaque mois, pendant 36 mois, hors rendement :",
+   "big": "4 320 000 FCFA"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Ton salaire est un flux. Ton *patrimoine*, c'est ce qui reste.",
+   "body": "Des faits vérifiés, des méthodes concrètes, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
