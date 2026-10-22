@@ -15,6 +15,8 @@ Types (un par diapo) :
   resultat   -> le résultat ; "big" = gros chiffre : fond or, texte vert
   marque     -> visuel de marque (story, question du soir) : vert forêt + motif briques
   cta        -> dernière diapo ; "big" = « @campusdesbatisseurs » : vert forêt, grosse pastille or
+Clé racine "territoire": "cyber" | "patrimoine" | "transformation" (ou par diapo) : code visuel du territoire
+  (bande gauche + badge « CB | CYBER » turquoise, « CB | PATRIMOINE » or, « CB | TRANSFORMATION » corail).
 Option "theme": "ivoire" | "foret" | "or" | "corail" | "turquoise" pour forcer un fond (variété).
 Clé optionnelle "cover" : visuel unique -> cover_fb.png (1080x1350) et cover_tt.jpg (1080x1920).
 Clé optionnelle "story" : story.png (1080x1920).
@@ -72,6 +74,12 @@ FORCED = {
     "turquoise": (TURQUOISE, (20, 150, 140), FORET, (14, 42, 35, 215), FORET, IVOIRE, FORET),
 }
 SOLUTION_ACCENTS = [EMERAUDE, TURQUOISE, CORAIL]
+# Territoires éditoriaux (décision du 22 oct 2026) : une marque, trois codes visuels
+TERRITOIRES = {
+    "cyber": ("CYBER", TURQUOISE),
+    "patrimoine": ("PATRIMOINE", OR),
+    "transformation": ("TRANSFORMATION", CORAIL),
+}
 
 
 def font(p, s):
@@ -219,8 +227,9 @@ def render(s, idx, total, W, H, path):
     tall = H > 1500
     gold_line = OR if dark or c1 == IVOIRE else FORET
 
-    # bande d'accent verticale à gauche
-    d.rectangle([0, 0, 16, H], fill=acc)
+    terr = TERRITOIRES.get((s.get("territoire") or "").lower())
+    # bande d'accent verticale à gauche (couleur du territoire si défini)
+    d.rectangle([0, 0, 16 if not terr else 22, H], fill=terr[1] if terr else acc)
 
     # haut : tag + compteur
     top = (250 if total == 0 else 170) if tall else 104
@@ -323,7 +332,20 @@ def render(s, idx, total, W, H, path):
     ff = font(F_BOLD, 30)
     name = "CAMPUS DES BÂTISSEURS"
     brick(d, M, fy + 4, 26, OR if dark else FORET)
-    d.text((M + 66, fy), name, font=ff, fill=tc)
+    if terr:
+        lab, col = terr
+        d.text((M + 66, fy), "CB", font=ff, fill=tc)
+        x0 = M + 66 + d.textlength("CB ", font=ff)
+        lw = d.textlength(lab, font=ff)
+        # pastille du territoire
+        if col == (c1 if not dark else None) or (not dark and col == OR and c1 in (OR, OR2)):
+            bg, fg = FORET, col
+        else:
+            bg, fg = col, (FORET if col != CORAIL else IVOIRE)
+        d.rounded_rectangle([x0 - 4, fy - 6, x0 + lw + 24, fy + 40], radius=12, fill=bg)
+        d.text((x0 + 10, fy), lab, font=ff, fill=fg)
+    else:
+        d.text((M + 66, fy), name, font=ff, fill=tc)
     if total == 0:  # story
         fs = font(F_BOLD, 40)
         lines2 = ["Une brique par jour.", "Dans quelques mois, tu verras la différence."]
@@ -358,6 +380,10 @@ def main():
     os.makedirs(out, exist_ok=True)
     slides = data.get("slides", [])
     n = len(slides)
+    terr = data.get("territoire")
+    for s in slides + [x for x in (data.get("cover"), data.get("story")) if x]:
+        if terr and "territoire" not in s:
+            s["territoire"] = terr
     for i, s in enumerate(slides, 1):
         render(s, i, n, 1080, 1350, os.path.join(out, f"fb_{i:02d}.png"))
         render(s, i, n, 1080, 1920, os.path.join(out, f"tt_{i:02d}.jpg"))

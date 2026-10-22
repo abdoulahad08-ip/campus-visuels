@@ -17,3 +17,9 @@ Liens à utiliser tels quels. Les prix changent (promotions) : ne jamais écrire
 
 Produits phares (plan du 16 oct 2026) : L'Investisseur Débutant, Vendre sur Facebook, Lancer son Business en 30 jours.
 Cadeaux gratuits (conversion en contact) : voir cadeaux/README.md.
+
+
+## Pistes de produits par territoire (document de l'utilisateur du 22 oct 2026 — APRÈS le feu vert seulement, à valider par le carnet des problèmes)
+- CB | CYBER : guide pratique de protection numérique ; formation fondamentaux de la cybersécurité ; formation sécurisation des comptes et appareils ; parcours d'initiation réseaux, systèmes et cybersécurité ; programme de sensibilisation pour PME (+ services de services/services.md).
+- CB | PATRIMOINE : guide d'éducation financière pour débutants (existe : L'Investisseur Débutant) ; formation bases de l'investissement BRVM (existe : Le Portefeuille de Fer) ; formation analyse fondamentale des entreprises ; workbook plan patrimonial ; formation revenus numériques ; guide cryptoactifs et risques.
+- CB | TRANSFORMATION : formation discipline, exécution et résultats (proche : Le Code du Bâtisseur, Devenir Puissant) ; programme création d'une activité numérique (existe : Lancer son Business en 30 jours) ; formation vente WhatsApp Business en 21 jours (proche : Vendre sur Facebook) ; guide intelligence stratégique et décision ; formation IA appliquée au travail et à l'entrepreneuriat (proche : Automatiser ses réseaux) ; programme de structuration et croissance d'une petite entreprise.

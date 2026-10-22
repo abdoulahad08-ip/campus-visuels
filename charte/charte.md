@@ -17,22 +17,39 @@ Ils veulent protéger leur argent, trouver ou évoluer dans un emploi, lancer un
 Des solutions concrètes, vérifiées, applicables dès aujourd'hui, sans promesse magique.
 « Ici, on partage chaque jour ce qui marche vraiment, sans promesse magique. »
 
-## 4. Mes piliers (calendrier de la semaine)
-Règle n° 1 : chaque contenu doit CHOQUER (accroche qui arrête le pouce) ET donner une vraie valeur (on repart avec quelque chose d'utile). Ni choc vide, ni leçon ennuyeuse.
+## 4. Mes 3 territoires (décision de l'utilisateur du 22 oct 2026) et le calendrier de la semaine
+Une seule marque, CAMPUS DES BÂTISSEURS (Connecter • Accompagner • Bâtir), avec trois territoires éditoriaux identifiés par un code visuel (outils/carousel.py, clé "territoire") :
+| Territoire | Promesse | Problème central | Angle | Code visuel |
+|---|---|---|---|---|
+| CB | TRANSFORMATION (40 %) | Développer les capacités, systèmes et stratégies qui font passer de l'intention aux résultats | L'écart entre ambition et résultats | SYSTÈMES → LEVIERS → CROISSANCE : mieux penser, apprendre, décider, exécuter, construire | corail #FF6B57 |
+| CB | PATRIMOINE (35 %) | Comprendre l'argent, mieux décider, construire progressivement un patrimoine | Les mauvaises décisions financières | Les mécanismes de la richesse (capital, entreprises, investissements, risques), jamais la richesse rapide ni « riches contre pauvres » | or #E3A23B |
+| CB | CYBER (25 %) | Comprendre les risques numériques, protéger ses actifs, développer des compétences recherchées | La vulnérabilité et le manque de compétences | La sécurité comme avantage stratégique : ce qu'on risque de perdre, comment se protéger, quelles compétences développer (prévention uniquement) | turquoise #2EC4B6 |
+TRANSFORMATION est la colonne vertébrale et le pont vers les deux autres.
+Sujets :
+- TRANSFORMATION : discipline et exécution ; psychologie humaine et biais cognitifs ; apprentissage efficace ; productivité et attention ; intelligence stratégique et décision ; entrepreneuriat et modèles économiques ; vente, négociation, marketing ; IA et automatisation ; systèmes, processus, leviers de croissance ; leadership et communication ; construction de projets ; passer d'une compétence à une activité économique ; carrière et anglais professionnel.
+- PATRIMOINE : éducation financière ; psychologie de l'argent ; revenus, dépenses, épargne, capacité d'investissement ; revenus complémentaires ; entrepreneuriat et création de valeur ; investissement long terme ; BRVM ; actions, dividendes, valorisation ; cryptoactifs, risques, gestion de portefeuille ; diversification ; actifs productifs, dettes, valeur nette ; transmission ; impact de l'actualité mondiale sur l'argent (neutre).
+- CYBER : menaces et défenses ; protection des comptes, données, appareils ; sécurité réseaux et systèmes ; IA et cybersécurité ; arnaques, phishing, ingénierie sociale ; débuter en cybersécurité ; métiers et certifications ; sécurité des entrepreneurs, PME, e-commerce ; bonnes pratiques des organisations.
 
-| Jour | Pilier | Angle choc + valeur |
+TON AUDACIEUX (règle prioritaire) : pas de conseils banals du type « note tes dépenses ». Des contenus qui provoquent une réaction, bousculent une croyance et donnent envie d'en savoir plus (ex. « Un revenu élevé ne garantit pas un patrimoine élevé. », « Tu n'as pas besoin d'être un hacker pour devenir une cible. », « L'intelligence sans exécution peut devenir une forme sophistiquée de procrastination. »). Toujours vrai et vérifiable, jamais d'exagération ni de promesse de richesse.
+CHAQUE PUBLICATION accomplit au moins une mission : (1) révéler un problème que le lecteur n'avait pas bien identifié ; (2) lui apprendre quelque chose d'utilisable ; (3) lui montrer une méthode pour un résultat concret. On ne publie pas pour inspirer seulement : faire comprendre, faire progresser, faire agir. Chaque territoire conduira (après le feu vert) vers des guides, formations ou services qui règlent les problèmes abordés (livres/produits.md, services/services.md).
+
+Calendrier des territoires (14 carrousels par semaine : 6 TRANSFORMATION, 5 PATRIMOINE, 3 CYBER ≈ 43/36/21 %) :
+| Jour | 10h carrousel valeur | 16h carrousel expérience/vérité/transformation |
 |---|---|---|
-| Lundi | Finance & argent | le chiffre qui fait mal (ce que coûte une habitude, l'inflation, les frais cachés) + la méthode pour s'en sortir |
-| Mardi | BRVM & bourse | ce que les gens ignorent sur la bourse régionale (sociétés cotées, dividendes, chiffres réels vérifiés) + comment ça marche |
-| Mercredi | Cybersécurité | l'arnaque ou la faille qui touche tout le monde + les réglages de protection (prévention uniquement) |
-| Jeudi | IT, tech & science | la découverte ou la techno qui va changer ta vie (IA, espace, santé, énergie) + ce que ça change concrètement pour toi |
-| Vendredi | Géopolitique & infos | l'événement mondial qui touche ton portefeuille (pétrole, dollar, CFA, conflits, accords) expliqué simplement et neutre + l'impact pour l'Afrique de l'Ouest |
-| Samedi | Bâtir | business, carrière, compétences, anglais : ce que font ceux qui réussissent + les étapes pour commencer |
-| Dimanche | Mindset & liberté | la vérité dérangeante (liberté financière, temps, discipline, choix de vie) + un exercice à faire |
+| Lundi | PATRIMOINE (argent, psychologie de l'argent, actifs et dettes) | TRANSFORMATION |
+| Mardi | PATRIMOINE (BRVM, actions, dividendes, valorisation) | CYBER |
+| Mercredi | CYBER | TRANSFORMATION |
+| Jeudi | TRANSFORMATION (IA, automatisation, apprentissage, tech) | PATRIMOINE |
+| Vendredi | TRANSFORMATION (vente, négociation, entrepreneuriat, stratégie) | CYBER (arnaques et menaces du moment) |
+| Samedi | PATRIMOINE (revenus complémentaires, créer de la valeur) | TRANSFORMATION |
+| Dimanche | TRANSFORMATION (discipline, biais, décision, mindset) | PATRIMOINE (vision long terme, transmission) |
+Story 9h et post de 20h : alterner les trois territoires dans la même proportion (environ 3 TRANSFORMATION, 2 PATRIMOINE, 2 CYBER par semaine). Flash : actualité des trois territoires.
+Banque d'idées (charte/idees.md) : sections TRANSFORMATION, PATRIMOINE et CYBER en tête (idées audacieuses du 22 oct), puis les anciennes sections rattachées : Finance, BRVM, Géopolitique → PATRIMOINE ; Cybersécurité → CYBER ; IT/tech, Bâtir, Mindset → TRANSFORMATION. Toujours indiquer "territoire" dans slides.json.
+Après 4 à 6 semaines, le rapport compare par territoire : portée qualifiée, enregistrements, partages, messages, clics (et ventes après le feu vert) ; l'utilisateur ajuste la répartition.
 
 Mix de contenus (plan du 16 oct 2026, plan/plan-30-jours.md) : A curiosité 25 %, B éducation 35 %, C erreurs et idées reçues 15 %, D démonstrations et études de cas 10 %, E preuves et coulisses 15 % ; présentation produit et conversion seulement après le feu vert.
 
-Alternance : le rapport du lundi (rapports/consignes.md) peut renforcer les piliers qui performent, sans en supprimer un sans l'accord de l'utilisateur.
+Alternance : le rapport du lundi (rapports/consignes.md) peut renforcer les territoires et sujets qui performent, sans en supprimer un sans l'accord de l'utilisateur.
 Faits « choc » : toujours vrais, sourcés et vérifiables (chiffre officiel, étude, grand média). Le choc vient du fait, jamais de l'exagération.
 
 Calendrier de publication OPTIMAL (décision de l'utilisateur du 22 oct 2026, calé sur les meilleures heures mesurées par Metricool pour nos comptes : Facebook pic 10h puis 12h et 16–18h ; TikTok pic 10h puis 12h et 18h ; LinkedIn pic 11h puis 13h ; YouTube pic 16h ; le soir après 21h chute de moitié). Ligne éditoriale et phase confiance inchangées. Deux heures d'écart entre deux posts d'un même réseau.

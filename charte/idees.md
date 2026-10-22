@@ -7,6 +7,38 @@
 > Tu peux ajouter tes idées à tout moment.
 > Les lignes « post prêt » renvoient à un post déjà écrit à partir de nos livres (livres/<produit>/posts.md) : le reprendre en carrousel, sans citer le produit.
 
+## CB | TRANSFORMATION (40 %) — idées audacieuses du 22 oct 2026
+- [ ] [Transformation] « Ton potentiel ne te rend pas exceptionnel. Ce que tu construis avec lui peut le faire. » — carrousel : potentiel vs système, 3 briques pour construire
+- [ ] [Transformation] « Tu n'as pas besoin de dix nouvelles idées. Tu as besoin d'un système qui transforme une seule idée en résultat. » — carrousel : le système en 4 étapes
+- [ ] [Transformation] « La motivation te fait commencer. Une méthode bien conçue t'aide à continuer. » — carrousel : concevoir sa méthode
+- [ ] [Transformation] « Tu peux consommer 500 heures de contenu et rester incapable de vendre une seule compétence. » — carrousel : de la consommation à la compétence vendable
+- [ ] [Transformation] « L'intelligence sans exécution peut devenir une forme sophistiquée de procrastination. » — carrousel : biais et routine d'exécution
+- [ ] [Transformation] « Ne cherche pas seulement à devenir meilleur. Construis un système qui produit de meilleurs résultats. » — carrousel : système > volonté
+- [ ] [Transformation] « Le biais qui te fait garder un mauvais projet trop longtemps » (coûts irrécupérables) — carrousel : reconnaître et décider
+- [ ] [Transformation] « Ce que l'IA ne remplacera pas dans ton métier (et ce qu'elle va remplacer) » — carrousel : compétences à renforcer, sources vérifiées
+- [ ] [Transformation] « Vendre sur WhatsApp n'est pas envoyer un catalogue » — carrousel : la conversation qui vend
+- [ ] [Transformation] « Une compétence ne vaut rien tant que personne ne sait que tu l'as. » — carrousel : la rendre visible et démontrable
+
+## CB | PATRIMOINE (35 %) — idées audacieuses du 22 oct 2026
+- [ ] [Patrimoine] « Un revenu élevé ne garantit pas un patrimoine élevé. » — carrousel : revenus vs actifs, exemple chiffré pédagogique
+- [ ] [Patrimoine] « Tu peux travailler 30 ans sans construire un patrimoine à la hauteur de tes efforts. » — carrousel : le mécanisme et la sortie
+- [ ] [Patrimoine] « Le problème n'est pas toujours de gagner peu. C'est de ne pas savoir transformer ses revenus en actifs. » — carrousel : actif productif vs dépense
+- [ ] [Patrimoine] « Acheter une action parce que son prix baisse n'est pas une stratégie. » — carrousel : prix vs valeur (BRVM)
+- [ ] [Patrimoine] « Le dividende te fait plaisir aujourd'hui. La qualité de l'entreprise décide du long terme. » — carrousel : lire un rendement sans se piéger
+- [ ] [Patrimoine] « Si tu ne comprends pas comment un investissement crée de la valeur, ne te précipite pas. » — carrousel : 3 questions avant d'investir
+- [ ] [Patrimoine] « Ta valeur nette dit plus de vérité que ton salaire. » — carrousel : calculer sa valeur nette
+- [ ] [Patrimoine] « La dette n'est ni bonne ni mauvaise : elle finance un actif ou une perte. » — carrousel : dette productive vs dette de consommation
+- [ ] [Patrimoine] « Crypto : ce que les vendeurs de rêve ne te disent pas sur le risque » — carrousel : risques réels, mention éducative
+
+## CB | CYBER (25 %) — idées audacieuses du 22 oct 2026
+- [ ] [Cyber] « Ton compte bancaire n'est peut-être pas ton actif le plus vulnérable. Ton identité numérique l'est peut-être davantage. » — carrousel : ce qu'on vole vraiment
+- [ ] [Cyber] « Une entreprise peut perdre des années de confiance à cause d'une seule faille. » — carrousel : cas public sourcé + 3 protections PME
+- [ ] [Cyber] « Tu n'as pas besoin d'être un hacker pour devenir une cible. » — carrousel : ingénierie sociale et réflexes
+- [ ] [Cyber] « La cybersécurité n'est pas seulement un métier technique. C'est une compétence stratégique. » — carrousel : pourquoi dirigeants et salariés en ont besoin
+- [ ] [Cyber] « Tu veux travailler dans la cybersécurité ? Arrête de collectionner les vidéos. Construis des compétences démontrables. » — carrousel : parcours, labs, certifications
+- [ ] [Cyber] « Ta boutique en ligne peut être fermée par un seul mot de passe faible. » — carrousel : sécuriser son e-commerce
+- [ ] [Cyber] « L'IA rend les arnaques plus crédibles. Voici comment les repérer quand même. » — carrousel : deepfakes vocaux, messages parfaits
+
 ## Finance & argent (lundi)
 - [x] [Finance] Tu gagnes plus et il ne reste rien à la fin du mois — erreur/bonne pratique (2026-10-12)
 - [x] [Finance] 20 % par mois « sans risque » : les signes d'une arnaque — checklist (2026-10-14)

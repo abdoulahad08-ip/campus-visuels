@@ -18,3 +18,13 @@ Règles : ≤ 10 mots, une douleur réelle ou un fait vrai et vérifié, jamais 
 | Le défi | « Fais ce test : où va ton argent chaque mois ? » |
 
 Varier les formules : jamais la même deux jours de suite sur le même réseau. Noter la formule utilisée dans le rapport du carrousel pour que le rapport du lundi mesure laquelle marche le mieux.
+
+## Formules audacieuses (décision du 22 oct 2026 : bousculer une croyance, jamais de conseil banal)
+| Formule | Exemple Campus |
+|---|---|
+| La croyance renversée | « Un revenu élevé ne garantit pas un patrimoine élevé. » |
+| Le vrai risque caché | « Ton identité numérique est peut-être plus vulnérable que ton compte bancaire. » |
+| Le reproche utile | « Tu peux consommer 500 heures de contenu et rester incapable de vendre une compétence. » |
+| La distinction qui éclaire | « La motivation te fait commencer. Une méthode t'aide à continuer. » |
+| Le « tu n'as pas besoin de… » | « Tu n'as pas besoin d'être un hacker pour devenir une cible. » |
+| Le piège intelligent | « L'intelligence sans exécution est une procrastination sophistiquée. » |
