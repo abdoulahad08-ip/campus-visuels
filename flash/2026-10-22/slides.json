@@ -1,0 +1,71 @@
+{
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 22 octobre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 22 octobre",
+   "title": "Sénégal : une obligation vendue *49 centimes* par euro",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Sénégal : l'obligation 2037 tombe à *48,9 centimes* par euro après le blocage annoncé du budget.",
+   "body": "Source : CNBC Africa / Reuters"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : 4e baisse d'affilée, le Composite *perd 0,81 %* à 520,27 points. Total Sénégal gagne 7,25 %.",
+   "body": "Source : Lejecos"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "La française Pigment lève *250 millions $* pour son logiciel de planification par l'IA.",
+   "body": "Source : Silicon.fr"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "Inde : la banque SBI confirme une *cyberattaque*, 3 897 dossiers clients publiés sur le dark web.",
+   "body": "Source : Business Standard"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "OpenAI rachète la start-up Orchestra Bio pour accélérer le développement de *médicaments* par l'IA.",
+   "body": "Source : TechCrunch"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Kremlin : Poutine accepte de reprendre les *pourparlers* de paix avec l'Ukraine dès le mois prochain.",
+   "body": "Source : Reuters"
+  },
+  {
+   "type": "probleme",
+   "tag": "Sénégal",
+   "title": "Grève générale de *72 h* du 21 au 23 octobre : éducation, santé, énergie et d'autres secteurs publics.",
+   "body": "Source : L'Économiste Sénégal"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Dette plus chère, subventions en jeu : ton *budget* concerné",
+   "body": "Les subventions à l'énergie ont triplé à 790,3 milliards FCFA dans le budget rectificatif."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Ici, on décode l'actualité qui compte, sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
