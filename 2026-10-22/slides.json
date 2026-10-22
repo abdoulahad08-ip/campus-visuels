@@ -1,0 +1,54 @@
+{
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Tu savais ?",
+   "title": "D'ici 2030, 39 % de tes compétences vont *changer.*",
+   "body": "Transformées ou dépassées. C'est l'estimation des employeurs interrogés par le Forum économique mondial."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le vrai danger",
+   "title": "Ce n'est pas l'IA. C'est rester avec les compétences *d'hier.*",
+   "body": "D'ici 2030 : 92 millions d'emplois supprimés, 170 millions créés. Les nouveaux demandent d'autres compétences."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "3 compétences pour être du *bon côté* du changement.",
+   "body": "Parmi les plus recherchées par les employeurs. Gratuites à entraîner, dès aujourd'hui."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 1/3",
+   "title": "Apprends à *analyser*, pas seulement à exécuter.",
+   "body": "7 entreprises sur 10 la jugent essentielle. Avant d'agir : quel problème, quelles options, quels chiffres ?"
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 2/3",
+   "title": "Fais de l'IA ton *assistante*, pas ta rivale.",
+   "body": "IA et données : la compétence qui monte le plus vite. 15 minutes par jour, sur une vraie tâche."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 3/3",
+   "title": "Reste *curieux.* Apprends un peu chaque semaine.",
+   "body": "Curiosité, créativité, adaptabilité montent aussi. Une notion nouvelle par semaine suffit pour avancer."
+  },
+  {
+   "type": "resultat",
+   "tag": "Le calcul",
+   "title": "15 minutes par jour pendant un an, ça fait :",
+   "body": "Plus de 90 heures d'apprentissage. Avec des ressources gratuites, coût : 0 FCFA.",
+   "big": "91 heures"
+  },
+  {
+   "type": "cta",
+   "tag": "À toi de jouer",
+   "title": "Aujourd'hui, demande à une IA d'*améliorer* un de tes textes.",
+   "body": "Puis compare et garde ce qui est juste. On répond à chaque commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
