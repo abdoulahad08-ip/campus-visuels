@@ -43,7 +43,9 @@ Calendrier des territoires (14 carrousels par semaine : 6 TRANSFORMATION, 5 PATR
 | Vendredi | TRANSFORMATION (vente, négociation, entrepreneuriat, stratégie) | CYBER (arnaques et menaces du moment) |
 | Samedi | PATRIMOINE (revenus complémentaires, créer de la valeur) | TRANSFORMATION |
 | Dimanche | TRANSFORMATION (discipline, biais, décision, mindset) | PATRIMOINE (vision long terme, transmission) |
-Story 9h et post de 20h : alterner les trois territoires dans la même proportion (environ 3 TRANSFORMATION, 2 PATRIMOINE, 2 CYBER par semaine). Flash : actualité des trois territoires.
+Story 9h et post de 20h : alterner les trois territoires dans la même proportion (environ 3 TRANSFORMATION, 2 PATRIMOINE, 2 CYBER par semaine).
+  - Story 9h : Lun TRANSFORMATION · Mar PATRIMOINE · Mer CYBER · Jeu TRANSFORMATION · Ven PATRIMOINE · Sam TRANSFORMATION · Dim CYBER.
+  - Post 20h : Lun PATRIMOINE (sondage argent) · Mar TRANSFORMATION (défi) · Mer CYBER (cadeau gratuit) · Jeu CYBER (question sécurité/tech) · Ven TRANSFORMATION (débat) · Sam TRANSFORMATION (bilan du défi) · Dim PATRIMOINE (ce qui te bloque). Flash : actualité des trois territoires.
 Banque d'idées (charte/idees.md) : sections TRANSFORMATION, PATRIMOINE et CYBER en tête (idées audacieuses du 22 oct), puis les anciennes sections rattachées : Finance, BRVM, Géopolitique → PATRIMOINE ; Cybersécurité → CYBER ; IT/tech, Bâtir, Mindset → TRANSFORMATION. Toujours indiquer "territoire" dans slides.json.
 Après 4 à 6 semaines, le rapport compare par territoire : portée qualifiée, enregistrements, partages, messages, clics (et ventes après le feu vert) ; l'utilisateur ajuste la répartition.
 
