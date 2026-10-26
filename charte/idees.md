@@ -18,6 +18,8 @@
 - [ ] [Transformation] « Ce que l'IA ne remplacera pas dans ton métier (et ce qu'elle va remplacer) » — carrousel : compétences à renforcer, sources vérifiées
 - [ ] [Transformation] « Vendre sur WhatsApp n'est pas envoyer un catalogue » — carrousel : la conversation qui vend
 - [ ] [Transformation] « Une compétence ne vaut rien tant que personne ne sait que tu l'as. » — carrousel : la rendre visible et démontrable
+- [ ] [Transformation] « L'IA ne prendra peut-être pas ton poste. Quelqu'un qui l'utilise mieux que toi, peut-être. » — carrousel : 3 tâches de ton métier à tester avec l'IA cette semaine + la méthode pour vérifier le résultat (idée du 26 oct)
+- [ ] [Transformation] « Tu comprends l'anglais. Tu n'oses pas le parler. Le problème n'est pas ton niveau. » — carrousel : 5 phrases d'anglais pro à dire en réunion + routine de 10 min par jour (idée du 26 oct)
 
 ## CB | PATRIMOINE (35 %) — idées audacieuses du 22 oct 2026
 - [x] [Patrimoine] « Un revenu élevé ne garantit pas un patrimoine élevé. » — carrousel : revenus vs actifs, exemple chiffré pédagogique (2026-10-22, 16h)
@@ -29,6 +31,8 @@
 - [ ] [Patrimoine] « Ta valeur nette dit plus de vérité que ton salaire. » — carrousel : calculer sa valeur nette
 - [x] [Patrimoine] « La dette n'est ni bonne ni mauvaise : elle finance un actif ou une perte. » — carrousel : dette productive vs dette de consommation (2026-10-26)
 - [ ] [Patrimoine] « Crypto : ce que les vendeurs de rêve ne te disent pas sur le risque » — carrousel : risques réels, mention éducative
+- [ ] [Patrimoine] « Ton augmentation n'est pas un gain. C'est un test. » — carrousel : la règle des 50 % de chaque hausse, exemple chiffré en FCFA (idée du 26 oct)
+- [ ] [Patrimoine] « Ce n'est pas ton salaire qui construit ton patrimoine. C'est ton taux d'épargne. » — carrousel : calculer son taux d'épargne en 3 étapes, exemple FCFA (idée du 26 oct)
 
 ## CB | CYBER (25 %) — idées audacieuses du 22 oct 2026
 - [ ] [Cyber] « Ton compte bancaire n'est peut-être pas ton actif le plus vulnérable. Ton identité numérique l'est peut-être davantage. » — carrousel : ce qu'on vole vraiment
@@ -38,6 +42,7 @@
 - [ ] [Cyber] « Tu veux travailler dans la cybersécurité ? Arrête de collectionner les vidéos. Construis des compétences démontrables. » — carrousel : parcours, labs, certifications
 - [ ] [Cyber] « Ta boutique en ligne peut être fermée par un seul mot de passe faible. » — carrousel : sécuriser son e-commerce
 - [ ] [Cyber] « L'IA rend les arnaques plus crédibles. Voici comment les repérer quand même. » — carrousel : deepfakes vocaux, messages parfaits
+- [ ] [Cyber] « Ton numéro de téléphone vaut peut-être plus que ton mot de passe. » — carrousel : ce qu'un numéro récupéré ouvre (WhatsApp, Mobile Money, e-mail) + 3 réglages ce soir (validation en deux étapes WhatsApp, code PIN de la carte SIM, ne jamais donner un code reçu par SMS) (idée du 26 oct)
 
 ## Finance & argent (lundi)
 - [x] [Finance] Tu gagnes plus et il ne reste rien à la fin du mois — erreur/bonne pratique (2026-10-12)
