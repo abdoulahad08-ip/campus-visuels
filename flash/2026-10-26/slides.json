@@ -1,0 +1,73 @@
+{
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 26 octobre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 26 octobre",
+   "title": "Pétrole à 116 $ : ton *carburant* sous pression ?",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Pétrole : le Brent retombe à 110 $ lundi, après 116,72 $ vendredi, son plus haut depuis *juin 2022*.",
+   "body": "Source : AP"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : le Composite *bondit de 1,37 %* à 529,14 points vendredi. Sonatel gagne 4,40 %.",
+   "body": "Source : Lejecos"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "La fintech OPay, née au Nigeria, vise jusqu'à *336 millions $* en entrant à la Bourse de New York.",
+   "body": "Source : TechPoint Africa"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "En test, un *fichier piégé* a poussé l'IA Codex à lancer un malware dans plus de 90 % des essais.",
+   "body": "Source : The Hacker News",
+   "theme": "corail"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "xAI publie les 7 premières minutes de « L'Odyssée », un *film généré* par son IA Grok Imagine.",
+   "body": "Source : TechCrunch",
+   "theme": "turquoise"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Arabie saoudite : l'aéroport de Riyad *rouvre* dimanche malgré de nouveaux tirs de missiles houthis.",
+   "body": "Source : AP"
+  },
+  {
+   "type": "probleme",
+   "tag": "Sénégal",
+   "title": "LFR 2026 : l'État réduit l'investissement de *555 milliards* FCFA ; examen à l'Assemblée mardi.",
+   "body": "Source : Afrik Soir"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Baril cher : subventions triplées, projets publics *reportés*",
+   "body": "Subventions à l'énergie : de 250 à 790 milliards FCFA. Investissements : 555 milliards en moins."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Laquelle de ces actus te concerne le plus ? Dis-le en commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
