@@ -1,0 +1,56 @@
+{
+ "territoire": "patrimoine",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "La croyance renversée",
+   "title": "Le problème n'est pas ta dette. C'est ce qu'elle *achète.*",
+   "body": "« Toute dette est mauvaise » : faux. Voici le test pour trier les tiennes."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Tu regardes la *mensualité.* Jamais le coût total.",
+   "body": "Exemple : 500 000 FCFA empruntés à 24 % sur 12 mois. Tu rends 567 360 FCFA."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "3 questions pour savoir si une dette te *construit* ou te coûte.",
+   "body": "À poser avant chaque crédit, avance sur salaire ou achat à crédit."
+  },
+  {
+   "type": "solution",
+   "tag": "Question 1/3",
+   "title": "Qu'est-ce que cette dette *achète* vraiment ?",
+   "body": "Un actif rapporte ou fait économiser. Une consommation perd sa valeur dès l'achat."
+  },
+  {
+   "type": "solution",
+   "tag": "Question 2/3",
+   "title": "Combien coûte-t-elle *au total* ?",
+   "body": "Mensualité × nombre de mois − somme reçue. C'est le vrai prix de l'argent emprunté."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "Question 3/3",
+   "title": "Le gain prudent dépasse-t-il *nettement* ce coût ?",
+   "body": "Sinon, ce n'est pas un investissement. C'est une perte financée. Attends et épargne."
+  },
+  {
+   "type": "resultat",
+   "tag": "Exemple",
+   "title": "Même crédit, 500 000 FCFA à 24 % sur 12 mois. Coût :",
+   "body": "Pour un téléphone de prestige : une perte. Pour un outil qui rapporte davantage : un levier.",
+   "big": "67 360 FCFA"
+  },
+  {
+   "type": "cta",
+   "tag": "À toi de jouer",
+   "title": "Liste tes dettes et écris à côté : *actif* ou perte.",
+   "body": "Puis le coût total restant de chacune. Dix minutes suffisent.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
