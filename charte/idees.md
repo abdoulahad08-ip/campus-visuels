@@ -27,7 +27,7 @@
 - [ ] [Patrimoine] « Le dividende te fait plaisir aujourd'hui. La qualité de l'entreprise décide du long terme. » — carrousel : lire un rendement sans se piéger
 - [ ] [Patrimoine] « Si tu ne comprends pas comment un investissement crée de la valeur, ne te précipite pas. » — carrousel : 3 questions avant d'investir
 - [ ] [Patrimoine] « Ta valeur nette dit plus de vérité que ton salaire. » — carrousel : calculer sa valeur nette
-- [ ] [Patrimoine] « La dette n'est ni bonne ni mauvaise : elle finance un actif ou une perte. » — carrousel : dette productive vs dette de consommation
+- [x] [Patrimoine] « La dette n'est ni bonne ni mauvaise : elle finance un actif ou une perte. » — carrousel : dette productive vs dette de consommation (2026-10-26)
 - [ ] [Patrimoine] « Crypto : ce que les vendeurs de rêve ne te disent pas sur le risque » — carrousel : risques réels, mention éducative
 
 ## CB | CYBER (25 %) — idées audacieuses du 22 oct 2026
