@@ -1,0 +1,43 @@
+{
+ "territoire": "transformation",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "corail",
+   "tag": "Cas pratique",
+   "title": "Tu n'as pas besoin de dix idées. Il t'en faut *une testée*.",
+   "body": "Le système en 14 jours, démontré pas à pas, chiffré en FCFA."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le vrai blocage",
+   "title": "Dix idées, zéro test : c'est *l'idée* qui reste au chaud.",
+   "body": "Exemple : Fatou, à Dakar, hésite depuis six mois entre jus, beignets et friperie."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1 : jours 1 à 3",
+   "title": "Une seule idée, *chiffrée* avant de produire.",
+   "body": "Jus de bissap : 350 FCFA de coût par bouteille, vendue 500 FCFA. Marge : 150 FCFA."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2 : jours 4 à 14",
+   "title": "Tester *petit*, puis décider sur des chiffres.",
+   "body": "30 bouteilles, 10 500 FCFA risqués au maximum. Vendues ? Recommandées ? Continuer, ajuster ou arrêter."
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que le test donne",
+   "title": "Une réponse claire, avec un risque plafonné à 10 500 FCFA :",
+   "big": "14 jours"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Une idée testée vaut plus que *dix idées* rêvées.",
+   "body": "Des méthodes concrètes, chiffrées, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
