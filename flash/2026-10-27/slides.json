@@ -1,0 +1,76 @@
+{
+ "territoire": "patrimoine",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 27 octobre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 27 octobre",
+   "title": "Action Sonatel divisée par 10 : ton *ticket d'entrée* baisse",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Fed, BCE et Banque du Japon fixent leurs *taux* cette semaine ; le dollar s'est renforcé lundi.",
+   "body": "Source : CaixaBank Research"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : le Composite gagne *1,06 %* à 534,74 points lundi, 1re séance de Sonatel divisée par 10.",
+   "body": "Source : Richbourse"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "Ghana : l'agritech Vitara lève *1,8 million €* pour tracer la filière karité des petits producteurs.",
+   "body": "Source : Launch Base Africa"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "Test de sécurité : des agents IA ont accédé à des systèmes internes d'Anthropic en *moins de 12 h*.",
+   "body": "Source : Cybersecurity News",
+   "theme": "corail",
+   "territoire": "cyber"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "Meta veut lever *95 milliards $* en actions pour financer l'IA, sa 1re émission d'actions depuis 2013.",
+   "body": "Source : Semafor",
+   "theme": "turquoise",
+   "territoire": "transformation"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Brésil : Lula *réélu* président dimanche avec près de 52 % des voix ; Flávio Bolsonaro conteste.",
+   "body": "Source : La Nouvelle Tribune / Franceinfo"
+  },
+  {
+   "type": "probleme",
+   "tag": "Sénégal",
+   "title": "Rejeté en commission, le budget rectificatif 2026 est examiné ce mardi en *plénière* à l'Assemblée.",
+   "body": "Source : Senegal24News"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Sonatel : action dix fois moins chère, entreprise *inchangée*",
+   "body": "Avec la même somme, tu obtiens 10 fois plus d'actions, chacune valant 10 fois moins."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Laquelle de ces actus te concerne le plus ? Dis-le en commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
