@@ -1,0 +1,5 @@
+PER = Cours / BNPA, publié avec le rendement net pour chaque titre : Bulletin officiel de la cote (BOC) de la BRVM (ex. BOC n°155) — https://africabourse.com/uploads/resourceDoc/9c45193d76f7345e70fa36ff6ac94a3a.pdf
+-50 % puis +100 % pour revenir au point de départ : arithmétique (x0,5 puis x2).
+Exemple PER 10 -> 14 : calcul pédagogique (10 000/1 000 ; 7 000/500), pas une valeur réelle.
+Formule d'accroche : « Le contre-pied » (diapo 1 en fond or = code PATRIMOINE, test consignes rubrique 6). Signal social : appel au partage (alterné avec la question du 26 oct).
+Idée : charte/idees.md, CB | PATRIMOINE « Acheter une action parce que son prix baisse n'est pas une stratégie » (imposée par rapports/consignes.md rubrique 2).
