@@ -1,0 +1,31 @@
+Cybersécurité : vos équipes sont la première cible. Pas vos serveurs.
+
+On imagine encore le piratage comme une attaque technique contre des systèmes.
+Dans les faits, environ 60 % des fuites de données impliquent un facteur humain : un clic, un identifiant partagé, une erreur (Verizon, DBIR 2025).
+
+C'est l'ingénierie sociale : on ne force pas la porte, on convainc quelqu'un de l'ouvrir.
+Faux fournisseur qui change de RIB, faux directeur qui demande un virement urgent, faux support qui réclame un code reçu par SMS.
+
+Trois réflexes simples à installer dans une PME :
+1. Traiter l'urgence comme un signal d'alerte, pas comme une raison d'aller vite.
+2. Vérifier toute demande sensible par un autre canal (numéro officiel déjà connu, jamais celui du message).
+3. Ne jamais transmettre un code de validation, quel que soit l'interlocuteur.
+
+Ces réflexes ne coûtent rien. Ils demandent seulement d'être répétés jusqu'à devenir automatiques.
+
+👉 Le carrousel complet ci-dessous.
+
+Dans votre organisation, qui est autorisé à valider un changement de coordonnées bancaires, et comment est-il vérifié ?
+
+Ici, on partage chaque jour ce qui marche vraiment, sans promesse magique.
+Ceux qui nous suivent verront la différence d'ici quelques mois. 🧱
+
+Campus des Bâtisseurs | Connecter • Accompagner • Bâtir
+Éducation financière, carrière, entrepreneuriat et cybersécurité pour l'Afrique francophone.
+🌐 https://campusdesbatisseurs.com
+🔗 Tous nos liens : https://t.mtrbio.com/campusdesbatisseurs
+📚 Nos guides et formations : https://campusdesbatisseurs.com
+▶️ YouTube : https://www.youtube.com/@campusdesbatisseurs
+📘 Facebook : https://www.facebook.com/campusdesbatisseurs/
+
+#Cybersecurite #IngenierieSociale #SecuriteEnLigne #PME #CampusDesBatisseurs

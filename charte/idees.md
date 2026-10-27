@@ -37,7 +37,7 @@
 ## CB | CYBER (25 %) — idées audacieuses du 22 oct 2026
 - [ ] [Cyber] « Ton compte bancaire n'est peut-être pas ton actif le plus vulnérable. Ton identité numérique l'est peut-être davantage. » — carrousel : ce qu'on vole vraiment
 - [ ] [Cyber] « Une entreprise peut perdre des années de confiance à cause d'une seule faille. » — carrousel : cas public sourcé + 3 protections PME
-- [ ] [Cyber] « Tu n'as pas besoin d'être un hacker pour devenir une cible. » — carrousel : ingénierie sociale et réflexes
+- [x] [Cyber] « Tu n'as pas besoin d'être un hacker pour devenir une cible. » — carrousel : ingénierie sociale et réflexes (2026-10-27, 16h)
 - [ ] [Cyber] « La cybersécurité n'est pas seulement un métier technique. C'est une compétence stratégique. » — carrousel : pourquoi dirigeants et salariés en ont besoin
 - [ ] [Cyber] « Tu veux travailler dans la cybersécurité ? Arrête de collectionner les vidéos. Construis des compétences démontrables. » — carrousel : parcours, labs, certifications
 - [ ] [Cyber] « Ta boutique en ligne peut être fermée par un seul mot de passe faible. » — carrousel : sécuriser son e-commerce

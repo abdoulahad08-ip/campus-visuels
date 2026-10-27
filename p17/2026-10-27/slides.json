@@ -1,0 +1,43 @@
+{
+ "territoire": "cyber",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "corail",
+   "tag": "Idée reçue",
+   "title": "Les pirates ne cassent pas ton téléphone. Ils te *convainquent*.",
+   "body": "On croit qu'il faut un génie de l'informatique. En réalité, il suffit d'un message bien écrit."
+  },
+  {
+   "type": "probleme",
+   "tag": "Ce que disent les chiffres",
+   "title": "Environ 60 % des fuites de données passent par un *humain*.",
+   "body": "Un clic, un code partagé, une erreur. Source : Verizon, rapport DBIR 2025."
+  },
+  {
+   "type": "solution",
+   "tag": "Réflexe 1",
+   "title": "L'urgence est le premier *signal* d'arnaque.",
+   "body": "« Ton compte sera bloqué dans 1 h. » Plus on te presse, plus tu ralentis."
+  },
+  {
+   "type": "solution",
+   "tag": "Réflexe 2",
+   "title": "Vérifie toujours par un *autre canal*.",
+   "body": "Raccroche. Rappelle le numéro officiel : dans l'appli, sur le site ou au dos de ta carte."
+  },
+  {
+   "type": "resultat",
+   "tag": "La règle à retenir",
+   "title": "Un code reçu par SMS ne se donne à personne :",
+   "big": "Jamais"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "La sécurité n'est pas une technique. C'est un *réflexe*.",
+   "body": "Des réflexes concrets et vérifiés, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
