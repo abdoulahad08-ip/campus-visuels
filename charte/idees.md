@@ -25,7 +25,7 @@
 - [x] [Patrimoine] « Un revenu élevé ne garantit pas un patrimoine élevé. » — carrousel : revenus vs actifs, exemple chiffré pédagogique (2026-10-22, 16h)
 - [ ] [Patrimoine] « Tu peux travailler 30 ans sans construire un patrimoine à la hauteur de tes efforts. » — carrousel : le mécanisme et la sortie
 - [ ] [Patrimoine] « Le problème n'est pas toujours de gagner peu. C'est de ne pas savoir transformer ses revenus en actifs. » — carrousel : actif productif vs dépense
-- [ ] [Patrimoine] « Acheter une action parce que son prix baisse n'est pas une stratégie. » — carrousel : prix vs valeur (BRVM)
+- [x] [Patrimoine] « Acheter une action parce que son prix baisse n'est pas une stratégie. » — carrousel : prix vs valeur (BRVM) (2026-10-27)
 - [ ] [Patrimoine] « Le dividende te fait plaisir aujourd'hui. La qualité de l'entreprise décide du long terme. » — carrousel : lire un rendement sans se piéger
 - [ ] [Patrimoine] « Si tu ne comprends pas comment un investissement crée de la valeur, ne te précipite pas. » — carrousel : 3 questions avant d'investir
 - [ ] [Patrimoine] « Ta valeur nette dit plus de vérité que ton salaire. » — carrousel : calculer sa valeur nette
