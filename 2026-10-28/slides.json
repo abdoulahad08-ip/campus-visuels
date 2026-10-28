@@ -1,0 +1,56 @@
+{
+ "territoire": "cyber",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "turquoise",
+   "tag": "Le vrai risque caché",
+   "title": "Ton *numéro de téléphone* vaut peut-être plus que ton mot de passe.",
+   "body": "Qui reçoit tes SMS reçoit tes codes. 3 réglages pour le protéger ce soir."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Tes codes de sécurité arrivent *par SMS.*",
+   "body": "Téléphone volé, carte SIM détournée : celui qui reçoit tes SMS peut réinitialiser tes comptes."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "3 réglages, *5 minutes,* ce soir.",
+   "body": "Gratuits, sans compétence technique. Ils ferment les portes que ton numéro ouvre."
+  },
+  {
+   "type": "solution",
+   "tag": "Réglage 1/3 · WhatsApp",
+   "title": "Active la *validation en deux étapes.*",
+   "body": "Paramètres > Compte > Validation en deux étapes. Un code que personne ne connaît, plus ton e-mail."
+  },
+  {
+   "type": "solution",
+   "tag": "Réglage 2/3 · Carte SIM",
+   "title": "Mets un *code PIN* sur ta carte SIM.",
+   "body": "Volée, ta SIM ne marchera pas dans un autre téléphone sans ce code."
+  },
+  {
+   "type": "solution",
+   "tag": "Réglage 3/3 · Écran verrouillé",
+   "title": "Cache les *aperçus* de tes SMS.",
+   "body": "Sinon, tes codes de connexion s'affichent sur l'écran verrouillé, lisibles sans déverrouiller."
+  },
+  {
+   "type": "resultat",
+   "tag": "Le résultat",
+   "title": "Ce que coûtent ces 3 *protections* :",
+   "body": "5 minutes pour protéger WhatsApp, Mobile Money et e-mail liés à ton numéro.",
+   "big": "0 FCFA"
+  },
+  {
+   "type": "cta",
+   "tag": "À toi de jouer",
+   "title": "Fais ces *3 réglages* ce soir, avant de dormir.",
+   "body": "Puis montre-les à un proche qui utilise le Mobile Money.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}

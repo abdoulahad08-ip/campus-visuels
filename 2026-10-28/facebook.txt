@@ -1,0 +1,66 @@
+Cybersécurité : ton numéro de téléphone vaut peut-être plus que ton mot de passe.
+
+On protège son mot de passe.
+On oublie le numéro qui reçoit tous les codes.
+
+Le problème qu'on ne voit pas :
+WhatsApp, ton e-mail et beaucoup d'applis envoient leurs codes de connexion par SMS.
+Celui qui reçoit tes SMS peut donc réinitialiser tes comptes.
+
+Comment il les reçoit ?
+Un téléphone volé, ou une carte SIM détournée.
+C'est ce qu'on appelle l'« échange de carte SIM » (SIM swap) : ta ligne passe sur une autre carte, et tes SMS partent avec.
+
+Bonne nouvelle : 3 réglages ferment plusieurs de ces portes.
+Gratuits. 5 minutes. Ce soir.
+
+1⃣ WhatsApp : active la validation en deux étapes.
+Paramètres > Compte > Validation en deux étapes.
+Choisis un code que personne ne connaît et ajoute ton adresse e-mail.
+Celui qui récupère ton numéro devra aussi trouver ce code pour réactiver ton WhatsApp sur un autre téléphone.
+
+2⃣ Carte SIM : mets un code PIN.
+Android : dans Paramètres, cherche « Verrouillage SIM ».
+iPhone : Réglages > Données cellulaires > PIN de la SIM.
+Si on vole ton téléphone, la SIM ne marchera pas dans un autre appareil sans ce code.
+Attention : 3 erreurs bloquent la carte. Le code PUK se demande à ton opérateur.
+
+3⃣ Écran verrouillé : cache les aperçus de tes SMS.
+iPhone : Réglages > Notifications > Afficher les aperçus > « Si déverrouillé ».
+Android : dans les réglages Notifications, masque le contenu sensible sur l'écran de verrouillage.
+Sinon, un code Mobile Money ou WhatsApp peut s'afficher en clair sur un téléphone posé sur la table.
+
+Le résultat :
+Coût : 0 FCFA.
+Temps : 5 minutes.
+Ce que tu protèges : ton WhatsApp, ton Mobile Money et ton e-mail, tous liés au même numéro.
+
+Ton application aujourd'hui :
+Fais les 3 réglages ce soir, avant de dormir.
+Puis montre-les à un proche qui utilise le Mobile Money tous les jours.
+
+Et toi, lequel de ces 3 réglages n'avais-tu pas encore fait ? 1, 2 ou 3 ?
+
+Ici, on partage chaque jour ce qui marche vraiment, sans promesse magique.
+Ceux qui nous suivent verront la différence d'ici quelques mois. 🧱
+
+📚 Et si tu cherches à résoudre des problèmes dans ta vie, voici nos solutions...
+📕👑 Devenir Puissant – 10 lois pour être écouté sans élever la voix 👉 https://campusdesbatisseurs.com/devenir-puissant
+📕📈 L’Investisseur Débutant – épargne, bourse, immobilier : par où commencer ? 👉 https://campusdesbatisseurs.com/inves-debutant
+📕🛡️ Le Portefeuille de Fer – choisir, acheter et garder des actions solides à la BRVM 👉 https://campusdesbatisseurs.com/portefeuill-fer
+📕💰 Ta page qui vend – vendre sur Facebook en toute sécurité 👉 https://campusdesbatisseurs.com/vendre-face
+🎓 Lancer son business en 30 jours – de l’idée aux premiers clients 👉 https://campusdesbatisseurs.com/lanc-business
+🎓 Système Vente en ligne – attirer sur Facebook, conclure sur WhatsApp 👉 https://campusdesbatisseurs.com/vend-enlign
+🎓 Automatiser ses réseaux sociaux avec l’IA – écrire, illustrer et programmer sa semaine 👉 https://campusdesbatisseurs.com/automat-rs
+📦 Pack Patrimoine – de l’épargne à la BRVM 👉 https://campusdesbatisseurs.com/batir
+
+Élève ton potentiel. Apprends à bâtir ton succès. 🏗️
+
+🧱 Campus des Bâtisseurs | Connecter • Accompagner • Bâtir
+🌐 Site web : https://campusdesbatisseurs.com
+🔗 Tous nos liens : https://t.mtrbio.com/campusdesbatisseurs
+📲 WhatsApp : https://wa.me/message/E4UEWM6QJFBDP1
+▶️ YouTube : https://www.youtube.com/@campusdesbatisseurs
+🎵 TikTok : https://www.tiktok.com/@campusdesbatisseurs
+
+#Cybersecurite #WhatsApp #SecuriteEnLigne #MobileMoney #Arnaque #CampusDesBatisseurs #ArnaqueSenegal

@@ -1,0 +1,7 @@
+Validation en deux étapes WhatsApp (code distinct du code SMS d'inscription, e-mail de secours optionnel) : FAQ WhatsApp — https://whatsapp.com/faq/general/26000021
+Échange de carte SIM (SIM swap) : le numéro passe sur la carte de l'attaquant, qui reçoit les SMS et codes à usage unique — https://en.wikipedia.org/wiki/SIM_swap_attack (synthèse, sources FBI IC3)
+Masquer les aperçus des notifications sur l'écran verrouillé (iPhone) : Guide de l'utilisateur de l'iPhone, Apple — https://support.apple.com/fr-afri/guide/iphone/change-notification-settings-iph7c3d96bab/13.0/ios
+Code PIN de la SIM / PUK : réglages standard Android et iOS ; menus Android variables selon la marque (formulation « cherche Verrouillage SIM »).
+Formule d'accroche : « Le vrai risque caché » (imposée par rapports/consignes.md rubrique 2). Diapo 1 en fond turquoise = code CYBER (test consignes rubrique 6).
+Signal social : question précise (1, 2 ou 3), alternée avec l'appel au partage du 27 oct.
+Idée : charte/idees.md, CB | CYBER « Ton numéro de téléphone vaut peut-être plus que ton mot de passe » (choisie car elle correspond à la consigne cyber de la semaine : 3 réglages WhatsApp / Mobile Money / téléphone). Le réglage « ne jamais donner un code SMS » a été remplacé par « masquer les aperçus » car déjà traité le 27 oct à 16h.
