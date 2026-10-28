@@ -1,0 +1,76 @@
+{
+ "territoire": "transformation",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 28 octobre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 28 octobre",
+   "title": "Microsoft propose 60 000 départs : et ton *métier* ?",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →",
+   "theme": "corail"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "La Fed annonce ce mercredi sa décision sur les *taux* américains, attendue par tous les marchés.",
+   "body": "Source : TheStreet"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : le Composite *recule* de 0,50 % à 532,09 points mardi ; SODE CI gagne 7,50 %.",
+   "body": "Source : Le Jecos"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "Madica obtient *6 millions $* de Flourish Ventures pour soutenir 30 nouvelles startups africaines.",
+   "body": "Source : TechMoran / Launch Base Africa"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "Université de Copenhague : une cyberattaque expose les données de *525 000 personnes.*",
+   "body": "Source : Help Net Security",
+   "theme": "corail",
+   "territoire": "cyber"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "Microsoft propose un *départ volontaire* à environ 60 000 salariés, plus d'un quart de ses effectifs.",
+   "body": "Source : CNBC / GeekWire",
+   "theme": "turquoise"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Israël : selon les résultats partiels des législatives, aucun bloc n'a encore les *61 sièges* requis.",
+   "body": "Source : RTBF"
+  },
+  {
+   "type": "probleme",
+   "tag": "Sénégal",
+   "title": "Le budget rectificatif 2026 est *renvoyé en commission* mardi, à la demande du gouvernement.",
+   "body": "Source : Sika Finance"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "L'IA redessine les emplois, même chez les *géants*",
+   "body": "Savoir utiliser l'IA dans ton métier devient un atout concret pour ton emploi."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Laquelle de ces actus te concerne le plus ? Dis-le en commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
