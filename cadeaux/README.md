@@ -12,6 +12,7 @@ Astuce : enregistre chaque message ci-dessous en réponse rapide WhatsApp Busine
 | PUISSANT | 1 nov à 19h | Diagnostic_Gratuit_Devenir_Puissant.pdf |
 | SUIVI | 3 nov à 19h | Outil_Suivi_Vente_Business.xlsx |
 | AUTO | 5 nov à 19h | Kit_Automatiser_reseaux_sociaux.xlsx |
+| BOUCLIER | 28 oct à 20h (post du soir CYBER) | ../soir/2026-10-28/cadeau/Plan_Urgence_WhatsApp_Pirate.pdf |
 
 ## Messages à envoyer (copier-coller)
 
@@ -83,5 +84,15 @@ Bonjour 👋 Merci pour ton message ! Voici le kit Excel « Automatiser ses rés
 👉 https://raw.githubusercontent.com/abdoulahad08-ip/campus-visuels/main/cadeaux/Kit_Automatiser_reseaux_sociaux.xlsx
 
 Prends 15 minutes au calme pour le remplir, et réponds-moi ici si tu as une question. 🧱
+Pour recevoir nos astuces chaque semaine, enregistre ce numéro : +221 76 760 22 22.
+```
+
+### BOUCLIER
+
+```
+Bonjour 👋 Merci pour ton message ! Voici le plan d'urgence « WhatsApp piraté : la première heure », offert par le Campus des Bâtisseurs :
+👉 https://raw.githubusercontent.com/abdoulahad08-ip/campus-visuels/main/soir/2026-10-28/cadeau/Plan_Urgence_WhatsApp_Pirate.pdf
+
+Garde-le dans ton téléphone et partage-le à tes proches, surtout ceux qui utilisent le Mobile Money. Réponds-moi ici si tu as une question. 🧱
 Pour recevoir nos astuces chaque semaine, enregistre ce numéro : +221 76 760 22 22.
 ```
