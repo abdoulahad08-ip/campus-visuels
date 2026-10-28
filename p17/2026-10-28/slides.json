@@ -1,0 +1,44 @@
+{
+ "territoire": "transformation",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "corail",
+   "tag": "Avant / après",
+   "title": "500 heures de tutos. *Zéro* compétence vendue.",
+   "body": "Le problème n'est pas ce que tu sais. C'est ce que personne ne voit."
+  },
+  {
+   "type": "probleme",
+   "tag": "Avant",
+   "title": "Regarder donne l'impression *d'apprendre*. Sans aucune preuve.",
+   "body": "Exemple : Awa regarde des tutos de design depuis 6 mois. Aucun client ne le sait."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1 : semaine 1",
+   "title": "Une compétence, *un client* précis.",
+   "body": "Des visuels pour les boutiques Facebook de son quartier. Pas « le design » en général."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2 : semaines 2 et 3",
+   "title": "Produire *3 preuves* réelles avant de vendre.",
+   "body": "3 visuels pour 3 commerçants connus, contre un avis écrit. Pour 1 h de tuto, 2 h de pratique."
+  },
+  {
+   "type": "resultat",
+   "theme": "turquoise",
+   "tag": "Après 21 jours",
+   "title": "Un portfolio, de vrais avis et une offre claire :",
+   "big": "3 preuves"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "On ne vend pas ce qu'on sait. On vend *ce qu'on montre*.",
+   "body": "Des méthodes concrètes, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}

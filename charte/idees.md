@@ -11,7 +11,7 @@
 - [ ] [Transformation] « Ton potentiel ne te rend pas exceptionnel. Ce que tu construis avec lui peut le faire. » — carrousel : potentiel vs système, 3 briques pour construire
 - [x] [Transformation] « Tu n'as pas besoin de dix nouvelles idées. Tu as besoin d'un système qui transforme une seule idée en résultat. » — carrousel : le système en 4 étapes (2026-10-26, 16h)
 - [ ] [Transformation] « La motivation te fait commencer. Une méthode bien conçue t'aide à continuer. » — carrousel : concevoir sa méthode
-- [ ] [Transformation] « Tu peux consommer 500 heures de contenu et rester incapable de vendre une seule compétence. » — carrousel : de la consommation à la compétence vendable
+- [x] [Transformation] « Tu peux consommer 500 heures de contenu et rester incapable de vendre une seule compétence. » — carrousel : de la consommation à la compétence vendable (2026-10-28, 16h)
 - [ ] [Transformation] « L'intelligence sans exécution peut devenir une forme sophistiquée de procrastination. » — carrousel : biais et routine d'exécution
 - [ ] [Transformation] « Ne cherche pas seulement à devenir meilleur. Construis un système qui produit de meilleurs résultats. » — carrousel : système > volonté
 - [ ] [Transformation] « Le biais qui te fait garder un mauvais projet trop longtemps » (coûts irrécupérables) — carrousel : reconnaître et décider
