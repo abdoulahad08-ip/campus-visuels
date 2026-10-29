@@ -1,0 +1,43 @@
+{
+ "territoire": "patrimoine",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "or",
+   "tag": "Cas pratique",
+   "title": "Ton salaire ne bâtit pas ton patrimoine. Ton *taux d'épargne*, si.",
+   "body": "Deux salaires, deux résultats. Le plus petit gagne. Voici le calcul."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "On compare les salaires. Jamais *ce qui reste*.",
+   "body": "Exemple : Moussa gagne 400 000 FCFA et épargne 20 000. Aïda gagne 250 000 et épargne 37 500."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1 : calcule",
+   "title": "Épargne ÷ revenu × 100 = ton *taux d'épargne*.",
+   "body": "Moussa : 20 000 ÷ 400 000 = 5 %. Aïda : 37 500 ÷ 250 000 = 15 %."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2 : automatise",
+   "title": "Le jour de la paie, l'épargne part *en premier*.",
+   "body": "Puis +1 point par mois. Pour Moussa : 4 000 FCFA de plus, jusqu'à 10 %."
+  },
+  {
+   "type": "resultat",
+   "tag": "Après 3 ans, sans intérêts",
+   "title": "Moussa : 720 000 FCFA. Aïda, qui gagne moins :",
+   "big": "1 350 000 FCFA"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Ce n'est pas ce que tu gagnes. C'est *ce que tu gardes*.",
+   "body": "Des calculs simples, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}

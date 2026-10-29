@@ -32,7 +32,7 @@
 - [x] [Patrimoine] « La dette n'est ni bonne ni mauvaise : elle finance un actif ou une perte. » — carrousel : dette productive vs dette de consommation (2026-10-26)
 - [ ] [Patrimoine] « Crypto : ce que les vendeurs de rêve ne te disent pas sur le risque » — carrousel : risques réels, mention éducative
 - [ ] [Patrimoine] « Ton augmentation n'est pas un gain. C'est un test. » — carrousel : la règle des 50 % de chaque hausse, exemple chiffré en FCFA (idée du 26 oct)
-- [ ] [Patrimoine] « Ce n'est pas ton salaire qui construit ton patrimoine. C'est ton taux d'épargne. » — carrousel : calculer son taux d'épargne en 3 étapes, exemple FCFA (idée du 26 oct)
+- [x] [Patrimoine] « Ce n'est pas ton salaire qui construit ton patrimoine. C'est ton taux d'épargne. » — carrousel : calculer son taux d'épargne en 3 étapes, exemple FCFA (idée du 26 oct) (2026-10-29, 16h)
 
 ## CB | CYBER (25 %) — idées audacieuses du 22 oct 2026
 - [ ] [Cyber] « Ton compte bancaire n'est peut-être pas ton actif le plus vulnérable. Ton identité numérique l'est peut-être davantage. » — carrousel : ce qu'on vole vraiment
