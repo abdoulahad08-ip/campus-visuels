@@ -1,0 +1,57 @@
+{
+ "territoire": "transformation",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "corail",
+   "tag": "Le contre-pied",
+   "title": "L'*IA* ne prendra pas forcément ton poste. Celui qui la maîtrise, peut-être.",
+   "body": "66 % des dirigeants interrogés n'embaucheraient pas un candidat sans compétences en IA (Microsoft, LinkedIn, 2024)."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Tu attends une *formation* pour commencer.",
+   "body": "Pendant ce temps, d'autres apprennent sur leurs vraies tâches, un peu chaque jour."
+  },
+  {
+   "type": "promesse",
+   "tag": "La méthode",
+   "title": "*15 minutes* par jour, sur ton vrai travail.",
+   "body": "Pas de théorie. Une tâche de ton métier, 3 étapes, 5 jours."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1/3 · Choisir",
+   "title": "Choisis *une seule* tâche répétitive.",
+   "body": "Un e-mail client, un compte rendu, un devis, une publication. Une tâche que tu fais chaque semaine."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2/3 · Pratiquer",
+   "title": "Fais-la avec l'IA, *15 minutes* chaque jour.",
+   "body": "Donne le contexte, ton rôle et le format attendu. Puis demande une deuxième version, plus précise."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "Étape 3/3 · Vérifier",
+   "title": "*Vérifie* tout avant de l'utiliser.",
+   "body": "Chiffres, noms, faits : l'IA peut se tromper avec assurance. Jamais de données confidentielles de clients."
+  },
+  {
+   "type": "resultat",
+   "tag": "Le résultat",
+   "title": "Ce que donnent *15 minutes* par jour en un mois :",
+   "body": "Sur 20 jours ouvrés. Et réparti chaque jour, on retient mieux qu'en bloc (Cepeda et al., 2006).",
+   "big": "5 h"
+  },
+  {
+   "type": "cta",
+   "tag": "À toi de jouer",
+   "title": "Choisis ta tâche aujourd'hui et fais ta *première séance.*",
+   "body": "Note le temps passé. Compare vendredi.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
