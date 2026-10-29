@@ -18,7 +18,7 @@
 - [ ] [Transformation] « Ce que l'IA ne remplacera pas dans ton métier (et ce qu'elle va remplacer) » — carrousel : compétences à renforcer, sources vérifiées
 - [ ] [Transformation] « Vendre sur WhatsApp n'est pas envoyer un catalogue » — carrousel : la conversation qui vend
 - [ ] [Transformation] « Une compétence ne vaut rien tant que personne ne sait que tu l'as. » — carrousel : la rendre visible et démontrable
-- [ ] [Transformation] « L'IA ne prendra peut-être pas ton poste. Quelqu'un qui l'utilise mieux que toi, peut-être. » — carrousel : 3 tâches de ton métier à tester avec l'IA cette semaine + la méthode pour vérifier le résultat (idée du 26 oct)
+- [x] [Transformation] « L'IA ne prendra peut-être pas ton poste. Quelqu'un qui l'utilise mieux que toi, peut-être. » — carrousel : 3 tâches de ton métier à tester avec l'IA cette semaine + la méthode pour vérifier le résultat (idée du 26 oct) (2026-10-29)
 - [ ] [Transformation] « Tu comprends l'anglais. Tu n'oses pas le parler. Le problème n'est pas ton niveau. » — carrousel : 5 phrases d'anglais pro à dire en réunion + routine de 10 min par jour (idée du 26 oct)
 
 ## CB | PATRIMOINE (35 %) — idées audacieuses du 22 oct 2026
