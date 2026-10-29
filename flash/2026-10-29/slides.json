@@ -1,0 +1,77 @@
+{
+ "territoire": "patrimoine",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 29 octobre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 29 octobre",
+   "title": "Sonatel −5 % en un jour : et ton *épargne* ?",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →",
+   "theme": "or",
+   "territoire": "patrimoine"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "La Fed maintient ses *taux* entre 3,75 % et 4 % ; deux membres sur douze votaient pour une hausse.",
+   "body": "Source : CNBC / Yahoo Finance"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : le Composite *recule* de 0,70 % à 528,34 points mercredi ; Sonatel perd 5,08 %.",
+   "body": "Source : Le Jecos"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "Talent Nation lève un tour de pré-amorçage pour former *1 million* d'ingénieurs IA africains.",
+   "body": "Source : TechMoran"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "Allemagne : *345 000 adresses* e-mail volées lors d'une cyberattaque contre le parti AfD.",
+   "body": "Source : Help Net Security",
+   "theme": "corail",
+   "territoire": "cyber"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "Alphabet dépense un *record* de 51,4 milliards $ en investissements au 3e trimestre ; l'action recule.",
+   "body": "Source : Fortune",
+   "theme": "turquoise"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Moscou accueille le 3e sommet Russie-Afrique, avec des délégations de *48 pays*.",
+   "body": "Source : Reuters / Dawn"
+  },
+  {
+   "type": "probleme",
+   "tag": "Sénégal",
+   "title": "Les JOJ Dakar 2026 s'ouvrent samedi 31 octobre ; un dispositif d'insertion vise *6 000 jeunes*.",
+   "body": "Source : Conseil des ministres / SenePlus"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "En bourse, les prix *bougent* chaque jour",
+   "body": "Une baisse d'un jour ne change pas l'entreprise : la bourse se pense sur plusieurs années."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Laquelle de ces actus te concerne le plus ? Dis-le en commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
