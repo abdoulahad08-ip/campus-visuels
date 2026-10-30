@@ -1,5 +1,6 @@
 # Carrousel valeur du 2026-10-30 (vendredi) — CB | TRANSFORMATION
 Sujet : Vendre sur WhatsApp n'est pas envoyer un catalogue ; la conversation qui vend en 5 messages (idée CB | TRANSFORMATION ligne « Vendre sur WhatsApp », thème vente du vendredi).
+Programmé : Facebook 10h (410876819), TikTok 10h (410876549), LinkedIn 11h document PDF (410876828).
 Mots-clés : vendre sur WhatsApp, WhatsApp Business, vente, clients, entrepreneuriat. Accroche : « La distinction qui éclaire ». Diapo 1 vert forêt, diapo 6 turquoise.
 
 ## Script vidéo 30–60 s
