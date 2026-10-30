@@ -1,0 +1,71 @@
+{
+ "territoire": "patrimoine",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 30 octobre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 30 octobre",
+   "title": "Euro, BCE : pourquoi ton *franc CFA* est concerné",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →",
+   "theme": "or",
+   "territoire": "patrimoine"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "La BCE laisse son *taux de dépôt* à 2,50 % et cite la hausse des prix de l'énergie comme risque.",
+   "body": "Source : BCE (communiqué officiel)"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "Wall Street : l'action Alphabet chute de *12,64 %* jeudi ; le Nasdaq recule de 1,4 %.",
+   "body": "Source : CNBC / StockTitan"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "Ghana : Vitara Agritech lève *1,8 million d'euros* pour la filière karité et ses productrices.",
+   "body": "Source : Managers / AgriFI"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "Japon : plus de *2,1 millions* de dossiers clients volés chez So-net, le fournisseur internet de Sony.",
+   "body": "Source : TechRadar",
+   "theme": "corail",
+   "territoire": "cyber"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "Amazon : le cloud AWS grimpe de *39 %* à 46 milliards $ au 3e trimestre ; l'action recule.",
+   "body": "Source : Fortune",
+   "theme": "turquoise"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Israël : *aucune majorité* après les législatives ; le bloc Netanyahu obtient 53 sièges sur 120.",
+   "body": "Source : Al Jazeera"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Ton franc CFA suit l'euro : la BCE te *concerne*",
+   "body": "Ses choix sont suivis de près par la BCEAO, qui fixe le coût du crédit dans l'UEMOA."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Laquelle de ces actus te concerne le plus ? Dis-le en commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
