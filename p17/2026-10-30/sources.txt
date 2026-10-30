@@ -1,0 +1,3 @@
+Formule accroche : la croyance renversée (idée reçue « une arnaque se repère à ses fautes »)
+Source : FBI, Internet Crime Complaint Center, alerte I-120324-PSA du 3 déc. 2024, « Criminals Use Generative Artificial Intelligence to Facilitate Financial Fraud » (https://ic3.gov/PSA/2024/PSA241203) : clonage vocal d'un proche en crise, IA qui corrige les erreurs servant de signaux d'alerte ; conseils : mot secret familial, raccrocher et rappeler, limiter les contenus publics de sa voix et passer ses comptes en privé.
+WhatsApp : fonction « appels inconnus en silence » (Paramètres > Confidentialité > Appels), lancée par Meta en juin 2023.

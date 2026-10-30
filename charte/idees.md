@@ -41,7 +41,7 @@
 - [ ] [Cyber] « La cybersécurité n'est pas seulement un métier technique. C'est une compétence stratégique. » — carrousel : pourquoi dirigeants et salariés en ont besoin
 - [ ] [Cyber] « Tu veux travailler dans la cybersécurité ? Arrête de collectionner les vidéos. Construis des compétences démontrables. » — carrousel : parcours, labs, certifications
 - [ ] [Cyber] « Ta boutique en ligne peut être fermée par un seul mot de passe faible. » — carrousel : sécuriser son e-commerce
-- [ ] [Cyber] « L'IA rend les arnaques plus crédibles. Voici comment les repérer quand même. » — carrousel : deepfakes vocaux, messages parfaits
+- [x] [Cyber] « L'IA rend les arnaques plus crédibles. Voici comment les repérer quand même. » — carrousel : deepfakes vocaux, messages parfaits (2026-10-30, 16h)
 - [x] [Cyber] « Ton numéro de téléphone vaut peut-être plus que ton mot de passe. » — carrousel : ce qu'un numéro récupéré ouvre (WhatsApp, Mobile Money, e-mail) + 3 réglages ce soir (validation en deux étapes WhatsApp, code PIN de la carte SIM, ne jamais donner un code reçu par SMS) (idée du 26 oct) (2026-10-28)
 
 ## Finance & argent (lundi)

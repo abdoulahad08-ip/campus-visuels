@@ -1,0 +1,43 @@
+{
+ "territoire": "cyber",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "corail",
+   "tag": "Idée reçue",
+   "title": "Une arnaque se repère à ses fautes ? *Plus maintenant.*",
+   "body": "On croit reconnaître un escroc à son français. L'IA écrit sans fautes et imite les voix."
+  },
+  {
+   "type": "probleme",
+   "tag": "Ce que dit le FBI",
+   "title": "L'IA peut cloner la *voix* d'un proche.",
+   "body": "Un court audio, une urgence, une demande d'argent. Source : FBI, alerte IC3 du 3 déc. 2024."
+  },
+  {
+   "type": "solution",
+   "tag": "Réglage 1/3 · Famille",
+   "title": "Choisis ce soir un *mot de code* familial.",
+   "body": "Un mot que seuls vous connaissez. Pas de mot, pas d'argent, même si la voix est parfaite."
+  },
+  {
+   "type": "solution",
+   "tag": "Réglage 2/3 · WhatsApp",
+   "title": "Coupe la sonnerie des *appels inconnus*.",
+   "body": "Paramètres > Confidentialité > Appels. Les numéros inconnus ne sonnent plus, ils restent dans l'historique."
+  },
+  {
+   "type": "resultat",
+   "tag": "Réglage 3/3 · Réseaux",
+   "title": "Moins ta voix est publique, moins on la copie. Tes comptes :",
+   "big": "Privés"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Une voix n'est plus une *preuve*.",
+   "body": "Des réflexes vérifiés contre les arnaques du moment, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
