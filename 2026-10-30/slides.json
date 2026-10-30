@@ -1,0 +1,56 @@
+{
+ "territoire": "transformation",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Vendre sur WhatsApp",
+   "title": "Envoyer ton *catalogue* n'est pas vendre. C'est attendre.",
+   "body": "Sur WhatsApp, ce qui vend, c'est la conversation. Pas la liste de photos."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Le client écrit « C'est dispo ? ». Tu envoies *20 photos*.",
+   "body": "Il doit tout chercher seul. Et toi, tu ne sais toujours pas ce dont il a besoin."
+  },
+  {
+   "type": "promesse",
+   "tag": "La méthode",
+   "title": "La conversation qui vend : *3 étapes*, 5 messages.",
+   "body": "Accueillir, comprendre, rassurer, proposer, confirmer. À écrire une fois, à utiliser chaque jour."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1/3 · Accueillir",
+   "title": "Réponds avec le *prix*, le délai, puis une question.",
+   "body": "Exemple : « Oui, 15 000 FCFA, livré demain. C'est pour quelle occasion ? » Puis écoute et conseille."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2/3 · Rassurer",
+   "title": "Envoie *une preuve*, pas un discours.",
+   "body": "La vidéo d'une vraie livraison, une photo de ton vrai stock, ton point de retrait."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "Étape 3/3 · Conclure",
+   "title": "Propose l'étape suivante, puis *récapitule* par écrit.",
+   "body": "« Je vous le réserve pour jeudi ? » Puis : produit, prix, jour de livraison, paiement."
+  },
+  {
+   "type": "resultat",
+   "tag": "Le résultat",
+   "title": "Tes messages, écrits une fois en *réponses rapides*.",
+   "body": "WhatsApp Business : Outils professionnels, Réponses rapides. Tape « / » dans la discussion pour les retrouver.",
+   "big": "5 messages"
+  },
+  {
+   "type": "cta",
+   "tag": "À toi de jouer",
+   "title": "Écris ton message d'*accueil* aujourd'hui.",
+   "body": "Prix, délai, une question. Enregistre-le en réponse rapide.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
