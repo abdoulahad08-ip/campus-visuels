@@ -144,6 +144,8 @@ Espaces insécables avant « : ? ! » et entre nombre et unité.
 - TikTok « entretien d'embauche » : 439 vues.
 - Carrousel validé de référence : 2026-10-12/ (argent : « Tu travailles dur… et pourtant il ne reste rien »).
 - TikTok cadeau « Arrête de chercher des raccourcis » (BÂTIR, 23 oct 2026, 18h) : 523 vues, 2 commentaires, 1 partage, 7,8 % d'engagement (CB | TRANSFORMATION).
+- Carrousel « Ta dette n'est pas le problème. C'est ce qu'elle achète. » (26 oct 2026, 10h, CB | PATRIMOINE) : 754 vues TikTok (record carrousel) ; LinkedIn 150 impressions, 141 clics.
+- TikTok vidéo « N'endormez pas la jeunesse. Faites-les travailler » (4 nov 2026, 18h, CB | TRANSFORMATION) : 618 vues, 9 % d'engagement, 2 commentaires, 26 s regardées en moyenne (record).
 - Les tâches ajoutent ici les nouveaux tops signalés par le rapport hebdomadaire.
 
 ## Contrôle qualité (avant toute programmation)

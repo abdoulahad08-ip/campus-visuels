@@ -21,6 +21,8 @@
 - [x] [Transformation] « L'IA ne prendra peut-être pas ton poste. Quelqu'un qui l'utilise mieux que toi, peut-être. » — carrousel : 3 tâches de ton métier à tester avec l'IA cette semaine + la méthode pour vérifier le résultat (idée du 26 oct) (2026-10-29)
 - [ ] [Transformation] « Tu comprends l'anglais. Tu n'oses pas le parler. Le problème n'est pas ton niveau. » — carrousel : 5 phrases d'anglais pro à dire en réunion + routine de 10 min par jour (idée du 26 oct)
 
+- [ ] [Transformation] « La motivation dure 3 jours. Une habitude bien choisie peut durer 66. » — défi du soir : écris « 66 » + l'habitude que tu tiens à partir de demain (idée du 9 nov, source UCL 2010)
+- [ ] [Transformation] « Tu comprends l'anglais en réunion. Tu te tais quand il faut parler. » — carrousel : 5 phrases pour prendre la parole en réunion + défi « I CAN » (idée du 9 nov)
 ## CB | PATRIMOINE (35 %) — idées audacieuses du 22 oct 2026
 - [x] [Patrimoine] « Un revenu élevé ne garantit pas un patrimoine élevé. » — carrousel : revenus vs actifs, exemple chiffré pédagogique (2026-10-22, 16h)
 - [x] [Patrimoine] « Tu peux travailler 30 ans sans construire un patrimoine à la hauteur de tes efforts. » — carrousel : le mécanisme et la sortie (2026-11-09)
@@ -34,6 +36,8 @@
 - [ ] [Patrimoine] « Ton augmentation n'est pas un gain. C'est un test. » — carrousel : la règle des 50 % de chaque hausse, exemple chiffré en FCFA (idée du 26 oct)
 - [x] [Patrimoine] « Ce n'est pas ton salaire qui construit ton patrimoine. C'est ton taux d'épargne. » — carrousel : calculer son taux d'épargne en 3 étapes, exemple FCFA (idée du 26 oct) (2026-10-29, 16h)
 
+- [ ] [Patrimoine] « La famille passe avant ton épargne ? Alors ton épargne doit passer avant ton salaire. » — carrousel : prévoir une ligne « famille et imprévus » dans le budget, exemple chiffré en FCFA (idée du 9 nov, réponse au sondage du 8 nov)
+- [ ] [Patrimoine] « Ton crédit n'est pas cher à cause du taux. Il est cher à cause de sa durée. » — carrousel : même prêt sur 6, 12 et 24 mois, coût total en FCFA (idée du 9 nov)
 ## CB | CYBER (25 %) — idées audacieuses du 22 oct 2026
 - [ ] [Cyber] « Ton compte bancaire n'est peut-être pas ton actif le plus vulnérable. Ton identité numérique l'est peut-être davantage. » — carrousel : ce qu'on vole vraiment
 - [ ] [Cyber] « Une entreprise peut perdre des années de confiance à cause d'une seule faille. » — carrousel : cas public sourcé + 3 protections PME
@@ -44,6 +48,7 @@
 - [x] [Cyber] « L'IA rend les arnaques plus crédibles. Voici comment les repérer quand même. » — carrousel : deepfakes vocaux, messages parfaits (2026-10-30, 16h)
 - [x] [Cyber] « Ton numéro de téléphone vaut peut-être plus que ton mot de passe. » — carrousel : ce qu'un numéro récupéré ouvre (WhatsApp, Mobile Money, e-mail) + 3 réglages ce soir (validation en deux étapes WhatsApp, code PIN de la carte SIM, ne jamais donner un code reçu par SMS) (idée du 26 oct) (2026-10-28)
 
+- [ ] [Cyber] « Ton code Mobile Money n'est pas secret si ta date de naissance est sur Facebook. » — carrousel : 3 codes à changer ce soir + question « combien de tes codes sont une date ? réponds par un chiffre » (idée du 9 nov)
 ## Finance & argent (lundi)
 - [x] [Finance] Tu gagnes plus et il ne reste rien à la fin du mois — erreur/bonne pratique (2026-10-12)
 - [x] [Finance] 20 % par mois « sans risque » : les signes d'une arnaque — checklist (2026-10-14)
