@@ -1,0 +1,71 @@
+{
+ "territoire": "patrimoine",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 9 novembre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 9 novembre",
+   "title": "Pétrole en chute : ce que ça change pour ton *carburant*",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →",
+   "theme": "or",
+   "territoire": "patrimoine"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Pétrole : le Brent a perdu *16 %* la semaine dernière, sa plus forte baisse hebdo depuis le Covid.",
+   "body": "Source : Reuters"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "Wall Street vendredi : le Nasdaq *rebondit* de 1,09 % après sa chute de 5,5 % jeudi.",
+   "body": "Source : Fox Business (FactSet)"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "Startups africaines : 183 M$ levés en octobre (-24 %) ; au *Sénégal*, Afreenergy Solar obtient 13 M$.",
+   "body": "Source : Managers / Africa: The Big Deal"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "Binance : le FBI attribue à la *Corée du Nord* le vol de plus de 6 milliards $ de cryptoactifs.",
+   "body": "Source : Security Affairs / DCOD",
+   "theme": "corail",
+   "territoire": "cyber"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "Apple : un Siri « *agent* », qui agit dans les applis, pourrait arriver dès 2027, selon Bloomberg.",
+   "body": "Source : Bloomberg via 9to5Mac",
+   "theme": "turquoise"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Iran : Trump juge « *très peu probable* » de nouvelles frappes si les négociations progressent.",
+   "body": "Source : Reuters / CNN"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Baril moins cher ne veut pas dire *carburant* moins cher",
+   "body": "Au Sénégal, les prix à la pompe sont fixés par l'État : la baisse n'est pas automatique."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Laquelle de ces actus te concerne le plus ? Dis-le en commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
