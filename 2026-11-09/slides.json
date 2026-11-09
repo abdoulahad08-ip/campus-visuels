@@ -1,0 +1,57 @@
+{
+ "territoire": "patrimoine",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "or",
+   "tag": "La croyance renversée",
+   "title": "Tu peux travailler *30 ans* sans bâtir de patrimoine.",
+   "body": "Travailler dur ne suffit pas. Il manque un mécanisme. Le voici."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Ton revenu s'arrête *le jour* où tu t'arrêtes.",
+   "body": "Ce qui reste dort sur un compte. Et chaque hausse part dans le train de vie."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "3 réglages pour que ton argent *travaille* aussi.",
+   "body": "Pas besoin de gagner plus pour commencer. Il te faut un système."
+  },
+  {
+   "type": "solution",
+   "tag": "Réglage 1/3",
+   "title": "Paie-toi *d'abord*, le jour de la paie.",
+   "body": "Un montant fixe part vers l'épargne avant toute dépense. Même 10 % suffit pour démarrer."
+  },
+  {
+   "type": "solution",
+   "tag": "Réglage 2/3",
+   "title": "Donne un *travail* à cet argent.",
+   "body": "Après ton fonds d'urgence, vise des actifs qui produisent. Comprends toujours avant d'investir."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "Réglage 3/3",
+   "title": "Laisse le *temps* faire sa part.",
+   "body": "Ne retire pas les gains : réinvestis-les. Les intérêts produisent à leur tour des intérêts."
+  },
+  {
+   "type": "resultat",
+   "tag": "Exemple",
+   "title": "30 000 FCFA par mois pendant 30 ans, à 5 % par an :",
+   "body": "Sans placement : 10,8 millions, qui achèteront moins. Taux hypothétique, jamais garanti.",
+   "big": "≈ 25 M FCFA"
+  },
+  {
+   "type": "cta",
+   "tag": "À toi de jouer",
+   "title": "Fixe aujourd'hui le montant qui part *avant* tes dépenses.",
+   "body": "Écris-le. Programme-le pour le jour de ta paie.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}

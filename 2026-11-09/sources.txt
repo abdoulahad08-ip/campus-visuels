@@ -1,0 +1,4 @@
+Formule d'accroche (diapo 1) : La croyance renversée (« Travailler dur suffit »). Diapo 1 en thème or (code PATRIMOINE) pour mesure.
+Calcul pédagogique (aucun chiffre externe) : 30 000 FCFA/mois x 360 mois = 10 800 000 FCFA versés ; capitalisation mensuelle à 5 %/an (taux hypothétique) : FV = 30 000 x ((1+0,05/12)^360 - 1)/(0,05/12) ≈ 24 967 759 FCFA ≈ 25 millions.
+Principe des intérêts composés : résultat mathématique établi.
+Inflation : mentionnée sans chiffre (le chiffre ANSD 2025 n'a pas pu être vérifié, site inaccessible aux robots).
