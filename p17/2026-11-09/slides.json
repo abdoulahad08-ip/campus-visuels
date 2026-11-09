@@ -1,0 +1,43 @@
+{
+ "territoire": "transformation",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Avant / après",
+   "title": "Tu comprends l'anglais en réunion. Tu te *tais* quand même.",
+   "body": "Le problème n'est pas ton niveau. C'est qu'aucune phrase n'est prête."
+  },
+  {
+   "type": "probleme",
+   "tag": "Avant",
+   "title": "Tu cherches la phrase *parfaite*. La réunion est déjà passée.",
+   "body": "Exemple : Moussa, comptable, a la bonne idée. Il la traduit dans sa tête. Trop tard."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1 : semaine 1",
+   "title": "Apprendre *5 phrases* entières, pas des mots isolés.",
+   "body": "Can I add something? · I agree, and… · Could you repeat that? · What I mean is… · So, next step…"
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2 : semaines 2 et 3",
+   "title": "10 minutes par jour, *à voix haute*.",
+   "body": "Chaque phrase dite 5 fois, un vocal WhatsApp pour s'écouter, puis une phrase placée par réunion."
+  },
+  {
+   "type": "resultat",
+   "theme": "turquoise",
+   "tag": "Après 21 jours",
+   "title": "Une prise de parole par réunion, sans traduire dans sa tête :",
+   "big": "5 phrases"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "On ne parle pas quand on est prêt. On devient prêt *en parlant*.",
+   "body": "Des méthodes concrètes, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}

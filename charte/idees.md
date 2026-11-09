@@ -22,7 +22,7 @@
 - [ ] [Transformation] « Tu comprends l'anglais. Tu n'oses pas le parler. Le problème n'est pas ton niveau. » — carrousel : 5 phrases d'anglais pro à dire en réunion + routine de 10 min par jour (idée du 26 oct)
 
 - [ ] [Transformation] « La motivation dure 3 jours. Une habitude bien choisie peut durer 66. » — défi du soir : écris « 66 » + l'habitude que tu tiens à partir de demain (idée du 9 nov, source UCL 2010)
-- [ ] [Transformation] « Tu comprends l'anglais en réunion. Tu te tais quand il faut parler. » — carrousel : 5 phrases pour prendre la parole en réunion + défi « I CAN » (idée du 9 nov)
+- [x] [Transformation] « Tu comprends l'anglais en réunion. Tu te tais quand il faut parler. » — carrousel : 5 phrases pour prendre la parole en réunion + défi « I CAN » (idée du 9 nov) (2026-11-09, 16h)
 ## CB | PATRIMOINE (35 %) — idées audacieuses du 22 oct 2026
 - [x] [Patrimoine] « Un revenu élevé ne garantit pas un patrimoine élevé. » — carrousel : revenus vs actifs, exemple chiffré pédagogique (2026-10-22, 16h)
 - [x] [Patrimoine] « Tu peux travailler 30 ans sans construire un patrimoine à la hauteur de tes efforts. » — carrousel : le mécanisme et la sortie (2026-11-09)
