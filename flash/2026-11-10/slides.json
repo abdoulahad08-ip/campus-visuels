@@ -1,0 +1,71 @@
+{
+ "territoire": "patrimoine",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 10 novembre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 10 novembre",
+   "title": "Inflation en Europe : ce que ça change pour ton *FCFA*",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →",
+   "theme": "or",
+   "territoire": "patrimoine"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "BCE : Christine Lagarde prévient que l'inflation restera *élevée* dans les prochains trimestres.",
+   "body": "Source : Bloomberg"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "Wall Street finit en nette hausse lundi, portée par *l'IA*, mais Nvidia chute de 6 %.",
+   "body": "Source : AFP / BFM Bourse"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "Afrique du Sud : la fintech Yoco obtient *100 M$* de Victory Park Capital pour prêter aux commerçants.",
+   "body": "Source : TechAfrika"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "La France accuse l'Iran de cyberattaques contre les systèmes de froid de *supermarchés*.",
+   "body": "Source : Euronews",
+   "theme": "corail",
+   "territoire": "cyber"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "Anthropic, créateur de l'IA Claude, prévoit toujours d'entrer en *Bourse* ce mois-ci, selon le WSJ.",
+   "body": "Source : Gizmodo / WSJ",
+   "theme": "turquoise"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Ukraine : l'UE, la France, l'Allemagne et le Royaume-Uni rejoignent les *pourparlers* d'Abou Dhabi.",
+   "body": "Source : Euronews"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Ton FCFA suit l'euro, et donc la *BCE*",
+   "body": "Des taux européens élevés peuvent garder le crédit cher ici."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Laquelle de ces actus te concerne le plus ? Dis-le en commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
