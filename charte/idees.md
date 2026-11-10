@@ -28,7 +28,7 @@
 - [x] [Patrimoine] « Tu peux travailler 30 ans sans construire un patrimoine à la hauteur de tes efforts. » — carrousel : le mécanisme et la sortie (2026-11-09)
 - [ ] [Patrimoine] « Le problème n'est pas toujours de gagner peu. C'est de ne pas savoir transformer ses revenus en actifs. » — carrousel : actif productif vs dépense
 - [x] [Patrimoine] « Acheter une action parce que son prix baisse n'est pas une stratégie. » — carrousel : prix vs valeur (BRVM) (2026-10-27)
-- [ ] [Patrimoine] « Le dividende te fait plaisir aujourd'hui. La qualité de l'entreprise décide du long terme. » — carrousel : lire un rendement sans se piéger
+- [x] [Patrimoine] « Le dividende te fait plaisir aujourd'hui. La qualité de l'entreprise décide du long terme. » — carrousel : lire un rendement sans se piéger (2026-11-10)
 - [ ] [Patrimoine] « Si tu ne comprends pas comment un investissement crée de la valeur, ne te précipite pas. » — carrousel : 3 questions avant d'investir
 - [ ] [Patrimoine] « Ta valeur nette dit plus de vérité que ton salaire. » — carrousel : calculer sa valeur nette
 - [x] [Patrimoine] « La dette n'est ni bonne ni mauvaise : elle finance un actif ou une perte. » — carrousel : dette productive vs dette de consommation (2026-10-26)
