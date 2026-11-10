@@ -1,0 +1,42 @@
+{
+ "territoire": "cyber",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Cas pratique",
+   "title": "Ton code est ta date de naissance ? Il n'est plus *secret*.",
+   "body": "Démonstration sur un code Mobile Money à 4 chiffres. Les calculs tiennent sur une main."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le calcul",
+   "title": "4 chiffres : 10 000 codes possibles. Une date : *366* seulement.",
+   "body": "Exemple : Fatou, née le 14 mars, code 1403. Sa date est visible sur Facebook : 1 seul essai."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1 : ce soir",
+   "title": "Change chaque code qui ressemble à une *date*.",
+   "body": "Naissance, mariage, enfant, année comme 1990 : 4 chiffres sans aucun lien avec ta vie."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2 : ce soir",
+   "title": "Cache ta date de naissance et *sépare* tes codes.",
+   "body": "Facebook, « À propos » : « Moi uniquement ». Puis un code différent pour Wave, Orange Money, téléphone."
+  },
+  {
+   "type": "resultat",
+   "tag": "Résultat",
+   "title": "Sans date ni code répété, il faut deviner parmi",
+   "big": "10 000 codes"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Ce que tu publies peut *ouvrir* ton portefeuille.",
+   "body": "Des réflexes concrets, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}

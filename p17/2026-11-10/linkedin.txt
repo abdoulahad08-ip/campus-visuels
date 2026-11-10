@@ -1,0 +1,30 @@
+Cybersécurité : un code Mobile Money basé sur une date de naissance n'est pas un secret. C'est une information publique.
+
+Le calcul est simple. Un code à 4 chiffres offre 10 000 combinaisons. Une date (jour + mois) n'en offre que 366. Et si la date de naissance apparaît sur un profil Facebook, il n'en reste qu'une.
+
+Exemple pédagogique : née le 14 mars, code 1403, anniversaire souhaité publiquement chaque année. L'accès au portefeuille ne dépend plus que de l'accès au téléphone.
+
+Trois réglages à appliquer, et à faire appliquer dans vos équipes :
+1. Remplacer tout code qui ressemble à une date (naissance, mariage, enfant, année).
+2. Masquer sa date de naissance sur les réseaux sociaux (« Moi uniquement »).
+3. Un code différent par usage : paiement mobile, téléphone, carte SIM, comptes de l'entreprise.
+
+Pour une PME, c'est une sensibilisation de 5 minutes qui protège la trésorerie gérée sur mobile.
+
+👉 Le carrousel complet ci-dessous.
+
+Dans votre équipe, combien de codes de paiement sont une date ? Répondez par un chiffre.
+
+Ici, on partage chaque jour ce qui marche vraiment, sans promesse magique.
+Ceux qui nous suivent verront la différence d'ici quelques mois. 🧱
+
+Campus des Bâtisseurs | Connecter • Accompagner • Bâtir
+Éducation financière, carrière, entrepreneuriat et cybersécurité pour l'Afrique francophone.
+🌐 https://campusdesbatisseurs.com
+🔗 Tous nos liens : https://t.mtrbio.com/campusdesbatisseurs
+📚 Nos guides et formations : https://campusdesbatisseurs.com
+▶️ YouTube : https://www.youtube.com/@campusdesbatisseurs
+📘 Facebook : https://www.facebook.com/campusdesbatisseurs/
+
+
+#Cybersecurite #MobileMoney #SecuriteEnLigne #PME #CampusDesBatisseurs
