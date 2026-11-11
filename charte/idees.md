@@ -39,7 +39,7 @@
 - [ ] [Patrimoine] « La famille passe avant ton épargne ? Alors ton épargne doit passer avant ton salaire. » — carrousel : prévoir une ligne « famille et imprévus » dans le budget, exemple chiffré en FCFA (idée du 9 nov, réponse au sondage du 8 nov)
 - [ ] [Patrimoine] « Ton crédit n'est pas cher à cause du taux. Il est cher à cause de sa durée. » — carrousel : même prêt sur 6, 12 et 24 mois, coût total en FCFA (idée du 9 nov)
 ## CB | CYBER (25 %) — idées audacieuses du 22 oct 2026
-- [ ] [Cyber] « Ton compte bancaire n'est peut-être pas ton actif le plus vulnérable. Ton identité numérique l'est peut-être davantage. » — carrousel : ce qu'on vole vraiment
+- [x] [Cyber] « Ton compte bancaire n'est peut-être pas ton actif le plus vulnérable. Ton identité numérique l'est peut-être davantage. » — carrousel : ce qu'on vole vraiment (2026-11-11)
 - [ ] [Cyber] « Une entreprise peut perdre des années de confiance à cause d'une seule faille. » — carrousel : cas public sourcé + 3 protections PME
 - [x] [Cyber] « Tu n'as pas besoin d'être un hacker pour devenir une cible. » — carrousel : ingénierie sociale et réflexes (2026-10-27, 16h)
 - [ ] [Cyber] « La cybersécurité n'est pas seulement un métier technique. C'est une compétence stratégique. » — carrousel : pourquoi dirigeants et salariés en ont besoin
