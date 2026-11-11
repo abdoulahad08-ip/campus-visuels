@@ -14,7 +14,7 @@
 - [x] [Transformation] « Tu peux consommer 500 heures de contenu et rester incapable de vendre une seule compétence. » — carrousel : de la consommation à la compétence vendable (2026-10-28, 16h)
 - [ ] [Transformation] « L'intelligence sans exécution peut devenir une forme sophistiquée de procrastination. » — carrousel : biais et routine d'exécution
 - [ ] [Transformation] « Ne cherche pas seulement à devenir meilleur. Construis un système qui produit de meilleurs résultats. » — carrousel : système > volonté
-- [ ] [Transformation] « Le biais qui te fait garder un mauvais projet trop longtemps » (coûts irrécupérables) — carrousel : reconnaître et décider
+- [x] [Transformation] « Le biais qui te fait garder un mauvais projet trop longtemps » (coûts irrécupérables) — carrousel : reconnaître et décider (2026-11-11, 16h)
 - [ ] [Transformation] « Ce que l'IA ne remplacera pas dans ton métier (et ce qu'elle va remplacer) » — carrousel : compétences à renforcer, sources vérifiées
 - [x] [Transformation] « Vendre sur WhatsApp n'est pas envoyer un catalogue » — carrousel : la conversation qui vend (2026-10-30)
 - [ ] [Transformation] « Une compétence ne vaut rien tant que personne ne sait que tu l'as. » — carrousel : la rendre visible et démontrable

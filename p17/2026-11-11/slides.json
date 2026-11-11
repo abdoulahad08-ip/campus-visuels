@@ -1,0 +1,43 @@
+{
+ "territoire": "transformation",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "corail",
+   "tag": "Idée reçue",
+   "title": "Tu as trop investi pour arrêter ? C'est exactement le *piège*.",
+   "body": "On croit que persévérer est toujours une qualité. Parfois, c'est un biais qui coûte cher."
+  },
+  {
+   "type": "probleme",
+   "tag": "Ce que dit la recherche",
+   "title": "54 % choisissent le voyage qu'ils *aiment le moins*.",
+   "body": "Raison : il avait coûté plus cher. Arkes et Blumer, 1985 : le biais des coûts irrécupérables."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1",
+   "title": "Efface l'argent déjà dépensé du *calcul*.",
+   "body": "Une seule question : si je partais de zéro aujourd'hui, est-ce que je lancerais ce projet ?"
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2",
+   "title": "Fixe une *limite* avant de remettre un franc.",
+   "body": "Une date et un montant maximum. Limite atteinte sans progrès : on arrête. En anglais : « Let's cut our losses. »"
+  },
+  {
+   "type": "resultat",
+   "tag": "La règle",
+   "title": "Le poids de l'argent déjà perdu dans ta prochaine décision :",
+   "big": "0 FCFA"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Persévérer est une force. *S'acharner* est un coût.",
+   "body": "Des méthodes concrètes, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
