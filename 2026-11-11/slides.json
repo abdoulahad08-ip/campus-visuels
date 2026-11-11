@@ -1,0 +1,56 @@
+{
+ "territoire": "cyber",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Le vrai risque caché",
+   "title": "Ton compte bancaire n'est pas ton actif le plus *exposé*.",
+   "body": "Ton identité numérique l'est souvent davantage : ton e-mail, ta pièce d'identité, tes profils."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "On ne vole plus seulement ton argent. On vole *qui tu es*.",
+   "body": "Avec ton e-mail et une photo de ta pièce, un escroc peut agir et demander en ton nom."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "3 protections pour reprendre la main sur ton *identité*.",
+   "body": "Gratuites, 15 minutes, sans aucune compétence technique."
+  },
+  {
+   "type": "solution",
+   "tag": "Protection 1/3",
+   "title": "Verrouille ton *e-mail*. C'est la clé de tous tes comptes.",
+   "body": "Mot de passe unique et validation en deux étapes. Qui contrôle ton e-mail réinitialise le reste."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "Protection 2/3",
+   "title": "N'envoie plus ta *pièce d'identité* sans filigrane.",
+   "body": "Écris dessus : destinataire, date, motif. Une copie marquée ne resservira pas ailleurs."
+  },
+  {
+   "type": "solution",
+   "tag": "Protection 3/3",
+   "title": "Fais le *ménage* dans ta galerie et tes discussions.",
+   "body": "Supprime les photos de pièces envoyées sur WhatsApp. Garde-les dans un dossier verrouillé."
+  },
+  {
+   "type": "resultat",
+   "tag": "Le chiffre",
+   "title": "Part des fuites de données qui impliquent un *facteur humain*",
+   "body": "Un clic, un envoi, une erreur. Source : Verizon, rapport DBIR 2025.",
+   "big": "≈ 60 %"
+  },
+  {
+   "type": "cta",
+   "tag": "À toi de jouer",
+   "title": "Active la validation en deux étapes sur ton *e-mail* ce soir.",
+   "body": "Combien de tes comptes dépendent de cet e-mail ? Réponds par un chiffre.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
