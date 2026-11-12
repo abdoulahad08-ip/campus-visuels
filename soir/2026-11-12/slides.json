@@ -1,0 +1,11 @@
+{
+ "territoire": "cyber",
+ "slides": [],
+ "cover": {
+  "type": "marque",
+  "tag": "Question du soir",
+  "theme": "turquoise",
+  "title": "Combien de tes comptes ont le *même mot de passe* ?",
+  "body": "Une seule fuite suffit :\nles pirates testent tes autres comptes.\nRéponds par un chiffre\nen commentaire"
+ }
+}
