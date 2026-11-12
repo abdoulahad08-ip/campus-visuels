@@ -37,7 +37,7 @@
 - [ ] [Patrimoine] « Ta valeur nette dit plus de vérité que ton salaire. » — carrousel : calculer sa valeur nette
 - [x] [Patrimoine] « La dette n'est ni bonne ni mauvaise : elle finance un actif ou une perte. » — carrousel : dette productive vs dette de consommation (2026-10-26)
 - [ ] [Patrimoine] « Crypto : ce que les vendeurs de rêve ne te disent pas sur le risque » — carrousel : risques réels, mention éducative
-- [ ] [Patrimoine] « Ton augmentation n'est pas un gain. C'est un test. » — carrousel : la règle des 50 % de chaque hausse, exemple chiffré en FCFA (idée du 26 oct)
+- [x] [Patrimoine] « Ton augmentation n'est pas un gain. C'est un test. » — carrousel : la règle des 50 % de chaque hausse, exemple chiffré en FCFA (idée du 26 oct) (2026-11-12, 16h)
 - [x] [Patrimoine] « Ce n'est pas ton salaire qui construit ton patrimoine. C'est ton taux d'épargne. » — carrousel : calculer son taux d'épargne en 3 étapes, exemple FCFA (idée du 26 oct) (2026-10-29, 16h)
 
 - [ ] [Patrimoine] « La famille passe avant ton épargne ? Alors ton épargne doit passer avant ton salaire. » — carrousel : prévoir une ligne « famille et imprévus » dans le budget, exemple chiffré en FCFA (idée du 9 nov, réponse au sondage du 8 nov)

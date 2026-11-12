@@ -1,0 +1,43 @@
+{
+ "territoire": "patrimoine",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Avant / après",
+   "title": "Ton augmentation n'est pas un *gain*. C'est un test.",
+   "body": "Si ton train de vie monte aussi vite que ton salaire, ton patrimoine ne bouge pas."
+  },
+  {
+   "type": "probleme",
+   "tag": "Avant",
+   "title": "+30 000 FCFA par mois. Un an après : *0 FCFA* de côté.",
+   "body": "Exemple : sorties, forfait, petits achats. La hausse disparaît sans qu'on la voie partir."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1 : avant la paie",
+   "title": "Décide où ira la hausse *avant* de la toucher.",
+   "body": "Règle simple : 50 % pour ton épargne, 50 % pour vivre mieux. Écris-le aujourd'hui."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2 : le jour de la paie",
+   "title": "Tes 50 % d'épargne partent *en premier*.",
+   "body": "Virement programmé vers un compte séparé. Méthode étudiée par Thaler et Benartzi (2004) : épargne de 3,5 % à 13,6 %."
+  },
+  {
+   "type": "resultat",
+   "theme": "turquoise",
+   "tag": "Après 12 mois",
+   "title": "15 000 FCFA par mois mis de côté, sans baisser ton niveau de vie :",
+   "big": "180 000 FCFA"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Ce n'est pas ce que tu gagnes en plus. C'est ce que tu *gardes*.",
+   "body": "Des méthodes concrètes, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
