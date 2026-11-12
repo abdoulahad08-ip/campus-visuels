@@ -1,0 +1,71 @@
+{
+ "territoire": "patrimoine",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 12 novembre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 12 novembre",
+   "title": "Tes courses coûtent *2,1 %* de plus qu'en 2025",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →",
+   "theme": "or",
+   "territoire": "patrimoine"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Sénégal : les prix montent de 1,6 % sur un an en octobre, l'*alimentation* de 2,1 %.",
+   "body": "Source : ANSD / PressAfrik"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : le Composite *rebondit* de 0,85 %, Sonatel gagne 4,75 %.",
+   "body": "Source : Lejecos"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "Enza Capital boucle 21 M$ pour les startups africaines d'*IA*.",
+   "body": "Source : Launch Base Africa"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "Maersk enquête sur un incident informatique et un possible vol de *données*.",
+   "body": "Source : The Register",
+   "theme": "corail",
+   "territoire": "cyber"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "OpenAI : environ 10 Md$ de *revenus* au 3e trimestre, près de +50 %.",
+   "body": "Source : The Information / The Neuron",
+   "theme": "turquoise"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Ormuz : incident sur un pétrolier, les cours du *pétrole* montent.",
+   "body": "Source : Euronews / UKMTO"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Ce sont les produits *locaux* qui montent le plus",
+   "body": "Locaux +2,0 %, importés +0,2 %. 100 000 FCFA de nourriture en 2025 = environ 102 100 FCFA."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Laquelle de ces actus te concerne le plus ? Dis-le en commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
