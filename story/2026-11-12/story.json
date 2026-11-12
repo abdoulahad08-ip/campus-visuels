@@ -1,0 +1,11 @@
+{
+ "territoire": "transformation",
+ "slides": [],
+ "cover": {
+  "type": "marque",
+  "tag": "La question du jour",
+  "title": "Ta tâche qui revient chaque semaine : A. faite *à la main* ou B. *automatisée* ?",
+  "body": "Réponds en message.",
+  "theme": "or"
+ }
+}
