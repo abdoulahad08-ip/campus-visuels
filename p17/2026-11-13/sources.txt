@@ -1,0 +1,5 @@
+Formule d'accroche : L'urgence vraie, adaptée (arnaque connue et toujours signalée, sans prétendre « au Sénégal en ce moment ») (charte/accroches.md)
+Territoire : CB | CYBER (vendredi : arnaques et menaces du moment). Angle : EXPÉRIENCE (cas pratique, personnage « Exemple : »).
+Source : MailGuard, « Facebook page admins targeted with fake copyright notice » et « Scam impersonates Meta for Business to steal identity docs and 2FA credentials » (25 juin 2025) https://www.mailguard.com.au/blog/scam-impersonates-meta-for-business-to-steal-identity-docs-and-2fa-credentials ; Meta, Centre d'aide : vérifier les e-mails récents de Meta (Espace Comptes > Mot de passe et sécurité > E-mails récents).
+Idée : charte/idees.md CB | CYBER « Ta boutique en ligne peut être fermée par un seul mot de passe faible » (adaptée : la page vole via un faux avis Meta).
+Consignes : vendredi 16h = appel au partage ; question à réponse en 1 chiffre (cyber) dans le 1er commentaire, LinkedIn et TikTok.

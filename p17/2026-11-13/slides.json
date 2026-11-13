@@ -1,0 +1,42 @@
+{
+ "territoire": "cyber",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Cas pratique",
+   "title": "Ce « message de Meta » peut te *voler* ta page Facebook.",
+   "body": "Une arnaque qui vise les pages qui vendent. Le piège pas à pas, puis la parade."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "« Ta page sera supprimée dans 24 h. Fais *appel* ici. »",
+   "body": "Exemple : Moussa vend des chaussures. Il clique, tape mot de passe et code. Page perdue."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1 : ce soir",
+   "title": "Ne clique pas. Vérifie *toi-même* dans l'application.",
+   "body": "Espace Comptes, « Mot de passe et sécurité », « E-mails récents ». Absent de la liste ? Faux."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2 : ce soir",
+   "title": "Double authentification et un *2e administrateur* de confiance.",
+   "body": "Code par application, jamais partagé. Le 2e admin est protégé lui aussi."
+  },
+  {
+   "type": "resultat",
+   "tag": "Le réflexe",
+   "title": "Face à une menace de suppression, ta meilleure réponse :",
+   "big": "Zéro clic"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Ta page, c'est ta *boutique*. Garde la clé.",
+   "body": "Des réflexes concrets, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}

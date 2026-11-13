@@ -1,0 +1,30 @@
+Cybersécurité : un faux « message de Meta » suffit pour voler la page Facebook d'une entreprise.
+
+Le scénario est connu, et toujours actif : « Votre page sera supprimée dans 24 h pour violation des droits d'auteur. Faites appel ici. » Le lien ouvre une fausse page Meta qui récupère le mot de passe, puis le code de connexion.
+
+Pour une PME ou une boutique en ligne, la page, c'est la vitrine, l'historique clients et les avis. La perdre, c'est perdre des années de confiance.
+
+Trois mesures simples à appliquer, et à faire appliquer dans vos équipes :
+1. Ne jamais cliquer dans l'alerte : vérifier dans l'application (Espace Comptes > Mot de passe et sécurité > E-mails récents).
+2. Double authentification par application sur chaque compte administrateur, code jamais partagé.
+3. Au moins deux administrateurs de confiance, tous protégés.
+
+👉 Le carrousel complet ci-dessous.
+
+Dans votre entreprise, combien de personnes peuvent administrer la page ? Répondez par un chiffre.
+
+Si ce post vous a appris quelque chose, partagez-le à quelqu'un qui en a besoin.
+
+Ici, nous partageons chaque jour ce qui fonctionne vraiment, sans promesse magique.
+Ceux qui nous suivent verront la différence d'ici quelques mois. 🧱
+
+Campus des Bâtisseurs | Connecter • Accompagner • Bâtir
+Éducation financière, carrière, entrepreneuriat et cybersécurité pour l'Afrique francophone.
+🌐 https://campusdesbatisseurs.com
+🔗 Tous nos liens : https://t.mtrbio.com/campusdesbatisseurs
+📚 Nos guides et formations : https://campusdesbatisseurs.com
+▶️ YouTube : https://www.youtube.com/@campusdesbatisseurs
+📘 Facebook : https://www.facebook.com/campusdesbatisseurs/
+
+
+#Cybersecurite #Arnaque #PME #SecuriteEnLigne #CampusDesBatisseurs
