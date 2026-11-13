@@ -132,7 +132,7 @@
 - [ ] [Bâtir] Lancer une activité avec 50 000 FCFA : les 5 étapes — pas à pas, sans promesse de gain
 - [ ] [Bâtir] 10 phrases d'anglais qui te font paraître pro dès le premier jour — liste
 - [ ] [Bâtir] 7 faux amis qui piègent les francophones en anglais — erreur/bonne pratique
-- [ ] [Bâtir] Négocier son salaire sans perdre l'offre — pas à pas
+- [x] [Bâtir] Négocier son salaire sans perdre l'offre — pas à pas (2026-11-13, angle : annoncer son prix en premier, effet d'ancrage)
 - [ ] [Bâtir] Publier tous les jours sans y passer ses journées : le système en 6 étapes (formation Automatiser)
 - [ ] [Bâtir] Tu n'as pas besoin d'être le meilleur. Tu as besoin d'être rare. — post prêt : livres/code-du-batisseur/posts.md (post 2)
 - [ ] [Bâtir] Les 3 mensonges qu'on te raconte sur l'entrepreneuriat — post prêt : livres/comprendre-entrepreneuriat/posts.md (post 1)
