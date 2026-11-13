@@ -1,0 +1,56 @@
+{
+ "territoire": "transformation",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "La croyance renversée",
+   "title": "En négociation, annoncer ton prix en *premier* est souvent un avantage.",
+   "body": "On t'a dit d'attendre que l'autre parle. La recherche dit souvent le contraire."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Le premier chiffre posé devient l'*ancre* de toute la discussion.",
+   "body": "Si c'est le client qui l'annonce, tu négocies autour de son chiffre, pas du tien."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "3 étapes pour poser l'ancre *sans* faire fuir l'autre.",
+   "body": "Pour un devis, un prix de vente, un loyer ou un salaire."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1/3",
+   "title": "Connais ton *plancher* et ton plan B avant de parler.",
+   "body": "Le prix sous lequel tu refuses, et ce que tu fais si ça échoue."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "Étape 2/3",
+   "title": "Annonce un chiffre *ambitieux*, mais justifié.",
+   "body": "Prix du marché, délai, résultat livré. En anglais pro : « Based on market rates, my fee is… »"
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 3/3",
+   "title": "Ne baisse jamais *sans* contrepartie.",
+   "body": "Moins cher ? Alors acompte, délai plus long ou volume plus grand. Petits pas, jamais un saut."
+  },
+  {
+   "type": "resultat",
+   "tag": "Exemple",
+   "title": "Ouvrir à 300 000 au lieu de 250 000 FCFA, puis céder 10 % :",
+   "body": "270 000 au lieu de 225 000 FCFA par contrat. Sur 10 contrats dans l'année :",
+   "big": "+ 450 000 FCFA"
+  },
+  {
+   "type": "cta",
+   "tag": "À toi de jouer",
+   "title": "Écris ton prix *plancher* et ton prix d'ouverture aujourd'hui.",
+   "body": "Avant ta prochaine discussion de prix. Lequel annonces-tu en premier ?",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
