@@ -1,0 +1,71 @@
+{
+ "territoire": "patrimoine",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 13 novembre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 13 novembre",
+   "title": "Budget bloqué au Sénégal : ce que ça change pour *toi*",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →",
+   "theme": "or",
+   "territoire": "patrimoine"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Sénégal : le budget bloqué à l'Assemblée menace l'aide du *FMI* de 2,2 milliards de dollars.",
+   "body": "Source : AFP / Boursorama"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : le Composite *gagne* 0,35 % à 518,96 points, Solibra bondit de 7,36 %.",
+   "body": "Source : Lejecos"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "LangChain, qui aide à créer des *agents IA*, lève 300 M$ et vaut désormais 3 Md$.",
+   "body": "Source : Wall Street Journal"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "Europol démantèle 235 serveurs et 257 domaines liés à des *virus* voleurs de données.",
+   "body": "Source : Cyber Security News",
+   "theme": "corail",
+   "territoire": "cyber"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "Nvidia : Jensen Huang *démissionne*, Colette Kress devient PDG par intérim.",
+   "body": "Source : TechCrunch / CNBC",
+   "theme": "turquoise"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Ormuz : l'Iran affirme que quatre *pétroliers* ont été touchés par des explosions.",
+   "body": "Source : Reuters"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Budget bloqué : des paiements de l'État peuvent *ralentir*",
+   "body": "Entreprises, aides aux familles, travaux : garde une épargne de sécurité."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Laquelle de ces actus te concerne le plus ? Dis-le en commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
