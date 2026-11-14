@@ -1,0 +1,43 @@
+{
+ "territoire": "transformation",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "corail",
+   "tag": "Vérité qui dérange",
+   "title": "L'IA écrit vite. Elle ne vérifie pas *pour toi*.",
+   "body": "On croit qu'un texte bien écrit est un texte juste. C'est le piège."
+  },
+  {
+   "type": "probleme",
+   "tag": "C'est arrivé",
+   "title": "Un rapport à 440 000 dollars, des sources *inventées*.",
+   "body": "Octobre 2025 : Deloitte rembourse en partie l'État australien. Références fausses, rapport rédigé avec l'aide de l'IA."
+  },
+  {
+   "type": "solution",
+   "tag": "Contrôle 1",
+   "title": "Retrouve l'origine de chaque *chiffre*.",
+   "body": "Site officiel, rapport, grand média. Aucune source trouvée ? Tu retires le chiffre."
+  },
+  {
+   "type": "solution",
+   "tag": "Contrôle 2",
+   "title": "Ouvre chaque *source* citée.",
+   "body": "Une IA peut inventer un livre, un article ou une loi. Ouvre, lis, confirme. En anglais : « Let me double-check. »"
+  },
+  {
+   "type": "resultat",
+   "tag": "Contrôle 3",
+   "title": "Relis comme si tu signais. Ce qui n'est pas vérifié ne part pas :",
+   "big": "0 source inventée"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "L'IA te fait gagner du temps. Ta *vérification* garde ta crédibilité.",
+   "body": "Des méthodes concrètes, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}

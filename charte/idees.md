@@ -25,7 +25,7 @@
 - [x] [Transformation] « Tu comprends l'anglais en réunion. Tu te tais quand il faut parler. » — carrousel : 5 phrases pour prendre la parole en réunion + défi « I CAN » (idée du 9 nov) (2026-11-09, 16h)
 - [x] [Transformation] « Automatiser une tâche mal pensée, c'est faire des erreurs plus vite. » — carrousel : écrire, simplifier, puis automatiser (règle attribuée à Bill Gates) (2026-11-12)
 - [ ] [Transformation] « Tu n'as pas un problème de temps. Tu as un problème de décisions répétées. » — carrousel : décider une fois (règles, modèles, menus de la semaine), exemples concrets
-- [ ] [Transformation] « L'IA écrit vite. Elle ne vérifie pas pour toi. » — carrousel : 3 contrôles avant d'utiliser un texte d'IA (faits, chiffres, ton), sources vérifiées
+- [x] [Transformation] « L'IA écrit vite. Elle ne vérifie pas pour toi. » — carrousel : 3 contrôles avant d'utiliser un texte d'IA (faits, chiffres, ton), sources vérifiées (2026-11-14, 16h)
 - [ ] [Transformation] « Ton savoir-faire disparaît dès que tu es absent ? Écris-le. » — carrousel : transformer une tâche en procédure de 1 page qu'un autre peut suivre
 ## CB | PATRIMOINE (35 %) — idées audacieuses du 22 oct 2026
 - [x] [Patrimoine] « Un revenu élevé ne garantit pas un patrimoine élevé. » — carrousel : revenus vs actifs, exemple chiffré pédagogique (2026-10-22, 16h)

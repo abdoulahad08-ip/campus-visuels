@@ -1,0 +1,4 @@
+Formule d'accroche : La distinction qui éclaire / Vérité qui dérange (charte/accroches.md)
+Source : AP, 7 oct 2025, « Deloitte to partially refund Australian government for report with apparent AI-generated errors » (rapport de 440 000 AUD pour le ministère de l'Emploi, références inexistantes et citation erronée d'un jugement, Azure OpenAI mentionné dans la version révisée)
+Idée : charte/idees.md CB | TRANSFORMATION « L'IA écrit vite. Elle ne vérifie pas pour toi. »
+Consignes : diapo d'anglais pro (« Let me double-check »), question à réponse en 1 chiffre (samedi : pas d'appel au partage)
