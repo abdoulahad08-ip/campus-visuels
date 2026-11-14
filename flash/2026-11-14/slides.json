@@ -1,0 +1,71 @@
+{
+ "territoire": "patrimoine",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 14 novembre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 14 novembre",
+   "title": "Sénégal : le FMI attend un budget avant ses *2,2 Md$*",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →",
+   "theme": "or",
+   "territoire": "patrimoine"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Sénégal : le *FMI* suit « de très près » le budget bloqué et maintient ses conditions pour 2,2 Md$.",
+   "body": "Source : Ndarinfo / Xalima"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : le Composite *recule* de 0,58 % à 515,94 points, Vivo Energy CI grimpe de 6,90 %.",
+   "body": "Source : Lejecos"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "Afrique du Sud : la fintech *Yoco* obtient 100 M$ de crédit pour financer des avances aux commerçants.",
+   "body": "Source : Techloy"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "Portugal : Worten signale un accès non autorisé aux *données* de certains clients.",
+   "body": "Source : LeMagIT",
+   "theme": "corail",
+   "territoire": "cyber"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "Le Nasdaq perd 0,9 % : les géants de l'*IA* reculent après le départ du patron de Nvidia.",
+   "body": "Source : AP",
+   "theme": "turquoise"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Ormuz : les Gardiens de la révolution iraniens disent que deux *pétroliers* ont heurté des mines.",
+   "body": "Source : Reuters"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Budget bloqué : l'aide du FMI reste en *attente*",
+   "body": "L'État peut avoir moins de marge : garde une réserve si tu dépends de commandes publiques."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Laquelle de ces actus te concerne le plus ? Dis-le en commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
