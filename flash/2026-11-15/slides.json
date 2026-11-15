@@ -1,0 +1,71 @@
+{
+ "territoire": "patrimoine",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 15 novembre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 15 novembre",
+   "title": "Sénégal : moins de *40 %* des investissements exécutés",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →",
+   "theme": "or",
+   "territoire": "patrimoine"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Sénégal : à fin septembre, moins de 40 % des *crédits* d'investissement 2026 ont été exécutés.",
+   "body": "Source : Africtelegraph"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : la capitalisation actions perd *118,6 Md FCFA* vendredi, à 20 232,5 Md FCFA.",
+   "body": "Source : Lejecos"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "Kenya : le centre financier de Nairobi prévoit un fonds de *500 M$*, dont moitié pour la tech et l'IA.",
+   "body": "Source : iAfrica"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "Italie : le gendarme des données inflige *805 M€* à Meta pour accès à des photos sans consentement.",
+   "body": "Source : Anadolu",
+   "theme": "corail",
+   "territoire": "cyber"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "SpaceX : le *Starship* est rattrapé par les bras de sa tour de lancement après plus de 22 h de vol.",
+   "body": "Source : Anadolu",
+   "theme": "turquoise"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Le Kremlin annonce une rencontre *Poutine-Xi-Trump* le 19 novembre à Shenzhen, en marge de l'APEC.",
+   "body": "Source : Anadolu / Tass"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Moins de chantiers publics, des paiements qui peuvent *tarder*",
+   "body": "Si ton activité dépend de marchés publics, diversifie tes clients et garde une réserve."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Laquelle de ces actus te concerne le plus ? Dis-le en commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
