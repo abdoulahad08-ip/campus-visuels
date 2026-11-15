@@ -1,0 +1,56 @@
+{
+ "territoire": "transformation",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "La croyance renversée",
+   "title": "Ton *potentiel* ne te rend pas exceptionnel. Ce que tu construis, si.",
+   "body": "Discipline : une habitude met en médiane 66 jours à devenir automatique (UCL, 2010)."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Attendre de te sentir *prêt* pour commencer.",
+   "body": "Le potentiel reste une promesse. Personne ne paie une promesse : on paie ce qui est fait."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "Les *3 briques* qui transforment un potentiel en résultats.",
+   "body": "Une habitude, une preuve, un rythme. À poser dès cette semaine."
+  },
+  {
+   "type": "solution",
+   "tag": "Brique 1/3",
+   "title": "Une seule *habitude*, liée à un moment fixe.",
+   "body": "« Après le thé du matin, je pratique 15 minutes. » Un déclencheur précis aide plus que la volonté."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "Brique 2/3",
+   "title": "Une *preuve* visible chaque semaine.",
+   "body": "Un texte publié, un client appelé, un module terminé. Ce qui se voit se mesure et se corrige."
+  },
+  {
+   "type": "solution",
+   "tag": "Brique 3/3",
+   "title": "Un *rythme* qui pardonne un jour raté.",
+   "body": "Dans l'étude UCL, rater un jour n'a pas freiné l'habitude. L'essentiel : reprendre le lendemain."
+  },
+  {
+   "type": "resultat",
+   "tag": "Exemple de calcul",
+   "title": "15 minutes par jour pendant 66 jours :",
+   "body": "De pratique réelle sur une compétence. Le résultat dépend de ce que tu en fais.",
+   "big": "16 h 30"
+  },
+  {
+   "type": "cta",
+   "tag": "À toi de jouer",
+   "title": "Choisis *une* habitude et son moment fixe dès demain.",
+   "body": "Écris-la en 3 mots en commentaire. En anglais pro : « One habit at a time. »",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
