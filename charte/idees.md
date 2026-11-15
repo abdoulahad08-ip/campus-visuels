@@ -8,7 +8,7 @@
 > Les lignes « post prêt » renvoient à un post déjà écrit à partir de nos livres (livres/<produit>/posts.md) : le reprendre en carrousel, sans citer le produit.
 
 ## CB | TRANSFORMATION (40 %) — idées audacieuses du 22 oct 2026
-- [ ] [Transformation] « Ton potentiel ne te rend pas exceptionnel. Ce que tu construis avec lui peut le faire. » — carrousel : potentiel vs système, 3 briques pour construire
+- [x] [Transformation] « Ton potentiel ne te rend pas exceptionnel. Ce que tu construis avec lui peut le faire. » — carrousel : potentiel vs système, 3 briques pour construire (2026-11-15)
 - [x] [Transformation] « Tu n'as pas besoin de dix nouvelles idées. Tu as besoin d'un système qui transforme une seule idée en résultat. » — carrousel : le système en 4 étapes (2026-10-26, 16h)
 - [ ] [Transformation] « La motivation te fait commencer. Une méthode bien conçue t'aide à continuer. » — carrousel : concevoir sa méthode
 - [x] [Transformation] « Tu peux consommer 500 heures de contenu et rester incapable de vendre une seule compétence. » — carrousel : de la consommation à la compétence vendable (2026-10-28, 16h)
