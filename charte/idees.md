@@ -27,6 +27,8 @@
 - [ ] [Transformation] « Tu n'as pas un problème de temps. Tu as un problème de décisions répétées. » — carrousel : décider une fois (règles, modèles, menus de la semaine), exemples concrets
 - [x] [Transformation] « L'IA écrit vite. Elle ne vérifie pas pour toi. » — carrousel : 3 contrôles avant d'utiliser un texte d'IA (faits, chiffres, ton), sources vérifiées (2026-11-14, 16h)
 - [ ] [Transformation] « Ton savoir-faire disparaît dès que tu es absent ? Écris-le. » — carrousel : transformer une tâche en procédure de 1 page qu'un autre peut suivre
+- [ ] [Transformation] « Tu dis "I am agree" en réunion ? Tout le monde comprend surtout que tu traduis. » — carrousel : 5 erreurs d'anglais pro fréquentes chez les francophones et la bonne phrase à dire à la place + « écris la phrase que tu corriges » (idée du 16 nov, suite du top 630)
+- [ ] [Transformation] « Tu ne manques pas de discipline. Ton habitude est juste trop grosse. » — carrousel : réduire l'habitude à 2 minutes, la lier à un moment fixe, la tenir 66 jours (UCL 2010) + question « quelle habitude de 2 minutes ? écris-la en 3 mots » (idée du 16 nov)
 ## CB | PATRIMOINE (35 %) — idées audacieuses du 22 oct 2026
 - [x] [Patrimoine] « Un revenu élevé ne garantit pas un patrimoine élevé. » — carrousel : revenus vs actifs, exemple chiffré pédagogique (2026-10-22, 16h)
 - [x] [Patrimoine] « Tu peux travailler 30 ans sans construire un patrimoine à la hauteur de tes efforts. » — carrousel : le mécanisme et la sortie (2026-11-09)
@@ -42,6 +44,8 @@
 
 - [ ] [Patrimoine] « La famille passe avant ton épargne ? Alors ton épargne doit passer avant ton salaire. » — carrousel : prévoir une ligne « famille et imprévus » dans le budget, exemple chiffré en FCFA (idée du 9 nov, réponse au sondage du 8 nov)
 - [ ] [Patrimoine] « Ton crédit n'est pas cher à cause du taux. Il est cher à cause de sa durée. » — carrousel : même prêt sur 6, 12 et 24 mois, coût total en FCFA (idée du 9 nov)
+- [ ] [Patrimoine] « Ton épargne te fait tenir moins d'un mois ? Ce n'est pas d'abord ton salaire. C'est l'ordre de tes priorités. » — carrousel : fonds d'urgence en 3 paliers (1 semaine, 1 mois, 3 mois), exemple chiffré en FCFA + « en combien de jours ton épargne serait vide ? réponds par un chiffre » (idée du 16 nov, réponse au sondage du 9 nov)
+- [ ] [Patrimoine] « Ta tontine t'oblige à épargner. Elle ne fait pas travailler ton argent. » — carrousel : ce que la tontine fait bien (discipline, accès rapide), ce qu'elle ne fait pas (rendement, inflation), comment la compléter, exemple FCFA, mention éducative (idée du 16 nov)
 ## CB | CYBER (25 %) — idées audacieuses du 22 oct 2026
 - [x] [Cyber] « Ton compte bancaire n'est peut-être pas ton actif le plus vulnérable. Ton identité numérique l'est peut-être davantage. » — carrousel : ce qu'on vole vraiment (2026-11-11)
 - [ ] [Cyber] « Une entreprise peut perdre des années de confiance à cause d'une seule faille. » — carrousel : cas public sourcé + 3 protections PME
@@ -53,6 +57,7 @@
 - [x] [Cyber] « Ton numéro de téléphone vaut peut-être plus que ton mot de passe. » — carrousel : ce qu'un numéro récupéré ouvre (WhatsApp, Mobile Money, e-mail) + 3 réglages ce soir (validation en deux étapes WhatsApp, code PIN de la carte SIM, ne jamais donner un code reçu par SMS) (idée du 26 oct) (2026-10-28)
 
 - [x] [Cyber] « Ton code Mobile Money n'est pas secret si ta date de naissance est sur Facebook. » — carrousel : 3 codes à changer ce soir + question « combien de tes codes sont une date ? réponds par un chiffre » (idée du 9 nov) (2026-11-10, 16h)
+- [ ] [Cyber] « Le code que tu viens de recevoir par SMS, personne ne doit te le demander. Même pas "ton opérateur". » — carrousel : l'arnaque au faux agent pas à pas, 3 phrases qui doivent t'alerter, 3 réflexes ce soir + « combien de fois t'a-t-on déjà demandé un code ? réponds par un chiffre » (idée du 16 nov, suite du top Mobile Money 592)
 ## Finance & argent (lundi)
 - [x] [Finance] Tu gagnes plus et il ne reste rien à la fin du mois — erreur/bonne pratique (2026-10-12)
 - [x] [Finance] 20 % par mois « sans risque » : les signes d'une arnaque — checklist (2026-10-14)
