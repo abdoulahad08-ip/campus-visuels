@@ -1,0 +1,56 @@
+{
+ "territoire": "patrimoine",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "La distinction qui éclaire",
+   "title": "Ton salaire dit ce que tu gagnes. Ta *valeur nette*, ce que tu gardes.",
+   "body": "Un bon salaire peut cacher une valeur nette négative."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "On mesure sa réussite à ce qui *entre*.",
+   "body": "Crédit téléphone, prêt, avance sur salaire : la dette grossit en silence pendant que le salaire rassure."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "Calcule ta *valeur nette* en 3 étapes, ce soir.",
+   "body": "Un seul chiffre qui dit si ton argent avance ou recule."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1/3",
+   "title": "Liste ce que tu *possèdes* vraiment.",
+   "body": "Épargne, Wave, tontine versée, terrain, matériel. Au prix de revente, pas au prix d'achat."
+  },
+  {
+   "type": "solution",
+   "theme": "corail",
+   "tag": "Étape 2/3",
+   "title": "Liste *tout* ce que tu dois.",
+   "body": "Prêt bancaire, crédit téléphone, avance sur salaire, dettes envers la famille. Sans rien oublier."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 3/3",
+   "title": "Ce que tu possèdes − ce que tu dois = ta *valeur nette*.",
+   "body": "Note-la. Refais le calcul dans 3 mois : la tendance compte plus que le chiffre."
+  },
+  {
+   "type": "resultat",
+   "tag": "Exemple",
+   "title": "Salaire de 400 000 FCFA. Possède 1 500 000, doit 1 800 000 :",
+   "body": "Exemple pédagogique. Bon salaire, valeur nette négative : la priorité devient la dette.",
+   "big": "−300 000 FCFA"
+  },
+  {
+   "type": "cta",
+   "tag": "À toi de jouer",
+   "title": "Calcule ta *valeur nette* ce soir, sur une feuille.",
+   "body": "Elle est positive ou négative ? Réponds par PLUS ou MOINS.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
