@@ -1,0 +1,43 @@
+{
+ "territoire": "transformation",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Avant / après",
+   "title": "Tu dis « I am agree » en réunion ? On t'entend *traduire*.",
+   "body": "Le problème n'est pas ton niveau. Ce sont 5 calques du français, faciles à corriger."
+  },
+  {
+   "type": "probleme",
+   "tag": "Avant",
+   "title": "Ton anglais est compris. Mais il sonne *traduit*.",
+   "body": "« I am agree », « actually » pour actuellement, « assist to the meeting » : du français mot à mot."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1 : les 5 corrections",
+   "title": "Remplace chaque calque par *la phrase juste*.",
+   "body": "I agree · Currently · Attend the meeting · If needed (pas eventually) · The information (sans s)"
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2 : 5 jours",
+   "title": "Une phrase corrigée par jour, *à voix haute*.",
+   "body": "Écris-la, dis-la 5 fois, puis place-la dans un e-mail ou une réunion le jour même."
+  },
+  {
+   "type": "resultat",
+   "theme": "turquoise",
+   "tag": "Après 5 jours",
+   "title": "5 réflexes justes, sans traduire. Le premier à placer demain :",
+   "big": "I agree."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Un anglais juste se construit *phrase par phrase*.",
+   "body": "Des méthodes concrètes, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
