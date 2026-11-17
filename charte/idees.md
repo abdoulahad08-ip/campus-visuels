@@ -57,7 +57,7 @@
 - [x] [Cyber] « Ton numéro de téléphone vaut peut-être plus que ton mot de passe. » — carrousel : ce qu'un numéro récupéré ouvre (WhatsApp, Mobile Money, e-mail) + 3 réglages ce soir (validation en deux étapes WhatsApp, code PIN de la carte SIM, ne jamais donner un code reçu par SMS) (idée du 26 oct) (2026-10-28)
 
 - [x] [Cyber] « Ton code Mobile Money n'est pas secret si ta date de naissance est sur Facebook. » — carrousel : 3 codes à changer ce soir + question « combien de tes codes sont une date ? réponds par un chiffre » (idée du 9 nov) (2026-11-10, 16h)
-- [ ] [Cyber] « Le code que tu viens de recevoir par SMS, personne ne doit te le demander. Même pas "ton opérateur". » — carrousel : l'arnaque au faux agent pas à pas, 3 phrases qui doivent t'alerter, 3 réflexes ce soir + « combien de fois t'a-t-on déjà demandé un code ? réponds par un chiffre » (idée du 16 nov, suite du top Mobile Money 592)
+- [x] [Cyber] « Le code que tu viens de recevoir par SMS, personne ne doit te le demander. Même pas "ton opérateur". » — carrousel : l'arnaque au faux agent pas à pas, 3 phrases qui doivent t'alerter, 3 réflexes ce soir + « combien de fois t'a-t-on déjà demandé un code ? réponds par un chiffre » (idée du 16 nov, suite du top Mobile Money 592) (2026-11-17, 16h)
 ## Finance & argent (lundi)
 - [x] [Finance] Tu gagnes plus et il ne reste rien à la fin du mois — erreur/bonne pratique (2026-10-12)
 - [x] [Finance] 20 % par mois « sans risque » : les signes d'une arnaque — checklist (2026-10-14)

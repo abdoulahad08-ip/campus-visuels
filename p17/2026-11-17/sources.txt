@@ -1,0 +1,5 @@
+Formule d'accroche : « Le tu n'as pas besoin… / contre-pied » adaptée : « Le code reçu par SMS ? Même ton opérateur ne le demande pas. » (charte/accroches.md)
+Territoire : CB | CYBER (mardi). Angle : EXPÉRIENCE (cas pratique, personnage « Exemple : »).
+Source : Police nationale du Sénégal, mise en garde contre une campagne d'arnaques ciblant le Mobile Money, relayée par Le Petit Journal Dakar https://lepetitjournal.com/dakar/senegal-la-police-nationale-met-en-garde-contre-une-campagne-darnaques-ciblant-le-mobile-money ; règle générale des opérateurs : ne jamais communiquer son code secret ni un code reçu par SMS.
+Idée : charte/idees.md CB | CYBER « Le code que tu viens de recevoir par SMS, personne ne doit te le demander » (idée du 16 nov).
+Consignes : question à réponse en 1 chiffre ; 1er commentaire = notre exemple de réponse.

@@ -1,0 +1,42 @@
+{
+ "territoire": "cyber",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Cas pratique",
+   "title": "Le code reçu par SMS ? Même ton *opérateur* ne le demande pas.",
+   "body": "L'arnaque au faux agent, décortiquée. Puis les réflexes à garder dès ce soir."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le scénario",
+   "title": "« Erreur sur ton compte. Lis-moi le *code* que tu viens de recevoir. »",
+   "body": "Exemple : Fatou, commerçante. L'appel semble officiel. Elle lit le code. Son compte est vidé."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1 : repérer",
+   "title": "3 phrases d'alerte : *urgence*, code, « reste en ligne ».",
+   "body": "« Ton compte sera bloqué. » « Donne le code reçu. » « Ne raccroche pas. » Une seule suffit."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2 : vérifier",
+   "title": "Raccroche. Rappelle *toi-même* le service client officiel.",
+   "body": "Le numéro inscrit dans l'appli ou au dos de ta carte. Jamais celui qui t'a appelé."
+  },
+  {
+   "type": "resultat",
+   "tag": "Le réflexe",
+   "title": "Quelqu'un te demande un code reçu par SMS. Ta réponse :",
+   "big": "Je raccroche"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Ton code, c'est ta *signature*. Personne ne signe à ta place.",
+   "body": "Des réflexes concrets, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
