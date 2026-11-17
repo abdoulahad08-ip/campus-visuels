@@ -1,0 +1,71 @@
+{
+ "territoire": "patrimoine",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 17 novembre",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →",
+  "title": "Les dernières 24h en *une minute*…"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 17 novembre",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →",
+   "title": "Bourses en baisse : ce que ça change pour ton *épargne*",
+   "theme": "or",
+   "territoire": "patrimoine"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Wall Street : le Nasdaq perd 2,5 % lundi et le *bitcoin* passe sous 64 000 $.",
+   "body": "Source : CoinDesk / Forbes"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : l'indice *Composite* recule de 0,60 % lundi, à 512,85 points.",
+   "body": "Source : Lejecos"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "Afrique du Sud : la e-santé *Alignd* lève des fonds auprès de Knife Capital.",
+   "body": "Source : Disrupt Africa"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "Google révèle la 1re *cyberattaque* menée de bout en bout par une IA, sans humain.",
+   "body": "Source : CyberScoop / Google",
+   "theme": "corail",
+   "territoire": "cyber"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "OpenAI lance ChatGPT Wallet : ses *agents* IA paient après validation biométrique.",
+   "body": "Source : OpenAI",
+   "theme": "turquoise"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "L'Estonie fermera tous ses postes-frontières avec la *Russie* dès le 1er décembre.",
+   "body": "Source : Anadolu (AA)"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Pirates + IA : fais tes mises à *jour* sans attendre",
+   "body": "Une faille corrigée devient une attaque en quelques jours. Ton téléphone aussi est visé."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Laquelle de ces actus te concerne le plus ? Dis-le en commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
