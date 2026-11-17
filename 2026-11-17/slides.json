@@ -1,0 +1,58 @@
+{
+ "territoire": "patrimoine",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "or",
+   "tag": "La croyance renversée",
+   "title": "Une action BRVM n'est pas un ticket. C'est une part d'*entreprise*.",
+   "body": "Si tu ne sais pas comment elle gagne de l'argent, ne te précipite pas."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "On achète parce que *tout le monde* en parle.",
+   "body": "Un cours qui monte, un ami qui conseille, une vidéo virale. Personne ne t'a montré d'où vient le profit."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "3 questions à te poser *avant* d'investir dans une action.",
+   "body": "Pas de réponse claire aux trois ? Tu attends. C'est aussi une décision."
+  },
+  {
+   "type": "solution",
+   "tag": "Question 1/3",
+   "title": "Comment cette entreprise *gagne*-t-elle son argent ?",
+   "body": "Explique-le en une phrase : qui paie, pour quoi, et est-ce qu'il revient payer ?"
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "Question 2/3",
+   "title": "Son *bénéfice* grandit-il depuis 3 ans ?",
+   "body": "Ouvre ses états financiers sur brvm.org. Compare le bénéfice net, année après année."
+  },
+  {
+   "type": "solution",
+   "theme": "corail",
+   "tag": "Question 3/3",
+   "title": "Cet argent peut-il *dormir* 5 ans sans toi ?",
+   "body": "Le cours peut baisser longtemps. Jamais ton fonds d'urgence, jamais l'argent du loyer."
+  },
+  {
+   "type": "resultat",
+   "tag": "Exemple",
+   "title": "Bénéfice net : 10 milliards FCFA, puis 8, puis 6.",
+   "body": "Exemple fictif. Le cours paraît « pas cher » ? La question 2 te demande d'abord : pourquoi ?",
+   "big": "−40 %"
+  },
+  {
+   "type": "cta",
+   "tag": "À toi de jouer",
+   "title": "Choisis une société BRVM et réponds aux *3 questions*.",
+   "body": "Combien de réponses claires ? Réponds par un chiffre : 0, 1, 2 ou 3.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
