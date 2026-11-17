@@ -35,7 +35,7 @@
 - [x] [Patrimoine] « Le problème n'est pas toujours de gagner peu. C'est de ne pas savoir transformer ses revenus en actifs. » — carrousel : actif productif vs dépense (2026-11-14)
 - [x] [Patrimoine] « Acheter une action parce que son prix baisse n'est pas une stratégie. » — carrousel : prix vs valeur (BRVM) (2026-10-27)
 - [x] [Patrimoine] « Le dividende te fait plaisir aujourd'hui. La qualité de l'entreprise décide du long terme. » — carrousel : lire un rendement sans se piéger (2026-11-10)
-- [ ] [Patrimoine] « Si tu ne comprends pas comment un investissement crée de la valeur, ne te précipite pas. » — carrousel : 3 questions avant d'investir
+- [x] [Patrimoine] « Si tu ne comprends pas comment un investissement crée de la valeur, ne te précipite pas. » — carrousel : 3 questions avant d'investir (2026-11-17)
 - [x] [Patrimoine] « Ta valeur nette dit plus de vérité que ton salaire. » — carrousel : calculer sa valeur nette (2026-11-16)
 - [x] [Patrimoine] « La dette n'est ni bonne ni mauvaise : elle finance un actif ou une perte. » — carrousel : dette productive vs dette de consommation (2026-10-26)
 - [ ] [Patrimoine] « Crypto : ce que les vendeurs de rêve ne te disent pas sur le risque » — carrousel : risques réels, mention éducative
