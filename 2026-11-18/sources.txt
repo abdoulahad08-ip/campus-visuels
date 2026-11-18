@@ -1,0 +1,5 @@
+Formule d'accroche (diapo 1) : Le vrai risque caché / distinction (« Le voleur prend ton téléphone. Le vrai danger, c'est ce qu'il ouvre. »). Diapo 1 en vert forêt (mercredi, consigne 8). Consigne 1 CYBER « le réglage concret à faire ce soir ». Question finale à réponse en 1 chiffre + premier commentaire avec notre exemple (consigne 4). Aligné sur la story 09h (codes tous différents ou le même partout).
+Fonction Localiser mon appareil (verrouiller, effacer à distance) : Android, « Téléphone perdu : que faire » (android.com/intl/fr_fr/articles/telephone-perdu-que-faire/).
+Code *#06# = affichage de l'IMEI ; déclarer l'IMEI en cas de vol : Samsung (« Afficher le code IMEI de votre téléphone Samsung Galaxy ») ; ARCEP, fiche « Que faire en cas de vol de mon téléphone mobile » (arcep.fr).
+Masquer le contenu des notifications sur l'écran verrouillé : réglage standard Android et iOS (Notifications > aperçus / contenu sensible).
+Sujet neuf (pas encore traité) : différent des carrousels du 21 oct (code Wave/OM), 28 oct (numéro de téléphone), 10 nov 16h (codes = dates), 17 nov 16h (code SMS / faux agent).

@@ -1,0 +1,56 @@
+{
+ "territoire": "cyber",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Le vrai danger",
+   "title": "Le voleur prend ton téléphone. Le vrai danger, c'est ce qu'il *ouvre*.",
+   "body": "WhatsApp, Mobile Money, e-mail, photos de ta pièce d'identité : tout est dedans."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Les codes reçus par SMS s'affichent sur ton écran *verrouillé* ?",
+   "body": "Alors n'importe qui peut les lire, sans connaître ton code de déverrouillage."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "3 réglages ce soir pour qu'un vol reste un *simple* vol.",
+   "body": "Gratuits, 15 minutes, sans aucune compétence technique."
+  },
+  {
+   "type": "solution",
+   "tag": "Réglage 1/3",
+   "title": "Cache le contenu des *notifications* sur l'écran verrouillé.",
+   "body": "Réglages, puis Notifications. Un code reçu ne doit plus se lire sans déverrouiller."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "Réglage 2/3",
+   "title": "Un code pour le téléphone. Un *autre* pour l'argent.",
+   "body": "Ton code Mobile Money ne doit être ni ton code d'écran, ni une date."
+  },
+  {
+   "type": "solution",
+   "tag": "Réglage 3/3",
+   "title": "Active *Localiser* pour verrouiller et effacer à distance.",
+   "body": "Android : Localiser mon appareil. iPhone : Localiser. Vérifie qu'il est activé."
+  },
+  {
+   "type": "resultat",
+   "tag": "Le code à connaître",
+   "title": "Tape ce code : le numéro *IMEI* de ton téléphone s'affiche.",
+   "body": "Note-le sur papier. Il identifie ton appareil si tu dois le déclarer volé.",
+   "big": "*#06#"
+  },
+  {
+   "type": "cta",
+   "tag": "À toi de jouer",
+   "title": "Cache tes notifications sur l'écran verrouillé *ce soir*.",
+   "body": "Combien d'applis d'argent as-tu sur ton téléphone ? Réponds par un chiffre.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
