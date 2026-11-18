@@ -1,0 +1,71 @@
+{
+ "territoire": "patrimoine",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 18 novembre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 18 novembre",
+   "title": "Tu as des actions BRVM ? Mardi, *aucune* n'a monté",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →",
+   "theme": "or",
+   "territoire": "patrimoine"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Nvidia : *115,8 milliards $* de chiffre d'affaires au trimestre, +103 % sur un an.",
+   "body": "Source : StockTitan / Nvidia"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : *aucune* action en hausse mardi, le Composite chute de 1,98 % à 502,68 points.",
+   "body": "Source : Sika Finance"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "Saviu boucle un fonds de 40 M€ pour les *startups* d'Afrique francophone, dont le Sénégal.",
+   "body": "Source : Launch Base Africa"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "Optimizely piraté : du *code malveillant* servi sur les sites de 178 organisations, dont CNN.",
+   "body": "Source : Malwarebytes",
+   "theme": "corail",
+   "territoire": "cyber"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "Les États-Unis durcissent l'accès de la Chine aux *puces IA*, même via des data centers étrangers.",
+   "body": "Source : Reuters / TechCrunch",
+   "theme": "turquoise"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Xi et Poutine réunis à Shenzhen avant un *sommet à trois* avec Trump prévu jeudi.",
+   "body": "Source : AFP / Reuters"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "BRVM en baisse : tu ne perds que si tu *vends*",
+   "body": "Sur l'année, le Composite reste en hausse de plus de 45 % depuis janvier."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Laquelle de ces actus te concerne le plus ? Dis-le en commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
