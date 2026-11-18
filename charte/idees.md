@@ -58,6 +58,9 @@
 
 - [x] [Cyber] « Ton code Mobile Money n'est pas secret si ta date de naissance est sur Facebook. » — carrousel : 3 codes à changer ce soir + question « combien de tes codes sont une date ? réponds par un chiffre » (idée du 9 nov) (2026-11-10, 16h)
 - [x] [Cyber] « Le code que tu viens de recevoir par SMS, personne ne doit te le demander. Même pas "ton opérateur". » — carrousel : l'arnaque au faux agent pas à pas, 3 phrases qui doivent t'alerter, 3 réflexes ce soir + « combien de fois t'a-t-on déjà demandé un code ? réponds par un chiffre » (idée du 16 nov, suite du top Mobile Money 592) (2026-11-17, 16h)
+- [x] [Cyber] « Le voleur prend ton téléphone. Le vrai danger, c'est ce qu'il ouvre. » — carrousel : notifications masquées sur l'écran verrouillé, codes distincts téléphone / argent, Localiser activé + IMEI (*#06#) (idée du 18 nov) (2026-11-18)
+- [ ] [Cyber] « Ton téléphone vient d'être volé. La première heure décide de ce que tu perds. » — carrousel : l'ordre des appels (opérateur, Mobile Money, banque), verrouillage à distance, prévenir ses contacts (idée du 18 nov)
+- [ ] [Cyber] « Ce lien « colis en attente » ne vient pas de La Poste. » — carrousel : faux SMS de livraison, 3 indices, 1 réflexe (vérifier une actualité sénégalaise récente avant) (idée du 18 nov)
 ## Finance & argent (lundi)
 - [x] [Finance] Tu gagnes plus et il ne reste rien à la fin du mois — erreur/bonne pratique (2026-10-12)
 - [x] [Finance] 20 % par mois « sans risque » : les signes d'une arnaque — checklist (2026-10-14)
