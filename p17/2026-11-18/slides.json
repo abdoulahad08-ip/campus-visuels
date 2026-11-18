@@ -1,0 +1,43 @@
+{
+ "territoire": "transformation",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "corail",
+   "tag": "Idée reçue",
+   "title": "Tu ne manques pas de discipline. Ton habitude est *trop grosse*.",
+   "body": "On croit qu'il faut plus de volonté. En réalité, il faut une habitude plus petite."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le scénario connu",
+   "title": "Une heure de sport par jour, dès *lundi*.",
+   "body": "Jour 1 : motivé. Jour 4 : fatigué, en retard. Jour 5 : tu arrêtes et tu te crois faible."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1",
+   "title": "Réduis-la à *2 minutes*.",
+   "body": "Pas une heure de sport : 10 pompes. Pas un livre : 2 pages. Le but : ne jamais sauter."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2",
+   "title": "Accroche-la à un *moment fixe*.",
+   "body": "« Après mon café du matin, je lis 2 pages. » C'est le moment qui déclenche, pas l'humeur."
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que dit la science",
+   "title": "Rater un jour ne casse rien. L'automatisme arrive en moyenne vers :",
+   "big": "66 jours"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "La discipline n'est pas un talent. C'est une habitude *bien taillée*.",
+   "body": "Des méthodes concrètes, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
