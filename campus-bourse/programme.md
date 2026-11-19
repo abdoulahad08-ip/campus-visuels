@@ -4,27 +4,29 @@ Positionnement : **CAMPUS BOURSE | Maîtrisez la valorisation des actions BRVM. 
 Éditeur : Campus des Bâtisseurs. Site : https://campusbourse.com. WhatsApp : +221 76 760 22 22.
 Le 19 nov 2026, l'utilisateur a ARRÊTÉ tout le contenu Campus des Bâtisseurs pour lancer Campus Bourse à fond. Les comptes Facebook, TikTok, LinkedIn et YouTube (toujours au nom de Campus des Bâtisseurs) publient désormais UNIQUEMENT du Campus Bourse. La « phase confiance » est terminée pour Campus Bourse : présenter le SaaS, l'essai gratuit et les prix Premium est autorisé (jamais de pression ni de fausse urgence).
 
-## Rythme (2 posts par jour)
+## Rythme (calendrier hebdomadaire validé le 19 nov 2026)
 | Heure (Dakar) | Réseaux | Contenu | Tâche |
 |---|---|---|---|
-| 10h00 | Facebook + TikTok (tous les jours) | Carrousel du thème du jour (rotation des 5 thèmes) | « Campus Bourse – carrousel 10h » |
-| 11h00 | LinkedIn (lundi, mercredi, vendredi) | Même carrousel, texte professionnel (vouvoiement) | même tâche |
-| 18h00 | Facebook + TikTok (tous les jours) | Question / quiz BRVM, chiffre du jour expliqué, ou démo courte d'une fonctionnalité | « Campus Bourse – 18h » |
-| 16h00 | YouTube | Uniquement les vidéos fournies par l'utilisateur (sujet bourse / BRVM) | manuel |
+| 10h00 lun → sam | Facebook + TikTok | Le PILIER DU JOUR (tableau ci-dessous) | « Campus Bourse – pilier 10h » |
+| 11h00 lun, mar, mer, ven | LinkedIn | Le même pilier, texte professionnel (vouvoiement) | même tâche |
+| chaque jour | X et WhatsApp (PAS dans Metricool) | Textes + visuel prêts envoyés à l'utilisateur, qui les publie lui-même | même tâche |
+| 18h00 tous les jours | Facebook + TikTok | Question / quiz, concept, démo courte, vrai ou faux, débat, blocage | « Campus Bourse – 18h » |
+| YouTube | | Uniquement les vidéos fournies par l'utilisateur | manuel |
+TikTok : carrousel photo (les vidéos 30–45 s du plan seront faites quand l'utilisateur fournira des vidéos ou validera un format vidéo).
 
-## Signature (tous les réseaux, mot pour mot : campus-bourse/signature.txt)
-Avant la signature, toujours : « Outil d'aide à l'analyse. Ceci n'est pas un conseil en investissement. »
-Ton : tutoiement sur Facebook et TikTok (« Campus Bourse t'aide à… »), vouvoiement sur LinkedIn.
+## Les 7 piliers (un par jour, à 10h)
+| Jour | Pilier | Contenu | Canaux | CTA (formulation conforme) |
+|---|---|---|---|---|
+| Lundi | LA SOLUTION DE LA SEMAINE (pédagogie appliquée) | Comment utiliser un ratio, avec un piège (ex. « Pourquoi un PER bas peut être un piège sans le ROE »), exemple pédagogique chiffré | FB, TikTok, LinkedIn, X | « Teste gratuitement les ratios des 46 sociétés de la BRVM sur Campus Bourse (lien en bio). » |
+| Mardi | LE DUEL DE VALEUR (comparatif sectoriel) | 2 sociétés du même secteur (ex. SGBCI vs SIB, PALM CI vs SOGB) : ROE, dividende et PER du dernier exercice publié, chiffres publics sourcés. AUCUN gagnant désigné, aucun score ni verdict | FB, TikTok, LinkedIn, X, statut WhatsApp | « Compare-les toi-même sur Campus Bourse : fiches complètes, essai gratuit 7 jours. » |
+| Mercredi | BILAN MI-SEMAINE BRVM (actualité) | Mouvements marquants des séances lundi → mercredi (BRVM Composite, plus fortes hausses/baisses, volumes notables), d'après le Bulletin Officiel de la Cote / brvm.org / sikafinance, avec l'explication fondamentale quand elle est publique (résultats, dividende, actualité). Faits datés, sources | FB, TikTok, LinkedIn, X, canal WhatsApp | « Suis les fondamentaux des sociétés de la BRVM sur Campus Bourse. » (jamais « temps réel ») |
+| Jeudi | L'AUDIT FONDAMENTAL (teaser abonnement) | Carrousel qui décrit la fiche valeur Campus Bourse (8 sections, 3 niveaux, ratios, projections 5 et 10 ans) pour une société très suivie (ex. Orange CI, Coris Bank) : ratios PUBLICS sourcés seulement ; le verdict reste sur la plateforme et n'est ni montré ni suggéré. Pas de fausse capture | FB, TikTok, X | « Débloque l'analyse complète et les projections avec Premium (essai gratuit 7 jours). » |
+| Vendredi | BILAN HEBDO & TOP DIVIDENDES (preuve de valeur) | Infographie : variations de la semaine (indices, plus fortes hausses/baisses) OU classement des rendements du dividende (dernier dividende publié ÷ cours de clôture du vendredi, calcul en Python, « rendement brut » sauf si l'IRVM de chaque pays est vérifié). Classement = faits, pas une recommandation | FB, TikTok, LinkedIn, X, canal WhatsApp | « Prépare ton analyse avec les outils d'aide à l'analyse de Campus Bourse. » |
+| Samedi | L'ERREUR QUI COÛTE CHER (psychologie & méthode) | Déconstruire une croyance (ex. « acheter seulement sur l'analyse technique à la BRVM », « ignorer la fiscalité IRVM » : taux vérifiés et sourcés) | FB, TikTok, thread X | « Investissez avec méthode. Rejoignez Campus Bourse. » |
+| Dimanche | PRÉPARATION DE SÉANCE (agenda factuel) | EXCLUSIF canal WhatsApp / newsletter (pas de post 10h sur FB/TikTok) : agenda factuel de la semaine (détachements et paiements de dividendes, assemblées générales, publications de résultats annoncées), sources. Jamais « valeurs à surveiller / à acheter » | WhatsApp (texte envoyé à l'utilisateur) | « Accède aux fiches détaillées sur Campus Bourse avant l'ouverture lundi. » |
 
-## Les 5 thèmes, en rotation stricte (le suivant après le dernier noté dans journal.csv)
-1. **ANALYSE** – une société cotée à la BRVM : activité, chiffres clés des derniers exercices publiés (chiffre d'affaires, résultat net, ROE, endettement, dividende), forces, risques, questions à se poser. Jamais de verdict « à acheter / à vendre / sous-évaluée ».
-2. **ERREUR** – une erreur fréquente des investisseurs (acheter parce que le cours monte, rendement du dividende seul, rumeur, concentration, panique, absence de fonds d'urgence…) et la discipline qui l'évite.
-3. **VALEUR** – valeur intrinsèque et cours de marché : définition, méthode (bénéfices, dividendes, marge de sécurité), exemple chiffré PÉDAGOGIQUE sur une « Société A » fictive, signalé « Exemple pédagogique ».
-4. **LONG TERME** – investir à 5, 10 et 20 ans : intérêts composés, réinvestissement des dividendes, régularité ; calculs exacts (vérifiés en Python), hypothèses écrites, jamais de rendement promis.
-5. **DÉMO** – une fonctionnalité réelle de Campus Bourse (liste ci-dessous), ce qu'elle permet de faire et pour qui, avec l'invitation à l'essai gratuit de 7 jours.
-
-Ordre de départ : 1er post = DÉMO (lancement), puis ANALYSE, ERREUR, VALEUR, LONG TERME, DÉMO…
-Sociétés déjà analysées : colonne `sujet` de journal.csv (ne pas répéter avant que les grandes capitalisations aient été couvertes).
+Sociétés déjà traitées : colonne `sujet` de journal.csv (varier les secteurs et les sociétés).
+Noms à ne PAS utiliser (n'existent pas dans le produit) : « Score de Conviction », « accès Pro », « 48 sociétés », « temps réel ». Utiliser : Premium, 46 sociétés, Campus Scores.
 
 ## Fonctionnalités réelles (source : cahier des charges du projet, 15 nov 2026). N'en citer AUCUNE autre.
 - 46 sociétés cotées à la BRVM analysées, comptes de 5 exercices issus des publications officielles.
