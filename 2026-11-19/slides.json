@@ -1,0 +1,57 @@
+{
+ "territoire": "transformation",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "corail",
+   "tag": "Réunion en anglais",
+   "title": "En réunion en anglais, dire « yes » sans comprendre coûte *cher*.",
+   "body": "Demander n'est pas un aveu de faiblesse. Hocher la tête sans comprendre, si."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Tu hoches la tête. Tu repars avec une tâche *mal comprise*.",
+   "body": "Mauvaise date, mauvais livrable : l'erreur se voit des jours plus tard, devant toute l'équipe."
+  },
+  {
+   "type": "promesse",
+   "tag": "La promesse",
+   "title": "3 phrases pour *vérifier* sans paraître perdu.",
+   "body": "Elles montrent que tu suis la réunion de près. C'est un réflexe de professionnel."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 1/3",
+   "title": "Reformule : « Just to make *sure*, you mean…? »",
+   "body": "Tu redis l'idée avec tes mots. L'autre confirme ou corrige tout de suite."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "Solution 2/3",
+   "title": "Demande : « Could you give me *an example*? »",
+   "body": "Un exemple concret éclaire plus qu'une phrase répétée plus lentement."
+  },
+  {
+   "type": "solution",
+   "tag": "Solution 3/3",
+   "title": "Verrouille la suite : « So my next step is… *by Friday*, right? »",
+   "body": "Puis confirme par écrit : « As discussed, I will… by… »."
+  },
+  {
+   "type": "resultat",
+   "tag": "Le calcul",
+   "title": "Reformuler : quelques secondes. Refaire un travail mal compris : *des jours*.",
+   "body": "Une seule phrase de vérification peut t'éviter de tout recommencer.",
+   "big": "1 phrase"
+  },
+  {
+   "type": "cta",
+   "tag": "À toi de jouer",
+   "title": "Prépare ta phrase « Just to make sure » pour ta *prochaine réunion*.",
+   "body": "Déjà dit « yes » sans comprendre ? Réponds par oui ou non.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
