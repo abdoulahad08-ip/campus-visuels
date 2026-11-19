@@ -29,6 +29,9 @@
 - [ ] [Transformation] « Ton savoir-faire disparaît dès que tu es absent ? Écris-le. » — carrousel : transformer une tâche en procédure de 1 page qu'un autre peut suivre
 - [x] [Transformation] « Tu dis "I am agree" en réunion ? Tout le monde comprend surtout que tu traduis. » — carrousel : 5 erreurs d'anglais pro fréquentes chez les francophones et la bonne phrase à dire à la place + « écris la phrase que tu corriges » (idée du 16 nov, suite du top 630) (2026-11-16, 16h)
 - [x] [Transformation] « Tu ne manques pas de discipline. Ton habitude est juste trop grosse. » — carrousel : réduire l'habitude à 2 minutes, la lier à un moment fixe, la tenir 66 jours (UCL 2010) + question « quelle habitude de 2 minutes ? écris-la en 3 mots » (idée du 16 nov) (2026-11-18, 16h)
+- [x] [Transformation] « En réunion en anglais, dire "yes" sans comprendre coûte cher. » — carrousel : 3 phrases pour vérifier (reformuler, demander un exemple, verrouiller l'échéance + confirmation écrite) + question oui/non (idée du 19 nov, suite de la story 09h) (2026-11-19)
+- [ ] [Transformation] « Ton e-mail en anglais commence par "I am writing to you to…" ? Ton lecteur décroche. » — carrousel : e-mail pro court en 3 lignes (demande, contexte, échéance) + 5 formules prêtes (idée du 19 nov)
+- [ ] [Transformation] « Tu n'as pas compris ton interlocuteur au téléphone en anglais ? Ne raccroche pas sur un "OK". » — carrousel : 3 phrases pour faire répéter, épeler, confirmer par écrit (idée du 19 nov)
 ## CB | PATRIMOINE (35 %) — idées audacieuses du 22 oct 2026
 - [x] [Patrimoine] « Un revenu élevé ne garantit pas un patrimoine élevé. » — carrousel : revenus vs actifs, exemple chiffré pédagogique (2026-10-22, 16h)
 - [x] [Patrimoine] « Tu peux travailler 30 ans sans construire un patrimoine à la hauteur de tes efforts. » — carrousel : le mécanisme et la sortie (2026-11-09)
