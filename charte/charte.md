@@ -162,3 +162,6 @@ Stratégie et offres, budget et ciblage des publicités Meta Ads (compte connect
 
 ## Mode de publication (décision du 14 oct 2026)
 Publication directe : les tâches programment les posts en autoPublish, sans brouillon à valider. Le contrôle qualité automatique et la procédure pause restent obligatoires.
+
+## Campus Bourse sur LinkedIn (décision du 19 nov 2026)
+Lundi, mercredi et vendredi à 11h, la page LinkedIn publie le programme Campus Bourse (campus-bourse/programme.md) à la place du carrousel valeur. Exception à la phase confiance pour ces seuls posts : présentation du SaaS et invitation à l'essai gratuit autorisées. Jamais de décision, de score ou de prix maximum de la plateforme pour une société nommée.

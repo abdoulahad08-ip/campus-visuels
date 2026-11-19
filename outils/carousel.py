@@ -15,7 +15,7 @@ Types (un par diapo) :
   resultat   -> le résultat ; "big" = gros chiffre : fond or, texte vert
   marque     -> visuel de marque (story, question du soir) : vert forêt + motif briques
   cta        -> dernière diapo ; "big" = « @campusdesbatisseurs » : vert forêt, grosse pastille or
-Clé racine "territoire": "cyber" | "patrimoine" | "transformation" (ou par diapo) : code visuel du territoire
+Clé racine "territoire": "cyber" | "patrimoine" | "transformation" | "bourse" (Campus Bourse) (ou par diapo) : code visuel du territoire
   (bande gauche + badge « CB | CYBER » turquoise, « CB | PATRIMOINE » or, « CB | TRANSFORMATION » corail).
 Option "theme": "ivoire" | "foret" | "or" | "corail" | "turquoise" pour forcer un fond (variété).
 Clé optionnelle "cover" : visuel unique -> cover_fb.png (1080x1350) et cover_tt.jpg (1080x1920).
@@ -79,6 +79,7 @@ TERRITOIRES = {
     "cyber": ("CYBER", TURQUOISE),
     "patrimoine": ("PATRIMOINE", OR),
     "transformation": ("TRANSFORMATION", CORAIL),
+    "bourse": ("CAMPUS BOURSE", OR),  # SaaS Campus Bourse (LinkedIn) : badge or, sans préfixe CB
 }
 
 
@@ -334,8 +335,10 @@ def render(s, idx, total, W, H, path):
     brick(d, M, fy + 4, 26, OR if dark else FORET)
     if terr:
         lab, col = terr
-        d.text((M + 66, fy), "CB", font=ff, fill=tc)
-        x0 = M + 66 + d.textlength("CB ", font=ff)
+        pref = "" if lab == "CAMPUS BOURSE" else "CB"
+        if pref:
+            d.text((M + 66, fy), pref, font=ff, fill=tc)
+        x0 = M + 66 + (d.textlength(pref + " ", font=ff) if pref else 4)
         lw = d.textlength(lab, font=ff)
         # pastille du territoire
         if col == (c1 if not dark else None) or (not dark and col == OR and c1 in (OR, OR2)):
