@@ -1,0 +1,71 @@
+{
+ "territoire": "patrimoine",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 19 novembre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 19 novembre",
+   "title": "Tes actions BRVM : 68 milliards FCFA *effacés* mercredi",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →",
+   "theme": "or",
+   "territoire": "patrimoine"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Fed : « presque tous » ses responsables jugent probables de nouvelles *hausses de taux*.",
+   "body": "Source : CNBC"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : 4e séance de baisse, le Composite recule de 0,34 % à *500,95 points* mercredi.",
+   "body": "Source : Le Journal de l'Économie sénégalaise"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "First Circle Capital lève *26 M$* pour financer des startups fintech africaines.",
+   "body": "Source : TechCabal"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "OpenAI : ses nouveaux modèles GPT-6.2 atteignent son seuil de risque cyber *« critique »*.",
+   "body": "Source : system card OpenAI, via The Neuron",
+   "theme": "corail",
+   "territoire": "cyber"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "Google lance *Gemini 4 Neon*, une IA qu'il dit au niveau de ses rivaux, pour moins cher.",
+   "body": "Source : Digital Trends",
+   "theme": "turquoise"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Trump, Xi et Poutine réunis à Shenzhen (Chine) pour un *sommet à trois* inédit.",
+   "body": "Source : Al Jazeera"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Taux américains en hausse : la dette du Sénégal *coûte* plus",
+   "body": "Plus l'État paie d'intérêts, moins il lui reste pour les routes, l'école ou la santé."
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "Comprendre le monde, une brique par *jour.*",
+   "body": "Laquelle de ces actus te concerne le plus ? Dis-le en commentaire.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}
