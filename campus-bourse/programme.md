@@ -1,11 +1,20 @@
-# Campus Bourse – programme LinkedIn « construire la crédibilité » (lancé le 19 nov 2026)
+# Campus Bourse – programme de lancement sur tous les réseaux (décision du 19 nov 2026)
 
-Positionnement : **Campus Bourse – investir à la BRVM avec méthode, discipline et vision long terme.**
-Éditeur : Campus des Bâtisseurs. Site : https://campusbourse.com. Publié sur la page LinkedIn Campus des Bâtisseurs.
-Exception à la phase confiance (décision de l'utilisateur du 19 nov 2026) : sur LinkedIn, ces 3 posts peuvent présenter Campus Bourse et inviter à l'essai gratuit. Les autres réseaux restent en phase confiance.
+Positionnement : **CAMPUS BOURSE | Maîtrisez la valorisation des actions BRVM. Investissez avec méthode.**
+Éditeur : Campus des Bâtisseurs. Site : https://campusbourse.com. WhatsApp : +221 76 760 22 22.
+Le 19 nov 2026, l'utilisateur a ARRÊTÉ tout le contenu Campus des Bâtisseurs pour lancer Campus Bourse à fond. Les comptes Facebook, TikTok, LinkedIn et YouTube (toujours au nom de Campus des Bâtisseurs) publient désormais UNIQUEMENT du Campus Bourse. La « phase confiance » est terminée pour Campus Bourse : présenter le SaaS, l'essai gratuit et les prix Premium est autorisé (jamais de pression ni de fausse urgence).
 
-## Rythme
-3 posts par semaine : **lundi, mercredi, vendredi à 11h00** (Dakar). Ils remplacent le carrousel valeur LinkedIn de ces jours-là (le carrousel valeur reste sur LinkedIn mardi, jeudi, samedi à 11h ; le carrousel 16h reste à 13h du lundi au samedi).
+## Rythme (2 posts par jour)
+| Heure (Dakar) | Réseaux | Contenu | Tâche |
+|---|---|---|---|
+| 10h00 | Facebook + TikTok (tous les jours) | Carrousel du thème du jour (rotation des 5 thèmes) | « Campus Bourse – carrousel 10h » |
+| 11h00 | LinkedIn (lundi, mercredi, vendredi) | Même carrousel, texte professionnel (vouvoiement) | même tâche |
+| 18h00 | Facebook + TikTok (tous les jours) | Question / quiz BRVM, chiffre du jour expliqué, ou démo courte d'une fonctionnalité | « Campus Bourse – 18h » |
+| 16h00 | YouTube | Uniquement les vidéos fournies par l'utilisateur (sujet bourse / BRVM) | manuel |
+
+## Signature (tous les réseaux, mot pour mot : campus-bourse/signature.txt)
+Avant la signature, toujours : « Outil d'aide à l'analyse. Ceci n'est pas un conseil en investissement. »
+Ton : tutoiement sur Facebook et TikTok (« Campus Bourse t'aide à… »), vouvoiement sur LinkedIn.
 
 ## Les 5 thèmes, en rotation stricte (le suivant après le dernier noté dans journal.csv)
 1. **ANALYSE** – une société cotée à la BRVM : activité, chiffres clés des derniers exercices publiés (chiffre d'affaires, résultat net, ROE, endettement, dividende), forces, risques, questions à se poser. Jamais de verdict « à acheter / à vendre / sous-évaluée ».
@@ -37,9 +46,12 @@ Sociétés déjà analysées : colonne `sujet` de journal.csv (ne pas répéter 
 - Mention finale obligatoire : « Outil d'aide à l'analyse. Ceci n'est pas un conseil en investissement. »
 
 ## Format
-- Texte LinkedIn : accroche forte en 1re ligne (≤ 120 caractères), 900 à 1 300 caractères, phrases courtes, une ligne vide entre les blocs, 1 question aux lecteurs, 3 à 5 hashtags (#BRVM #Investissement #CampusBourse + 1 ou 2 selon le sujet). Pas de lien dans le texte : le lien https://campusbourse.com va dans le PREMIER COMMENTAIRE.
-- Carrousel PDF (5 à 7 diapos) avec outils/carousel.py, clé racine "territoire": "bourse" ; dernière diapo : big = « campusbourse.com ».
-- DÉMO : si des captures réelles sont dans campus-bourse/captures/ (PNG/JPG fournis par l'utilisateur), les utiliser en priorité comme images ; sinon carrousel explicatif, sans fausse capture.
+- **Facebook 10h** : carrousel (5 à 7 images JPEG) + texte 600 à 1 000 caractères, tutoiement, 1 question aux lecteurs, lien https://campusbourse.com autorisé dans le texte, puis disclaimer + signature (campus-bourse/signature.txt).
+- **TikTok 10h** : le même carrousel en images JPEG (mode photo), légende courte (≤ 300 caractères avant la signature), puis disclaimer + signature. (Exception à la règle « pas de signature TikTok » : elle concernait Campus des Bâtisseurs.)
+- **LinkedIn 11h (lun/mer/ven)** : accroche ≤ 120 caractères, 900 à 1 300 caractères, vouvoiement, carrousel PDF ; pas de lien dans le texte, le lien va dans le PREMIER COMMENTAIRE (campus-bourse/premier_commentaire_modele.txt) ; disclaimer + signature à la fin.
+- **18h Facebook + TikTok** : 1 image (carrousel d'1 à 3 diapos) avec une question/quiz BRVM, un concept expliqué (PER, ROE, rendement du dividende, marge de sécurité…), ou une démo courte d'UNE fonctionnalité réelle ; réponse/explication dans le texte ; invitation à l'essai gratuit 7 jours au plus un jour sur deux.
+- Visuels : outils/carousel.py avec "territoire": "bourse" ; dernière diapo : big = « campusbourse.com ».
+- DÉMO : si des captures réelles sont dans campus-bourse/captures/, les utiliser en priorité ; sinon carrousel explicatif, sans fausse capture.
 
 ## Mesure
-journal.csv : date, thème, sujet, post Metricool. Le rapport du lundi suit les impressions, réactions, commentaires, partages et clics de ces posts, comparés aux autres posts LinkedIn.
+journal.csv : date, thème, sujet, post Metricool. Le rapport du lundi suit, par réseau et par thème, la portée, les réactions, commentaires, partages et clics, ainsi que les ventes Chariow des abonnements Premium Campus Bourse (analys-mens, analys-an).

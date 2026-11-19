@@ -163,5 +163,8 @@ Stratégie et offres, budget et ciblage des publicités Meta Ads (compte connect
 ## Mode de publication (décision du 14 oct 2026)
 Publication directe : les tâches programment les posts en autoPublish, sans brouillon à valider. Le contrôle qualité automatique et la procédure pause restent obligatoires.
 
-## Campus Bourse sur LinkedIn (décision du 19 nov 2026)
+## PIVOT 19 nov 2026 : Campus des Bâtisseurs en pause, 100 % Campus Bourse
+Depuis le 19 nov 2026, tout le contenu Campus des Bâtisseurs (story, valeur, flash, expérience, soir, action du jour, boutique) est ARRÊTÉ. Tous les réseaux publient uniquement Campus Bourse selon campus-bourse/programme.md, avec la signature campus-bourse/signature.txt (mot pour mot, y compris sur TikTok). Les règles ci-dessous concernant CdB restent en archive pour une éventuelle reprise. Ne jamais utiliser outils/signature.txt (CdB) pour Campus Bourse.
+
+## Campus Bourse sur LinkedIn (décision du 19 nov 2026, élargie à tous les réseaux le même jour)
 Lundi, mercredi et vendredi à 11h, la page LinkedIn publie le programme Campus Bourse (campus-bourse/programme.md) à la place du carrousel valeur. Exception à la phase confiance pour ces seuls posts : présentation du SaaS et invitation à l'essai gratuit autorisées. Jamais de décision, de score ou de prix maximum de la plateforme pour une société nommée.
