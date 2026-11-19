@@ -1,0 +1,5 @@
+Formule d'accroche : La distinction qui éclaire (« Ton épargne tient moins d'un mois ? Regarde l'ordre, pas le salaire. ») (charte/accroches.md)
+Source : recommandation courante d'épargne de précaution de 3 à 6 mois de dépenses (ex. Crédit Agricole, « Épargne de précaution : définition, montant et placements » ; INC avec la Banque de France).
+Idée : charte/idees.md CB | PATRIMOINE « Ton épargne te fait tenir moins d'un mois ? … C'est l'ordre de tes priorités. » (idée du 16 nov) ; consigne PATRIMOINE fonds d'urgence (paliers 1 semaine, 1 mois, 3 mois).
+Exemple chiffré pédagogique (pas un vrai élève) : dépenses 150 000 FCFA/mois ; 1 semaine = 150 000 / 30 × 7 = 35 000 ; épargne 20 000/mois → palier 1 en 2 mois, 150 000 en 7,5 → 8 mois, 450 000 en 22,5 mois.
+Jeudi : question à réponse en 1 chiffre (pas d'appel au partage).

@@ -1,0 +1,43 @@
+{
+ "territoire": "patrimoine",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Avant / après",
+   "title": "Ton épargne tient moins d'un mois ? Regarde *l'ordre*, pas le salaire.",
+   "body": "Épargner « ce qui reste », c'est épargner en dernier. Et il ne reste presque jamais rien."
+  },
+  {
+   "type": "probleme",
+   "tag": "Avant",
+   "title": "200 000 FCFA de salaire. Une panne, et *tout* déraille.",
+   "body": "Exemple : rien de côté. Le moindre imprévu devient une dette, un emprunt à la famille ou un retard."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 1 : tes 3 paliers",
+   "title": "Calcule tes dépenses *essentielles* d'un mois.",
+   "body": "Exemple : 150 000 FCFA. 1 semaine = 35 000 · 1 mois = 150 000 · 3 mois = 450 000."
+  },
+  {
+   "type": "solution",
+   "tag": "Étape 2 : le jour de la paie",
+   "title": "20 000 FCFA partent *en premier*, sur un compte à part.",
+   "body": "Pas sur ton portefeuille du quotidien. Tu vis avec le reste, pas l'inverse."
+  },
+  {
+   "type": "resultat",
+   "theme": "turquoise",
+   "tag": "Après",
+   "title": "Palier 1 atteint en 2 mois. Un mois de réserve en :",
+   "big": "8 mois"
+  },
+  {
+   "type": "cta",
+   "tag": "Ce qu'on construit ici",
+   "title": "La sécurité ne vient pas du salaire. Elle vient de *l'ordre*.",
+   "body": "Des méthodes concrètes, chaque jour. Sans promesse magique.",
+   "big": "@campusdesbatisseurs"
+  }
+ ]
+}

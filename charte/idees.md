@@ -47,7 +47,7 @@
 
 - [ ] [Patrimoine] « La famille passe avant ton épargne ? Alors ton épargne doit passer avant ton salaire. » — carrousel : prévoir une ligne « famille et imprévus » dans le budget, exemple chiffré en FCFA (idée du 9 nov, réponse au sondage du 8 nov)
 - [ ] [Patrimoine] « Ton crédit n'est pas cher à cause du taux. Il est cher à cause de sa durée. » — carrousel : même prêt sur 6, 12 et 24 mois, coût total en FCFA (idée du 9 nov)
-- [ ] [Patrimoine] « Ton épargne te fait tenir moins d'un mois ? Ce n'est pas d'abord ton salaire. C'est l'ordre de tes priorités. » — carrousel : fonds d'urgence en 3 paliers (1 semaine, 1 mois, 3 mois), exemple chiffré en FCFA + « en combien de jours ton épargne serait vide ? réponds par un chiffre » (idée du 16 nov, réponse au sondage du 9 nov)
+- [x] [Patrimoine] « Ton épargne te fait tenir moins d'un mois ? Ce n'est pas d'abord ton salaire. C'est l'ordre de tes priorités. » — carrousel : fonds d'urgence en 3 paliers (1 semaine, 1 mois, 3 mois), exemple chiffré en FCFA + « en combien de jours ton épargne serait vide ? réponds par un chiffre » (idée du 16 nov, réponse au sondage du 9 nov) (2026-11-19, 16h)
 - [ ] [Patrimoine] « Ta tontine t'oblige à épargner. Elle ne fait pas travailler ton argent. » — carrousel : ce que la tontine fait bien (discipline, accès rapide), ce qu'elle ne fait pas (rendement, inflation), comment la compléter, exemple FCFA, mention éducative (idée du 16 nov)
 ## CB | CYBER (25 %) — idées audacieuses du 22 oct 2026
 - [x] [Cyber] « Ton compte bancaire n'est peut-être pas ton actif le plus vulnérable. Ton identité numérique l'est peut-être davantage. » — carrousel : ce qu'on vole vraiment (2026-11-11)
