@@ -1,0 +1,14 @@
+Pilier : BILAN HEBDO (vendredi) — variante « variations de la semaine » (le Top dividendes n'a pas été fait : Bulletin Officiel de la Cote du 19 nov inaccessible, cours et dividendes non vérifiables).
+Période : clôture du vendredi 13 nov 2026 → clôture du jeudi 19 nov 2026. Séance du vendredi 20 nov non publiée au moment de la production.
+
+- BRVM : Plus de 11 milliards FCFA de transactions opérées ce jeudi 19 novembre 2026 (Le Journal de l'Économie Sénégalaise) — https://www.lejecos.com/BRVM-Plus-de-11-milliards-FCFA-de-transactions-operees-ce-jeudi-19-novembre-2026_a31881.html
+  BRVM Composite 493,95 (−1,40 %), BRVM 30 239,43, transactions 11,146 Md FCFA (veille 1,379), capitalisation actions 19 370,403 Md FCFA.
+- BRVM - Evolution baissière de toutes les activités du marché en fin de semaine (allAfrica / lejecos, séance du 13 nov 2026) — https://fr.allafrica.com/stories/202611140077.html
+  BRVM Composite 515,94, BRVM 30 249,28, capitalisation actions 20 232,537 Md FCFA.
+- BRVM - Quatrième journée de baisse ininterrompue des indices phares ce mercredi 18 novembre 2026 (allAfrica) — https://fr.allafrica.com/stories/202611190264.html
+  Confirme les baisses des 13, 16, 17 et 18 nov (Composite 500,95 le 18 nov).
+- BRVM - Résumé de la semaine boursière du 09 au 13 novembre 2026 (Richbourse) — https://www.richbourse.com/common/apprendre/article/resume_semaine_09_11_au_13_11_2026_1794583802
+  Confirme la clôture du Composite à 515,94 le 13 nov.
+
+Calculs (Python) : 493,95/515,94−1 = −4,26 % ; 239,43/249,28−1 = −3,95 % ; 19 370,403−20 232,537 = −862,1 Md FCFA.
+Accroche : « Le chiffre qui résume » (4 séances, 4 baisses).

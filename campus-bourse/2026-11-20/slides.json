@@ -1,0 +1,53 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "corail",
+   "tag": "Bilan de la semaine",
+   "title": "BRVM : 4 séances, 4 *baisses*",
+   "body": "BRVM Composite, du lundi 16 au jeudi 19 novembre 2026."
+  },
+  {
+   "type": "resultat",
+   "tag": "BRVM Composite",
+   "title": "L'indice recule de *4,26 %* en quatre séances",
+   "big": "−4,26 %",
+   "body": "515,94 points le 13 nov, 493,95 points le 19 nov."
+  },
+  {
+   "type": "resultat",
+   "tag": "BRVM 30",
+   "title": "Le BRVM 30 suit le même *chemin*",
+   "big": "−3,95 %",
+   "body": "249,28 points le 13 nov, 239,43 points le 19 nov."
+  },
+  {
+   "type": "probleme",
+   "tag": "Capitalisation actions",
+   "title": "Environ 862 milliards FCFA de *moins*",
+   "big": "19 370 milliards FCFA",
+   "body": "Contre 20 232,5 milliards FCFA à la clôture du 13 novembre."
+  },
+  {
+   "type": "solution",
+   "tag": "Jeudi 19 novembre",
+   "title": "Les échanges se *réveillent*",
+   "big": "11,1 milliards FCFA",
+   "body": "Transactions du jour, contre 1,379 milliard FCFA la veille."
+  },
+  {
+   "type": "solution",
+   "tag": "La méthode",
+   "title": "Un indice qui baisse ne juge pas une *société*",
+   "body": "Résultats, dette, dividende : vérifie-les société par société. Séance du vendredi non incluse."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Prépare ton analyse avec *Campus Bourse*",
+   "big": "campusbourse.com",
+   "body": "Essai gratuit 7 jours. Sources : lejecos.com, allAfrica."
+  }
+ ]
+}
