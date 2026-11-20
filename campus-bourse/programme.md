@@ -22,6 +22,11 @@ TikTok : carrousel photo (les vidéos 30–45 s du plan seront faites quand l'ut
 ## Ligne éditoriale (décision du 20 nov 2026)
 On INFORME (Flash 12h), on ÉDUQUE (piliers bourse 10h, leçons de bâtisseur et leçons d'anglais 16h), on donne de la VALEUR et des SOLUTIONS CYBER (16h). Tous les visuels utilisent le visuel Campus Bourse (outils/carousel.py, "territoire": "bourse") et tous les textes finissent par la signature campus-bourse/signature.txt. Le disclaimer « Outil d'aide à l'analyse. Ceci n'est pas un conseil en investissement. » est obligatoire sur tout post qui parle de finance, de bourse ou de placement (piliers, Flash, 18h) ; il n'est pas utile sur une leçon d'anglais ou une solution cyber sans contenu financier.
 
+**PROMOTION DE CAMPUS BOURSE DANS TOUTES LES RUBRIQUES (décision du 20 nov 2026)** : chaque post, quelle que soit la rubrique (Flash, leçon de bâtisseur, leçon d'anglais, solution cyber), fait aussi connaître Campus Bourse :
+- une ligne de promotion avant la signature, reliée au sujet du jour quand c'est possible, variée d'un jour à l'autre (ex. « 📊 Pour investir à la BRVM avec méthode : Campus Bourse analyse les 46 sociétés cotées. Essai gratuit de 7 jours, lien en bio. » ; leçon d'anglais finance : « Ces mots, tu les retrouves dans les fiches Campus Bourse. » ; cyber : « Une vraie action BRVM s'achète via une SGI agréée. Pour l'analyser avant d'acheter : Campus Bourse. ») ;
+- la dernière diapo "cta" : big « campusbourse.com » et un body qui mentionne l'essai gratuit de 7 jours ;
+- seulement des fonctionnalités réelles (liste ci-dessous), jamais de pression ni de fausse urgence.
+
 ### Flash infos (12h TikTok, 13h LinkedIn)
 Titre fixe : « Voici les dernières 24h en finance, bourse, startup, cybersécurité, IT et géopolitique ». 6 à 8 actus des dernières 24–36 h, une par catégorie au minimum (BRVM / UEMOA / Afrique de l'Ouest dès qu'il y a une actu fiable), chacune ≤ 100 caractères, source fiable ouverte, puis « Ce que ça change pour toi » (2 à 3 phrases). Faits vérifiés uniquement, ton neutre sur la politique, aucune prédiction présentée comme un fait, aucune recommandation d'achat/vente.
 
