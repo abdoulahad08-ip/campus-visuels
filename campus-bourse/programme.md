@@ -12,9 +12,24 @@ Le 19 nov 2026, l'utilisateur a ARRÊTÉ tout le contenu Campus des Bâtisseurs 
 | 10h00 lun → sam | TikTok | Le PILIER DU JOUR (tableau ci-dessous) | « Campus Bourse – pilier 10h » |
 | 11h00 lun, mar, mer, ven | LinkedIn | Le même pilier, texte professionnel (vouvoiement) | même tâche |
 | chaque jour | X et WhatsApp (PAS dans Metricool) | Textes + visuel prêts envoyés à l'utilisateur, qui les publie lui-même | même tâche |
+| 12h00 tous les jours | TikTok | FLASH INFOS : les dernières 24 h (finance, bourse/BRVM, startup, cybersécurité, IT, géopolitique) + décryptage | « Campus Bourse – Flash 12h » |
+| 13h00 tous les jours | LinkedIn | Le même FLASH INFOS, texte professionnel | même tâche |
+| 16h00 tous les jours | TikTok | Lun/Mer/Ven/Dim : LEÇON DE BÂTISSEUR (anglais) · Mar/Jeu/Sam : SOLUTION CYBER | « Campus Bourse – leçon / cyber 16h » |
 | 18h00 tous les jours | TikTok | Question / quiz, concept, démo courte, vrai ou faux, débat, blocage | « Campus Bourse – 18h » |
 | YouTube | | Uniquement les vidéos fournies par l'utilisateur | manuel |
 TikTok : carrousel photo (les vidéos 30–45 s du plan seront faites quand l'utilisateur fournira des vidéos ou validera un format vidéo).
+
+## Ligne éditoriale (décision du 20 nov 2026)
+On INFORME (Flash 12h), on ÉDUQUE (piliers bourse 10h, leçons d'anglais 16h), on donne de la VALEUR et des SOLUTIONS CYBER (16h). Tous les visuels utilisent le visuel Campus Bourse (outils/carousel.py, "territoire": "bourse") et tous les textes finissent par la signature campus-bourse/signature.txt. Le disclaimer « Outil d'aide à l'analyse. Ceci n'est pas un conseil en investissement. » est obligatoire sur tout post qui parle de finance, de bourse ou de placement (piliers, Flash, 18h) ; il n'est pas utile sur une leçon d'anglais ou une solution cyber sans contenu financier.
+
+### Flash infos (12h TikTok, 13h LinkedIn)
+Titre fixe : « Voici les dernières 24h en finance, bourse, startup, cybersécurité, IT et géopolitique ». 6 à 8 actus des dernières 24–36 h, une par catégorie au minimum (BRVM / UEMOA / Afrique de l'Ouest dès qu'il y a une actu fiable), chacune ≤ 100 caractères, source fiable ouverte, puis « Ce que ça change pour toi » (2 à 3 phrases). Faits vérifiés uniquement, ton neutre sur la politique, aucune prédiction présentée comme un fait, aucune recommandation d'achat/vente.
+
+### Leçon de bâtisseur – anglais (16h TikTok, lun/mer/ven/dim)
+Une leçon d'anglais courte et utile pour progresser (école, travail, business, finance, tech), en français avec les exemples en anglais : une règle (ex. conditionnels, used to / be used to, phrasal verbs, faux amis), OU du vocabulaire professionnel (finance / bourse : share, dividend, earnings, bull/bear market… ; entretien d'embauche ; e-mail pro ; cybersécurité). 3 à 5 exemples, une erreur fréquente des francophones, un mini-exercice (réponse dans la dernière diapo). Exactitude grammaticale vérifiée. Ne jamais répéter un sujet déjà traité (dossiers videos/ et campus-bourse/lecons/). Si l'utilisateur a déposé une vidéo de leçon non publiée dans videos/, elle passe en priorité.
+
+### Solution cyber (16h TikTok, mar/jeu/sam)
+Une menace concrète et actuelle en Afrique de l'Ouest (arnaques Mobile Money, piratage WhatsApp, faux investissements / fausses plateformes de trading, phishing bancaire, SIM swap, faux recrutements…) + la solution pas à pas (réglages exacts, réflexes, que faire si c'est déjà arrivé). Prévention uniquement, jamais de méthode d'attaque. Lien naturel possible avec l'investissement : « une plateforme qui promet 20 % par mois est une arnaque ».
 
 ## Les 7 piliers (un par jour, à 10h)
 | Jour | Pilier | Contenu | Canaux | CTA (formulation conforme) |
