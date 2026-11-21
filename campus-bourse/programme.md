@@ -4,6 +4,8 @@ Positionnement : **CAMPUS BOURSE | Maîtrisez la valorisation des actions BRVM. 
 Éditeur : Campus des Bâtisseurs. Site : https://campusbourse.com. WhatsApp : +221 76 760 22 22.
 Le 19 nov 2026, l'utilisateur a ARRÊTÉ tout le contenu Campus des Bâtisseurs pour lancer Campus Bourse à fond. Les comptes Facebook, TikTok, LinkedIn et YouTube (toujours au nom de Campus des Bâtisseurs) publient désormais UNIQUEMENT du Campus Bourse. La « phase confiance » est terminée pour Campus Bourse : présenter le SaaS, l'essai gratuit et les prix Premium est autorisé (jamais de pression ni de fausse urgence).
 
+**SIGNATURE (décision du 22 nov 2026)** : plus de numéro de téléphone ; signature = le site + hashtags (campus-bourse/signature.txt). TikTok et X : pas de bloc signature « marque » ; seulement les hashtags viraux en fin de texte (et le site dans le texte ou « lien en bio »). Respecter les limites de caractères (X : 280, emoji = 2).
+
 **PUBLICATION VIA BUFFER depuis le 22 nov 2026** (procédure : outils/buffer.md). Metricool n'est plus utilisé. X est maintenant publié automatiquement via Buffer ; WhatsApp reste manuel. Premier commentaire LinkedIn impossible sur le forfait gratuit Buffer : il est envoyé à l'utilisateur pour qu'il le poste à la main.
 
 ## Rythme (calendrier hebdomadaire validé le 19 nov 2026)
