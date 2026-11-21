@@ -1,0 +1,27 @@
+1/5 « Cette action BRVM est à 500 FCFA, elle n'est pas chère. »
+C'est l'une des erreurs les plus fréquentes des débutants. Le cours seul ne dit pas si tu paies cher. Démonstration avec un exemple fictif 👇
+
+---
+
+2/5 Société A : cours 500 FCFA, bénéfice 25 FCFA par action.
+PER = 500 ÷ 25 = 20.
+Tu paies 20 fois le bénéfice annuel.
+
+---
+
+3/5 Société B : cours 20 000 FCFA, bénéfice 2 000 FCFA par action.
+PER = 20 000 ÷ 2 000 = 10.
+Tu paies 10 fois le bénéfice annuel : deux fois moins cher que A, malgré un cours 40 fois plus élevé.
+
+---
+
+4/5 Avec 100 000 FCFA :
+200 actions A → 5 000 FCFA de bénéfice.
+5 actions B → 10 000 FCFA de bénéfice.
+Compare le PER, pas le cours. Puis le ROE, la dette et la régularité du dividende : un PER bas seul ne suffit pas.
+
+---
+
+5/5 Investissez avec méthode. Rejoignez Campus Bourse : les ratios des 46 sociétés cotées, essai gratuit 7 jours.
+https://campusbourse.com
+Pas un conseil en investissement.

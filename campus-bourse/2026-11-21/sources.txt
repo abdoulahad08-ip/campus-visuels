@@ -1,0 +1,7 @@
+Pilier : L'ERREUR QUI COÛTE CHER (samedi) — « Une action à 500 FCFA n'est pas chère » (confondre le cours et la valorisation).
+Exemple entièrement FICTIF (sociétés A et B), aucun chiffre de marché réel cité.
+
+- Ratio cours/bénéfice (PER), définition — Office québécois de la langue française, Grand dictionnaire terminologique : https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/504354/ratio-coursbenefice
+
+Calculs (Python) : 500/25 = 20 ; 20 000/2 000 = 10 ; 100 000/500 = 200 actions × 25 = 5 000 FCFA ; 100 000/20 000 = 5 actions × 2 000 = 10 000 FCFA ; 20 000/500 = 40.
+Accroche : « La croyance renversée » (citation d'une idée reçue).
