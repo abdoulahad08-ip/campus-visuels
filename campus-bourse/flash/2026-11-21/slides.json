@@ -1,0 +1,67 @@
+{
+ "territoire": "bourse",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 21 novembre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 21 novembre",
+   "title": "La BRVM a baissé *6 séances* d'affilée. Et ton épargne ?",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Wall Street chute vendredi : *Nvidia* perd 14 % sur des doutes sur la rentabilité de l'IA",
+   "body": "Source : StockTitan"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : le Composite recule de 0,21 % à 492,89 points, *6e séance* de baisse d'affilée",
+   "body": "Source : Lejecos"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "Kenya : les startups ont levé 201 M$ de janvier à septembre 2026, soit *73 %* de moins",
+   "body": "Source : TechTrendsKE"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "La Commission européenne visée par une cyberattaque menée avec un *outil d'IA*",
+   "body": "Source : Euronews",
+   "theme": "corail"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "Google choisit Blue Origin pour lancer ses *satellites-serveurs* d'IA en 2029",
+   "body": "Source : The Verge"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "COP31 : blocage sur les énergies fossiles, le sommet climat joue les *prolongations*",
+   "body": "Source : Al Jazeera"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Le cours baisse. Les *comptes* des sociétés, eux, ne changent pas en une séance.",
+   "body": "Une baisse ne dit pas si une action est chère : bénéfices, dividendes et dette l'éclairent."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "S'informer, puis analyser avec *méthode.*",
+   "body": "46 sociétés de la BRVM analysées. Essai gratuit 7 jours.",
+   "big": "campusbourse.com"
+  }
+ ]
+}
