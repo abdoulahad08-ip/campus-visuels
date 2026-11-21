@@ -1,0 +1,50 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Leçon d'anglais",
+   "title": "« I bought actions » ? En anglais, c'est *faux.*",
+   "body": "3 faux amis de la bourse que les francophones confondent. Glisse."
+  },
+  {
+   "type": "solution",
+   "tag": "Faux ami n°1",
+   "title": "Une action = a *share* (ou a stock)",
+   "body": "She bought 100 shares. → Elle a acheté 100 actions. En anglais, « action » veut dire acte."
+  },
+  {
+   "type": "probleme",
+   "theme": "corail",
+   "tag": "Faux ami n°2",
+   "title": "Un bénéfice = a *profit*, pas « benefit »",
+   "body": "The company's profit rose. → Le bénéfice de la société a augmenté. « Benefit » = avantage."
+  },
+  {
+   "type": "solution",
+   "tag": "Faux ami n°3",
+   "title": "Une obligation = a *bond*",
+   "body": "A bond pays interest. → Une obligation verse des intérêts. En anglais, « obligation » = devoir."
+  },
+  {
+   "type": "promesse",
+   "tag": "Exercice",
+   "title": "À toi : complète avec share, profit ou *bond*",
+   "body": "1. I own 50 ___ in this bank.\n2. The company made a big ___.\n3. A ___ pays interest."
+  },
+  {
+   "type": "resultat",
+   "tag": "Correction",
+   "title": "Tu as trouvé les *trois* ?",
+   "big": "shares · profit · bond",
+   "body": "Si tu as écrit « actions » ou « benefit », relis les diapos 2 et 3."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Apprendre, une leçon à la *fois.*",
+   "big": "campusbourse.com",
+   "body": "Analyse les 46 sociétés de la BRVM. Essai gratuit 7 jours."
+  }
+ ]
+}
