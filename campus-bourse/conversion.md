@@ -60,7 +60,7 @@ Chaque post met en avant UNE de ces fonctionnalités, avec l'enchaînement Fonct
 | # | Fonctionnalité | Émotion déclenchée | Valeur & solution (formulation autorisée) |
 |---|---|---|---|
 | 1 | Prix sécurisé & marge de sécurité | Soulagement, protection : « Je ne vais pas me faire piéger au sommet » | Aide à éviter de surpayer après une forte hausse : la plateforme calcule, pour chaque société, un cours d'achat avec marge de sécurité. |
-| 2 | Master Liste & Top BRVM (badges) | Clarté, sérénité : « Tout est déjà trié, je sais où regarder » | Fin de la paralysie face aux 46 sociétés : en quelques secondes, les dossiers solides sont séparés des valeurs fragiles. |
+| 2 | Master Liste & Top BRVM (badges) | Clarté, sérénité : « Tout est déjà trié, je sais où regarder » | Fin de la paralysie face à toutes les sociétés de la cote : en quelques secondes, les dossiers solides sont séparés des valeurs fragiles. |
 | 3 | Comparateur face-à-face | Maîtrise, objectivité : « Je juge sur des preuves, pas sur des rumeurs » | Remplace l'hésitation entre deux titres (ex. deux banques, deux télécoms) par une comparaison chiffrée de la qualité, de la valeur intrinsèque et du risque. Dans un post, montrer la démarche, jamais le gagnant. |
 | 4 | Liste de suivi & points d'entrée | Patience stratégique, contrôle : « Je garde mes liquidités pour le bon moment » | Transforme la frustration d'un marché cher en attente active : on prépare ses ordres à cours limité au lieu d'acheter sous l'émotion. |
 | 5 | Alerte de plafond prudentiel (35 % par secteur) dans Mon portefeuille | Sécurité patrimoniale : « Mon épargne est protégée contre un retournement sectoriel » | Garde-fou : alerte si le capital est trop concentré sur un secteur ou un titre. |
@@ -68,8 +68,11 @@ Chaque post met en avant UNE de ces fonctionnalités, avec l'enchaînement Fonct
 | 7 | Analyse technique & calendrier des dividendes | Timing, anticipation : « J'entre au bon moment et je ne rate aucun coupon » | Réunit au même endroit le fondamental (quoi), le graphique (quand) et la visibilité sur les dividendes. |
 | 8 | Assistant IA & Académie BRVM | Confiance, autonomie : « Je comprends enfin chaque ratio sans jargon » | Lève le blocage du débutant : questions à l'assistant, fiches pédagogiques (BRVM Composite, BRVM 30, carnet d'ordres, ratios) à son rythme. |
 
+## Formulation
+Dire « les sociétés cotées à la BRVM » ; le chiffre 46 seulement quand il sert le message, au plus une fois par semaine et par réseau, jamais dans les CTA.
+
 ## Les 3 promesses à marteler
-- **Facilité (zéro friction, tout centralisé)** : plus besoin de télécharger 46 rapports annuels, d'éplucher le Bulletin Officiel de la Cote chaque soir ni de bricoler des fichiers Excel. Les 5 derniers exercices officiels, les ratios (PER, ROE, PEG, marge de sécurité), les dividendes et les graphiques sont déjà calculés, à jour et classés par secteur : Banque 17, Industrie 7, Distribution 6, Consommation 5, Agro-industrie 4, Télécoms 3, Transport 2, Services publics 2.
+- **Facilité (zéro friction, tout centralisé)** : plus besoin de télécharger des dizaines de rapports annuels, d'éplucher le Bulletin Officiel de la Cote chaque soir ni de bricoler des fichiers Excel. Les 5 derniers exercices officiels, les ratios (PER, ROE, PEG, marge de sécurité), les dividendes et les graphiques sont déjà calculés, à jour et classés par secteur : Banque 17, Industrie 7, Distribution 6, Consommation 5, Agro-industrie 4, Télécoms 3, Transport 2, Services publics 2.
 - **Solutions concrètes (du diagnostic à l'allocation)**, sans jamais décider à la place de l'utilisateur : 1. Filtrer (Top BRVM, Master Liste) → 2. Comparer (Comparateur) → 3. Valider le prix et le moment (prix sécurisé, analyse technique) → 4. Protéger (Mon portefeuille, alerte 35 %).
 - **Valeur perçue (transformer le doute en discipline)** : pour 5 000 FCFA/mois, l'abonné achète des dizaines d'heures économisées, une protection contre les achats impulsifs au plus haut et une méthode reproductible pour bâtir son patrimoine à la BRVM.
 
