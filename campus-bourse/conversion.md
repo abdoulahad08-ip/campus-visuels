@@ -26,7 +26,7 @@ Les 5 niveaux : Découvreur (comprendre la BRVM) → Apprenant (comprendre les i
 | Besoin | Qu'est-ce qui lui manque ? | gagner du temps, comparer, analyser des états financiers, suivre, organiser, informations structurées → « une simplification de votre processus d'analyse » |
 | Désir | Qu'aimerait-il obtenir ? | « avoir confiance dans ma capacité à décider » ; « Ne choisissez plus une entreprise uniquement parce que son cours augmente. Comprenez ses fondamentaux, comparez sa qualité et construisez votre propre analyse. » |
 | Peur | Qu'est-ce qu'il veut éviter ? | payer trop cher, mal lire des résultats, acheter sur une rumeur, ignorer les risques, décider sous l'émotion → « Avant d'investir, prenez le temps de comprendre les entreprises que vous envisagez d'ajouter à votre portefeuille. » |
-| Sécurité | Qu'est-ce qui le rassure ? | fiabilité (sources officielles), transparence (méthodes explicables), compréhension (indicateurs expliqués) |
+| Sécurité | Qu'est-ce qui le rassure ? | fiabilité (données à jour, issues des publications officielles), transparence (méthodes explicables), compréhension (indicateurs expliqués) |
 | Statut | Quelle identité ? | « Développez une véritable discipline d'investisseur : analysez, comparez, construisez votre propre méthode. » |
 | Accomplissement | Qui veut-il devenir ? | de débutant à autonome, d'impulsif à discipliné, d'approximatif à structuré |
 
@@ -53,4 +53,4 @@ Justifier les 5 000 FCFA/mois par du concret : temps économisé, analyses acces
 | 18h | Débutant → Analyste | Besoin / Désir | Solution (démo) |
 
 ## Garde-fous (inchangés, bloquants)
-Jamais de recommandation d'achat, de décision, de score ou de prix maximum pour une société nommée ; jamais de promesse de rendement ; jamais « données en temps réel » ni « données actualisées » tant que l'utilisateur ne l'a pas confirmé ; uniquement les fonctionnalités réelles listées dans programme.md ; aucun témoignage ou chiffre d'utilisateurs inventé ; « Ceci n'est pas un conseil en investissement. »
+Jamais de recommandation d'achat, de décision, de score ou de prix maximum pour une société nommée ; jamais de promesse de rendement ; jamais « temps réel » ; « données à jour / actualisées » AUTORISÉ (confirmé par l'utilisateur le 23 nov 2026) ; uniquement les fonctionnalités réelles listées dans programme.md ; aucun témoignage ou chiffre d'utilisateurs inventé ; « Ceci n'est pas un conseil en investissement. »

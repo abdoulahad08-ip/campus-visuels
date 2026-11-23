@@ -61,7 +61,7 @@ Une menace concrète et actuelle en Afrique de l'Ouest (arnaques Mobile Money, p
 | Dimanche | PRÉPARATION DE SÉANCE (agenda factuel) | EXCLUSIF canal WhatsApp / newsletter (pas de post 10h sur TikTok) : agenda factuel de la semaine (détachements et paiements de dividendes, assemblées générales, publications de résultats annoncées), sources. Jamais « valeurs à surveiller / à acheter » | WhatsApp (texte envoyé à l'utilisateur) | « Accède aux fiches détaillées sur Campus Bourse avant l'ouverture lundi. » |
 
 Sociétés déjà traitées : colonne `sujet` de journal.csv (varier les secteurs et les sociétés).
-Noms à ne PAS utiliser (n'existent pas dans le produit) : « Score de Conviction », « accès Pro », « 48 sociétés », « temps réel ». Utiliser : Premium, 46 sociétés, Campus Scores.
+Noms à ne PAS utiliser (n'existent pas dans le produit) : « Score de Conviction », « accès Pro », « 48 sociétés », « temps réel ». « Données à jour » est autorisé (confirmé par l'utilisateur le 23 nov 2026). Utiliser : Premium, 46 sociétés, Campus Scores.
 
 ## Fonctionnalités réelles (source : cahier des charges du projet, 15 nov 2026). N'en citer AUCUNE autre.
 - 46 sociétés cotées à la BRVM analysées, comptes de 5 exercices issus des publications officielles.
