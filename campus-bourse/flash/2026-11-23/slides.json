@@ -1,0 +1,69 @@
+{
+ "territoire": "bourse",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 23 novembre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 23 novembre",
+   "title": "La BRVM a perdu *4,47 %* en une semaine. Sur l'année, elle garde +42 %.",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Séoul : le Kospi chute de *3,2 %* lundi, les doutes sur les dépenses en IA pèsent sur l'Asie",
+   "body": "Source : Al Jazeera"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : le Composite a perdu *4,47 %* en une semaine (13-20 nov), à 492,89 points",
+   "body": "Source : Financial Afrik",
+   "theme": "or"
+  },
+  {
+   "type": "probleme",
+   "tag": "Startup",
+   "title": "Le fonds First Circle Capital boucle *26 M$* pour financer des fintechs africaines",
+   "body": "Source : Socialnetlink"
+  },
+  {
+   "type": "resultat",
+   "tag": "Cybersécurité",
+   "title": "Google repère un outil d'attaque piloté par IA qui écrit et lance *seul* ses exploits",
+   "body": "Source : TechRadar",
+   "theme": "corail"
+  },
+  {
+   "type": "solution",
+   "tag": "IT",
+   "title": "Amazon serait proche de racheter la start-up d'IA *Decart* pour 7,5 Md$, selon le FT",
+   "body": "Source : Financial Times (via FourWeekMBA)",
+   "theme": "turquoise"
+  },
+  {
+   "type": "promesse",
+   "tag": "Géopolitique",
+   "title": "Libye : un navire russe touché par un *drone présumé* dans le port de Benghazi",
+   "body": "Source : Al Jazeera / Reuters"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Une action peut baisser vite, même après une *très bonne* année.",
+   "body": "Regarde la solidité des comptes et n'investis que l'argent dont tu n'auras pas besoin à court terme."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "S'informer, puis analyser avec *méthode.*",
+   "body": "46 sociétés de la BRVM analysées. Essai gratuit 7 jours.",
+   "big": "campusbourse.com"
+  }
+ ]
+}
