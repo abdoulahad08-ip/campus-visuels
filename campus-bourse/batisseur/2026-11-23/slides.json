@@ -1,0 +1,51 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Leçon de bâtisseur",
+   "title": "Personne n'applaudit l'argent que tu n'as pas *dépensé.*",
+   "body": "Cérémonies, sorties, apparences : le piège qui vide ton salaire sans bruit. Glisse."
+  },
+  {
+   "type": "probleme",
+   "theme": "corail",
+   "tag": "Le piège",
+   "title": "Tu décides le montant sur place, sous le regard des *autres.*",
+   "body": "Baptême, mariage, sortie entre collègues : la somme se décide dans l'émotion, pas dans ton budget."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "La leçon",
+   "title": "Ce qui se montre se dépense. Le patrimoine, lui, se *tait.*",
+   "body": "Épargne, compétences, actions gardées des années : un patrimoine ne se montre pas. Il grandit en silence."
+  },
+  {
+   "type": "solution",
+   "theme": "or",
+   "tag": "Action n°1",
+   "title": "Fixe ton budget « cérémonies » au début du *mois.*",
+   "body": "Un montant écrit dès l'arrivée du salaire, pas décidé le jour J. Épuisé ? C'est fini pour le mois."
+  },
+  {
+   "type": "solution",
+   "tag": "Action n°2",
+   "title": "Annonce ta participation avant d'*arriver.*",
+   "body": "« Je participe avec 5 000 FCFA. » Une phrase décidée à l'avance, sans te justifier sur place."
+  },
+  {
+   "type": "promesse",
+   "tag": "Action n°3",
+   "title": "Chaque dépense évitée part *aussitôt* de côté.",
+   "body": "Tu as renoncé à une dépense pour paraître ? Transfère la somme le jour même sur ton épargne."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Bâtir, puis investir avec *méthode.*",
+   "big": "campusbourse.com",
+   "body": "Analyse les 46 sociétés de la BRVM. Essai gratuit 7 jours."
+  }
+ ]
+}
