@@ -1,0 +1,54 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "corail",
+   "tag": "La solution de la semaine",
+   "title": "Un rendement de *9 %* peut cacher un piège",
+   "body": "Le rendement du dividende seul ne suffit pas. Exemple fictif pour comprendre."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Rendement = dividende ÷ *cours*",
+   "body": "Il compare le dividende au prix payé. Il ne dit pas si la société peut continuer à payer."
+  },
+  {
+   "type": "resultat",
+   "tag": "Exemple fictif · Société A",
+   "title": "Cours 10 000 FCFA, dividende 900 FCFA par *action*",
+   "big": "9 %",
+   "body": "Mais un bénéfice de 750 FCFA par action : elle distribue plus qu'elle ne gagne."
+  },
+  {
+   "type": "resultat",
+   "theme": "turquoise",
+   "tag": "Exemple fictif · Société B",
+   "title": "Cours 10 000 FCFA, dividende 600 FCFA par *action*",
+   "big": "6 %",
+   "body": "Bénéfice de 1 000 FCFA par action : il reste 400 FCFA pour l'entreprise."
+  },
+  {
+   "type": "resultat",
+   "theme": "corail",
+   "tag": "Le ratio clé",
+   "title": "Le taux de *distribution*",
+   "big": "120 % vs 60 %",
+   "body": "Dividende ÷ bénéfice par action. A verse 120 % de son bénéfice, B 60 %."
+  },
+  {
+   "type": "solution",
+   "tag": "La méthode",
+   "title": "Vérifie la *couverture* avant le rendement",
+   "body": "Au-delà de 100 %, le dividende n'est pas couvert par le bénéfice. Regarde aussi 5 ans d'historique."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Teste gratuitement les ratios des *46 sociétés*",
+   "body": "Ratios et dividendes des sociétés de la BRVM. Essai gratuit 7 jours.",
+   "big": "campusbourse.com"
+  }
+ ]
+}

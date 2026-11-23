@@ -1,0 +1,4 @@
+Richbourse — « Le dividende n'est pas le rendement » (6 mai 2026, maj 6 juil 2026) : rendement = dividende ÷ cours ; payout 95 % = risque élevé ; 40-70 % généralement plus sain.
+https://www.richbourse.com/common/apprendre/article/2026-05-06-le-dividende-nest-pas-le-rendement
+Exemple chiffré (sociétés A et B) : fictif, calculé en Python (A : 900/10 000 = 9 %, payout 900/750 = 120 % ; B : 600/10 000 = 6 %, payout 600/1 000 = 60 %, reste 400 FCFA).
+Accroche : « le vrai risque caché ».
