@@ -1,55 +1,42 @@
-# Consignes actives — semaine du 16 au 22 novembre 2026
+# Consignes actives Campus Bourse — semaine du 23 au 29 novembre 2026
 
-Source : rapport du 16 nov 2026 (rapports/2026-11-16.md, couvre 9-15 nov). À lire en priorité par toutes les tâches de contenu. Phase confiance : 100 % valeur, aucune vente.
-Prudence : ces consignes renforcent ce qui marche sans rien supprimer. Horaires, nombre de posts, répartition 40/35/25 et budget inchangés (les propositions sont dans le rapport, l'utilisateur décide).
+Source : rapport du 23 nov 2026 (rapports/2026-11-23.md, couvre 16-22 nov). À lire en priorité par toutes les tâches de contenu Campus Bourse. Elles complètent campus-bourse/programme.md (qui reste la règle) sans rien changer aux heures, réseaux, nombre de posts, rubriques, budget ni règles de conformité.
+Les consignes Campus des Bâtisseurs de la semaine précédente (territoires 40/35/25, cadeaux, story 9h, #CampusDesBatisseurs, « aucune vente ») sont **caduques**.
+Données faibles cette semaine : presque aucun post Campus Bourse n'est parti (limite Metricool, LinkedIn 403). Les consignes s'appuient donc sur ce qui a marché sur le même compte TikTok du 9 au 22 nov.
 
 ## 0. Alertes (pour information)
-- 3e chute de diffusion TikTok : 450 vues/post les 9-10 nov, 148 du 11 au 15. Ne jamais republier en double ; si un post reste sous 50 vues après 24 h, le noter dans le rapport du post.
-- Communauté : 1 seul commentaire mesuré sur 26 posts TikTok. La priorité de la semaine est de **faire parler**, pas de faire plus de vues.
-- Post du soir du 13 nov : produit dans le dépôt mais absent de TikTok. Chaque tâche vérifie que sa programmation Metricool a bien été acceptée pour chaque réseau.
-- Facebook toujours déconnecté de Metricool : produire les fichiers Facebook normalement.
+- **Ce qui ne doit jamais être publié** (vu cette semaine dans 3 posts LinkedIn faits hors système) : « verdict », « notre algorithme dit… », « À ÉVITER », « titre à acheter », « points d'entrée intéressants » sur une société nommée, « Prix Sécurisés », « prix d'entrée », « Master Buy List », « accès immédiat ». Aucune tâche ne reprend ces formules, même pour « répondre » à ces posts.
+- Après chaque create_post Buffer, vérifier `status: scheduled` et `error: null` pour CHAQUE réseau ; si LinkedIn renvoie une erreur 403 / « blocked », l'écrire dans le message à l'utilisateur.
+- Anti-doublon X : vérifier par list_posts qu'aucun post n'existe déjà au créneau (l'annonce de lancement est partie deux fois).
+- Limite Buffer : 10 posts programmés au maximum ; chaque tâche ne programme que le jour même (5 programmés au 23 nov à 08h45).
 
-## 1. Sujets à multiplier (problèmes concrets et personnels)
-- **TRANSFORMATION — anglais du travail** (problème confirmé, top de la semaine : « Tu comprends l'anglais en réunion. Tu te tais quand même. » 630 vues). Au moins 1 carrousel par semaine : phrases prêtes à dire, erreurs fréquentes des francophones, e-mail en anglais. Finir par « Écris la phrase que tu places demain ».
-- **CYBER — le réglage concret à faire ce soir** (« Ton code Mobile Money est ta date de naissance ? » 592 vues, 3e semaine de bonnes vues) : un risque du quotidien (Mobile Money, SIM, WhatsApp, codes reçus par SMS), le calcul ou le scénario, 3 réglages. Prévention uniquement.
-- **PATRIMOINE — fonds d'urgence et « il ne me reste rien »** (sondage « ton salaire s'arrête demain » : 462 vues et seul commentaire de la semaine ; problème confirmé). Exemples chiffrés en FCFA, paliers simples (1 semaine, 1 mois, 3 mois).
-- **PATRIMOINE — BRVM sans se brûler** (problème confirmé : dividende 448, BRVM 620 le 27 oct) : lire un chiffre clé avant d'acheter, toujours avec la mention éducative.
+## 1. Accroches à multiplier (diapo 1 et 1re ligne)
+- **L'erreur précise, citée mot pour mot** (top de la semaine : « Tu dis « I am agree » en réunion ? » 408 vues). Version bourse : « Tu dis « j'ai acheté des actions » en anglais : « I bought actions » ? », « Tu regardes le rendement de 9 % et pas le bénéfice ? ».
+- **Le danger caché du quotidien** (« Téléphone volé : le vrai danger, c'est ce qu'il ouvre » 379). Version bourse/cyber : « Le « conseiller BRVM » sur WhatsApp qui promet 20 % par mois ».
+- **La scène vécue qui coûte cher** (« Dire « yes » sans comprendre coûte cher » 244). Version bourse : « Acheter une action parce qu'elle a baissé de 6 % hier ».
+- Une seule formule par jour et par réseau ; jamais la même deux jours de suite.
 
-## 2. Sujets à garder
-- TRANSFORMATION — négociation / fixer son prix (189 un jour faible) et discipline « une seule habitude » (défi JE TIENS : 453 vues).
-- PATRIMOINE — croyances renversées sur l'argent (« 30 ans sans patrimoine » 407).
+## 2. Par rubrique
+- **Piliers 10h** : toujours un exemple chiffré (fictif et signalé, ou public et sourcé) dès la diapo 2 ; finir par une question à réponse courte (un chiffre, un mot : « Quel ratio regardes-tu en premier ? Un mot. »).
+- **FLASH 12h / 13h (5e semaine la plus faible : 146 vues/post, 0 commentaire)** : la 1re ligne du texte TikTok et la diapo 1 portent l'info BRVM / UEMOA du jour écrite comme une conséquence (ex. « La BRVM a perdu 4,47 % en une semaine : ce que ça change pour ton épargne »), pas seulement le titre fixe. Le titre fixe reste dans le carrousel.
+- **16h-ANGLAIS (mer/sam)** : filon le plus fort du compte (408, 244, 630). Vocabulaire des rapports annuels et de la bourse, toujours à partir d'une erreur de francophone ; finir par « Écris la phrase en commentaire ». Sujets non traités : earnings vs revenue, payout ratio, dividend yield vs dividend, bull/bear market. (Déjà traité : faux amis action/share, bénéfice/profit, obligation/bond, 21 nov, non publié — peut être reprogrammé tel quel.)
+- **16h-CYBER (mar/jeu/dim)** : 2e filon (379, 592). Priorité : faux investissements et fausses plateformes de trading, faux « coachs BRVM » sur WhatsApp/Telegram, vérifier qu'une SGI est agréée, SIM swap et Mobile Money. Réglages exacts, prévention uniquement.
+- **16h-BATISSEUR (lun/ven)** : partir d'une scène concrète d'ici (salaire, dette, épargne) ; le sujet « ton habitude est trop grosse » a le meilleur engagement de la semaine (6,1 %) malgré peu de vues : reprendre la discipline appliquée à l'épargne mensuelle.
+- **18h question / concept / démo** : les seuls commentaires de la semaine viennent des questions à **réponse personnelle courte** (4 sur 5). Format prioritaire : « Combien mets-tu de côté avant ta 1re action ? Un chiffre. » ; « PER ou dividende : tu regardes quoi en premier ? Un mot. »
 
-## 3. Sujets / styles à réduire
-- Les sujets abstraits sans situation vécue (biais cognitif 93, « ton potentiel » 115, « ton augmentation est un test » 71) : si on les traite, partir d'une scène concrète d'ici (un salaire, un projet, une boutique) dès la diapo 1.
-- Flash 12h (4e semaine en bas, mais 276 et 333 vues les 9-10 nov) : garder UNE info qui touche le portefeuille au Sénégal en diapo 1, écrite comme une conséquence.
+## 3. Sociétés et duels à traiter (chiffres publics sourcés, aucun gagnant)
+- Aucune société n'a encore été traitée dans un pilier publié (journal.csv).
+- **Mardi 24 nov (DUEL)** : SGBCI vs SIB (banques, Côte d'Ivoire) — ROE, dividende, PER du dernier exercice publié. Suivants : PALM CI vs SOGB (agro-industrie), Sonatel vs Orange CI (télécoms).
+- **Jeudi 26 nov (AUDIT)** : Orange CI ou Sonatel (ratios publics uniquement). **Éviter Coris Bank CI** cette semaine : OPV du 30 nov au 4 déc, tout contenu pourrait être lu comme une incitation à souscrire.
+- Mercredi et vendredi : chiffres de séance datés et sourcés (BRVM, Bulletin officiel de la cote, sikafinance) ; jamais d'interprétation « point d'entrée ».
 
-## 4. Faire commenter (priorité de la semaine)
-- Question du soir : **réponse personnelle courte** (un chiffre, un mot, une phrase), liée à la vie de la personne, pas un QCM abstrait. Ex. : « En combien de jours ton épargne serait vide ? Réponds par un chiffre. »
-- **Premier commentaire = notre propre exemple de réponse** (ex. « Moi : 2. Et toi ? ») sur TikTok, Facebook et LinkedIn, pour montrer qu'on répond.
-- Légende du soir : « On répond à chaque commentaire. »
-- Cadeaux : ne pas créer de nouveau cadeau ; reprendre BOUCLIER ou INVESTIR avec une promesse concrète en 1re ligne et « écris « MOT » » en majuscules à la fin (1 fois cette semaine maximum).
+## 4. Questions de la communauté à transformer en posts
+Le texte des commentaires n'est pas accessible : aucune question réelle à citer. En attendant, partir des besoins de rapports/besoins-campus-bourse.md (vocabulaire bourse/anglais, arnaques, épargne avant d'investir, quoi regarder avant d'acheter). Si l'utilisateur transmet des commentaires, les traiter en priorité.
 
-## 5. Répartition des territoires (rappel, pas de changement)
-- 40/35/25 respecté pour la 1re fois la semaine dernière (42/32/26) : continuer, posts du soir compris (2 PATRIMOINE, 2 CYBER, 3 TRANSFORMATION sur la semaine).
+## 5. Faire commenter
+- Chaque post TikTok finit par une question à réponse courte (un chiffre, un mot, OUI/NON).
+- Le premier commentaire LinkedIn (posté à la main par l'utilisateur) contient le lien et notre propre réponse courte à la question.
 
-## 6. Accroches qui marchent (diapo 1)
-- « Le vrai risque caché » : « Ton code Mobile Money est ta date de naissance ? Il n'est plus secret. » (592)
-- « La distinction qui éclaire » : « Tu comprends l'anglais en réunion. Tu te tais quand même. » (630) ; « Le dividende te fait plaisir, la solidité de l'entreprise décide du reste. » (448)
-- « La croyance renversée » : à garder, mais avec une situation concrète (« Tu peux travailler 30 ans sans bâtir de patrimoine. » 407).
-Varier : jamais la même formule deux jours de suite sur le même réseau (charte/accroches.md). Noter la formule dans sources.txt.
-
-## 7. Méthode algorithme
-- 7 hashtags exactement (2 larges + 3 moyens + 2 ciblés dont #CampusDesBatisseurs) + #fyp #tiktokAfrique sur TikTok : appliqué 26/26, continuer.
-- Mots-clés du sujet en 1re ligne ; 1er commentaire Facebook et LinkedIn avec les mêmes mots-clés + notre exemple de réponse.
-- **Appel au partage** : le carrousel 16h du lundi, mercredi et vendredi finit par « Si ce post t'a appris quelque chose, partage-le à quelqu'un qui en a besoin. » **sur TikTok aussi** (appliqué 1 fois sur 3 la semaine dernière). Les autres gardent la question.
-- Toujours la clé "territoire" dans slides.json.
-
-## 8. Couleurs de diapo 1 (test, 2e semaine)
-- Le carrousel 10h du mardi et du jeudi met la diapo 1 au code couleur du territoire via la clé "theme" (corail TRANSFORMATION, or PATRIMOINE, **turquoise CYBER**) ; les autres restent en vert forêt. Résultat de la 1re semaine non concluant (confondu avec la chute de diffusion).
-
-## 9. Story
-- Story 09h : question A/B qui annonce le carrousel de 10h.
-
-## 10. Rappels
-- Chaque chiffre est vérifié et sourcé ; sinon on le retire.
-- Aucune mention de produit, de prix ou de lien de vente dans les posts (seules les signatures Facebook, YouTube et LinkedIn gardent la vitrine passive ; aucune signature sur TikTok).
+## 6. Rappels
+- Disclaimer sur tout post finance ; ligne de promotion variée et reliée au sujet ; signature exacte selon le réseau (programme.md, décisions du 22 nov).
+- Fonctionnalités réelles uniquement ; jamais de verdict, score ou prix maximum pour une société nommée.
