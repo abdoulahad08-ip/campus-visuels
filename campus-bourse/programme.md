@@ -72,6 +72,11 @@ Noms à ne PAS utiliser (n'existent pas dans le produit) : « Score de Convictio
 - Projections à long terme (5 et 10 ans).
 - Dividendes ; analyse technique (indicateurs expliqués) ; actualités ; assistant IA.
 - Mon portefeuille, avec alerte personnelle sur la concentration sectorielle (plafond prudentiel de 35 %) ; liste de suivi ; simulation « et si le cours était… ».
+- Prix sécurisé et marge de sécurité (cours d'achat avec marge, calculé par société ; jamais publié pour une société nommée).
+- Master Liste et Top BRVM avec badges de décision (jamais publiés pour une société nommée).
+- Liste de suivi des points d'entrée (préparer ses ordres à cours limité).
+- Calendrier des dividendes ; ratios PER, ROE, PEG ; Académie BRVM (BRVM Composite, BRVM 30, carnet d'ordres, ratios).
+- Couverture par secteur : Banque 17, Industrie 7, Distribution 6, Consommation 5, Agro-industrie 4, Télécoms 3, Transport 2, Services publics 2 (= 46).
 - Contenus pédagogiques : Comprendre la bourse, Fondamentaux (action, obligations, FCP, cours, dividende).
 - Offres : Découverte gratuite ; essai Premium 7 jours sans carte bancaire (activation après confirmation de l'e-mail, un essai par personne) ; Premium 5 000 FCFA / mois ou 50 000 FCFA / an (paiement unique, sans renouvellement automatique).
 
