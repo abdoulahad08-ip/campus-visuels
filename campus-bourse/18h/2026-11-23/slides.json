@@ -1,0 +1,26 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "marque",
+   "theme": "turquoise",
+   "tag": "Quiz BRVM",
+   "title": "Que mesure le *ROE* ?",
+   "body": "A. Le bénéfice rapporté aux capitaux propres\nB. La part du bénéfice versée en dividende\nC. La hausse du cours sur un an\nRéponds en commentaire."
+  },
+  {
+   "type": "resultat",
+   "tag": "La réponse : A",
+   "title": "ROE = bénéfice net ÷ *capitaux propres*",
+   "big": "20 %",
+   "body": "Exemple fictif : 3 milliards FCFA de bénéfice pour 15 milliards de capitaux propres. B, c'est le taux de distribution ; C, la performance du cours."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Le ROE sur 5 exercices, *déjà calculé*",
+   "body": "ROE, PER et PEG des sociétés cotées à la BRVM, expliqués en 3 niveaux. Essai gratuit 7 jours.",
+   "big": "campusbourse.com"
+  }
+ ]
+}
