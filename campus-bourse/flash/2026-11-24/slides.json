@@ -1,0 +1,75 @@
+{
+ "territoire": "bourse",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 24 novembre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 24 novembre",
+   "title": "La BRVM a perdu *3,32 %* lundi : 7 séances de baisse d'affilée.",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Wall Street : le S&P 500 bondit de *4,7 %* lundi, le Nasdaq de 6,5 %",
+   "body": "Source : ABC News / Reuters"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : le Composite chute de *3,32 %* lundi à 476,54 points, 7e séance de baisse",
+   "body": "Source : Le Jecos",
+   "theme": "or"
+  },
+  {
+   "type": "probleme",
+   "tag": "Afrique de l'Ouest",
+   "title": "Sénégal : *31,25 M$* d'intérêts payés à l'échéance sur les obligations 2033",
+   "body": "Source : Bénin Web TV / Bloomberg"
+  },
+  {
+   "type": "resultat",
+   "tag": "Startup",
+   "title": "Launch Africa mène un tour de *500 000 $* dans Khaime, start-up de commerce par IA",
+   "body": "Source : TechMoran"
+  },
+  {
+   "type": "solution",
+   "tag": "Cybersécurité",
+   "title": "Rançongiciels : record de *2 830 victimes* publiées au 3e trimestre 2026 (Check Point)",
+   "body": "Source : Help Net Security",
+   "theme": "corail"
+  },
+  {
+   "type": "promesse",
+   "tag": "IT",
+   "title": "Nvidia réintègre Jensen Huang comme PDG ; l'action bondit de *31 %* lundi",
+   "body": "Source : The Neuron / ABC News",
+   "theme": "turquoise"
+  },
+  {
+   "type": "probleme",
+   "tag": "Géopolitique",
+   "title": "Ukraine : Zelensky appelle à des *pourparlers à quatre* avec la Russie, l'Europe et les États-Unis",
+   "body": "Source : France 24"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Un cours qui baisse ne dit pas, à lui seul, si une *entreprise* va mal.",
+   "body": "Ce sont ses résultats publiés qui le disent. Relis les comptes avant de réagir sous l'émotion."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "S'informer, puis analyser avec *méthode.*",
+   "body": "Les sociétés cotées à la BRVM, analysées. Essai gratuit 7 jours.",
+   "big": "campusbourse.com"
+  }
+ ]
+}
