@@ -1,0 +1,50 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "corail",
+   "tag": "Le duel de valeur",
+   "title": "SGBCI vs SIB : deux banques, *trois ratios*",
+   "body": "Exercice 2025, chiffres publics. Pas de gagnant : on apprend à lire chaque ratio."
+  },
+  {
+   "type": "resultat",
+   "theme": "foret",
+   "tag": "Ratio 1 · ROE 2025",
+   "title": "Bénéfice ÷ capitaux *propres*",
+   "big": "21,4 % vs 27,2 %",
+   "body": "SGBCI vs SIB. Ce que la banque gagne avec l'argent de ses actionnaires."
+  },
+  {
+   "type": "resultat",
+   "theme": "turquoise",
+   "tag": "Ratio 2 · Rendement brut",
+   "title": "Dividende 2025 ÷ cours du *23 nov*",
+   "big": "6,9 % vs 5,1 %",
+   "body": "SGBCI 2 606 FCFA, SIB 425 FCFA bruts par action. Avant IRVM."
+  },
+  {
+   "type": "resultat",
+   "theme": "or",
+   "tag": "Ratio 3 · PER",
+   "title": "Cours ÷ bénéfice par *action* 2025",
+   "big": "11,5 vs 14,9",
+   "body": "SGBCI vs SIB. Combien d'années de bénéfice 2025 le cours représente."
+  },
+  {
+   "type": "solution",
+   "theme": "corail",
+   "tag": "La méthode",
+   "title": "Un ratio seul ne *décide* rien",
+   "body": "ROE avec le risque de crédit, rendement avec le taux de distribution, PER avec la croissance."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Compare-les toi-même sur *Campus Bourse*",
+   "body": "Fiches complètes des sociétés cotées à la BRVM. Essai gratuit 7 jours.",
+   "big": "campusbourse.com"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+Duel de valeur 24 nov 2026 — SGBCI vs SIB (exercice 2025)
+
+SIB : rapport d'activité 2025 (résultat net 55,623 Mds FCFA, ROE 27,16 %, dividende brut 425 FCFA)
+https://sib.ci/wp-content/uploads/2026/04/SIB-Rapport-dactivite-2025.pdf
+Sikafinance, « Entre croissance, discipline et rendement, la SIB poursuit son ascension… » (capitaux propres 204,8 Mds, 2 048 FCFA par action)
+https://www.sikafinance.com/marches/entre-croissance-discipline-et-rendement-la-sib-poursuit-son-ascension-avec-un-benefice-de-57-milliards-fcfa_61241
+Financial Afrik, dividende SIB 2025 (425 FCFA vs 375 FCFA)
+https://www.financialafrik.com/2026/04/23/banques-la-societe-ivoirienne-de-banque-versera-21250-milliards-de-fcfa-de-dividende-brut-a-ses-actionnaires-pour-lexercice-2025/
+BRVM, fiche SIBC (nombre de titres : 100 000 000)
+https://www.brvm.org/fr/sibc
+
+SGBCI : Lejecos via AllAfrica (résultat net 2025 : 101,352 Mds FCFA)
+https://fr.allafrica.com/stories/202604210366.html
+Daba Finance via AllAfrica (dividende proposé 2 606 FCFA par action, distribution 80 %)
+https://fr.allafrica.com/stories/202604200603.html
+Financial Afrik (81,081 Mds FCFA de dividendes au titre de 2025)
+https://www.financialafrik.com/2026/04/17/societe-generale-cote-divoire-augmente-son-dividende-au-titre-de-lexercice-2025/
+Stockanalysis, ratios SGBC (ROE FY2025 : 21,41 %)
+https://stockanalysis.com/quote/brvm/SGBC/financials/ratios
+Richbourse, SGBC (clôture 23/11/2026 : 37 610 FCFA ; dividende net 2025 : 2 293 FCFA = 2 606 brut − 12 % IRVM ; 31 111 110 titres)
+https://www.richbourse.com/common/mouvements/index/SGBC
+BRVM, fiche SGBC (clôture 23/11/2026 : 37 610 FCFA ; 31 111 110 titres)
+https://www.brvm.org/fr/sgbc
+brvmdata, séance du 23 nov 2026 (SIBC 8 295 FCFA, provisoire ; confirmé par le bandeau brvm.org)
+https://brvmdata.com/
+
+Calculs (Python) : BPA = résultat net ÷ nombre de titres ; PER = cours 23/11 ÷ BPA ; rendement brut = dividende brut ÷ cours 23/11.
+SGBCI : BPA 3 258 ; PER 11,5 ; rendement brut 6,9 %. SIB : BPA 556 ; PER 14,9 ; rendement brut 5,1 %.
+Note : ROE SIB publié par la banque ; ROE SGBCI calculé par Stockanalysis (capitaux propres fin 2025 non publiés dans les pages ouvertes).
