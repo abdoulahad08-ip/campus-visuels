@@ -1,0 +1,26 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "marque",
+   "theme": "corail",
+   "tag": "Le concept du jour",
+   "title": "La *marge de sécurité*, c'est quoi ?",
+   "body": "C'est l'écart entre la valeur estimée d'une action et son cours.\nPlus l'écart est grand, plus tu as de coussin si ton estimation se trompe.\nSans marge, tu paies le prix plein, ou plus."
+  },
+  {
+   "type": "resultat",
+   "tag": "Exemple fictif",
+   "title": "Valeur estimée 10 000, cours *8 000* FCFA",
+   "big": "20 %",
+   "body": "Marge = (10 000 − 8 000) ÷ 10 000.\nÀ 11 500 FCFA, elle tomberait à −15 % : tu paierais plus que la valeur estimée.\nEt toi, quelle marge exiges-tu ? Réponds en commentaire."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "La marge de sécurité, *déjà calculée*",
+   "body": "Pour chaque société cotée à la BRVM, un cours d'achat avec marge de sécurité, calculé sur 5 exercices de comptes officiels.",
+   "big": "campusbourse.com"
+  }
+ ]
+}
