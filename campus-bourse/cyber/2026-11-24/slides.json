@@ -1,0 +1,53 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Solution cyber",
+   "title": "Il promet 20 % par mois sur WhatsApp ? C'est une *arnaque.*",
+   "body": "Fausses plateformes d'investissement : comment les repérer et s'en protéger. Glisse."
+  },
+  {
+   "type": "probleme",
+   "theme": "corail",
+   "tag": "Ça existe ici",
+   "title": "Sénégal : plus de *10 milliards* FCFA de préjudice estimé",
+   "body": "Juin 2025 : la police (DSC) démantèle une fausse plateforme d'investissement. Gains fictifs, retraits bloqués."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "Comment ça se présente",
+   "title": "Des gains affichés, puis des *retraits bloqués*",
+   "body": "Tu paies pour monter de niveau, de faux témoignages circulent sur WhatsApp, et ton argent ne ressort jamais."
+  },
+  {
+   "type": "probleme",
+   "theme": "corail",
+   "tag": "Signaux d'alerte",
+   "title": "4 signaux qui doivent tout *arrêter*",
+   "body": "Rendement garanti. Gains de parrainage. Tout se passe sur WhatsApp ou Telegram. Aucun agrément vérifiable."
+  },
+  {
+   "type": "solution",
+   "theme": "or",
+   "tag": "La solution pas à pas",
+   "title": "Avant d'envoyer un franc, *vérifie l'agrément*",
+   "body": "Cherche le nom sur la liste des acteurs agréés d'amf-umoa.org. Une action BRVM s'achète via une SGI agréée."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "Déjà arrivé ?",
+   "title": "N'envoie *plus rien*, même pour « débloquer »",
+   "body": "Garde captures et reçus. Signale la transaction à ton service Mobile Money. Porte plainte (DSC au Sénégal)."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Protège ton argent, puis fais-le *travailler.*",
+   "body": "Analyse les sociétés cotées à la BRVM. Essai gratuit 7 jours.",
+   "big": "campusbourse.com"
+  }
+ ]
+}
