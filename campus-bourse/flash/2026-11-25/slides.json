@@ -1,0 +1,69 @@
+{
+ "territoire": "bourse",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 25 novembre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 25 novembre",
+   "title": "Le Dow Jones passe *50 000 points*… et le Nasdaq recule le même jour.",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Wall Street : le Dow Jones clôture au-dessus de *50 000 points*, le Nasdaq recule de 1,48 %",
+   "body": "Source : Vista Partners"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "Johannesburg : Coca-Cola HBC fait son entrée à la *Bourse* (JSE), valorisé environ 341 Mds de rands",
+   "body": "Source : Business Tech Africa / Nairametrics",
+   "theme": "or"
+  },
+  {
+   "type": "resultat",
+   "tag": "Startup",
+   "title": "Mediterrania Capital et Outlierz lancent un fonds de *50 M€* pour les start-up africaines de l'IA",
+   "body": "Source : iAfrica"
+  },
+  {
+   "type": "solution",
+   "tag": "Cybersécurité",
+   "title": "États-Unis : des données non classifiées de la *CIA* et de l'ODNI touchées par une cyberattaque",
+   "body": "Source : Reuters / AP",
+   "theme": "corail"
+  },
+  {
+   "type": "promesse",
+   "tag": "IT",
+   "title": "Amazon rachète la technologie et l'équipe IA de Decart, un accord estimé à *7,5 Md$* selon la presse",
+   "body": "Source : The Neuron",
+   "theme": "turquoise"
+  },
+  {
+   "type": "probleme",
+   "tag": "Géopolitique",
+   "title": "Ukraine : une frappe russe sur Zaporijjia fait *2 morts* et 40 blessés, dont 4 enfants",
+   "body": "Source : Reuters (via Just Security)"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Un indice global cache des *écarts* entre sociétés.",
+   "body": "Mardi, Dow Jones au-dessus de 50 000 points, Nasdaq à -1,48 %. À la BRVM aussi : on juge société par société, sur ses comptes."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "S'informer, puis analyser avec *méthode.*",
+   "body": "Les sociétés cotées à la BRVM, analysées. Essai gratuit 7 jours.",
+   "big": "campusbourse.com"
+  }
+ ]
+}
