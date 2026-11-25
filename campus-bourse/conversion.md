@@ -78,3 +78,52 @@ Dire « les sociétés cotées à la BRVM » ; le chiffre 46 seulement quand il 
 
 ## Formulations interdites (même si elles viennent d'un document interne)
 « sait au franc près », « élimine la peur », « fin des achats impulsifs » présenté comme garanti, « méthode institutionnelle » / « analyste institutionnel », tout chiffre de marché non sourcé et daté (ex. une hausse de la BRVM sur une période), « temps réel ». Utiliser : « aide à éviter », « vous protège contre », « méthode d'analyste, reproductible ».
+
+## PRIORITÉ ABSOLUE : LA VALEUR D'ABORD (décision du 25 nov 2026)
+On éduque, on apporte beaucoup de valeur, de bonnes informations, des réponses, des solutions et de la facilité AVANT de vendre.
+- Règle 80/20 : au moins 80 % de chaque post est du contenu utile qui se suffit à lui-même (le lecteur apprend ou comprend quelque chose même s'il ne s'inscrit jamais). La promotion tient en UNE ligne dans le texte + la dernière diapo. Seul le jeudi (Audit fondamental) peut être davantage centré sur le produit.
+- Chaque post éducatif contient au moins un des éléments suivants : un exemple chiffré (fictif et signalé, ou réel et sourcé), la réponse claire à une vraie question d'investisseur, une solution pas à pas, une erreur à éviter et comment l'éviter.
+- Toujours donner le contexte pour interpréter un chiffre : distinguer les données observées (comptes publiés, cours) des estimations (valorisation, projections), et dire les limites d'un indicateur ou d'une valorisation (ex. « un PER bas peut aussi signaler un problème »).
+- Facilité : phrases courtes, un concept à la fois, le ratio expliqué en une phrase simple + un exemple ; jargon toujours traduit.
+- Exemple type : « Un débutant ne comprend pas le PER → explication simple + exemple chiffré → il comprend. » C'est exactement ce que doit produire un post.
+
+## Plateforme de marque (validée par l'utilisateur le 25 nov 2026)
+| Élément | Contenu |
+|---|---|
+| Nom | Campus Bourse (campusbourse.com) |
+| Catégorie | Plateforme d'analyse boursière (SaaS d'analyse financière et d'aide à la décision) |
+| Marché | La BRVM |
+| Phrase de présentation | « Campus Bourse est une plateforme d'analyse des sociétés cotées à la BRVM et d'aide à la décision pour les investisseurs. » |
+| Positionnement | « Campus Bourse accompagne les investisseurs de la BRVM dans l'analyse, la comparaison et le suivi des sociétés cotées grâce à des outils structurés et pédagogiques. » |
+| Promesse | Comprendre la bourse. Analyser les entreprises. Investir avec méthode. |
+| Signatures de marque | « Comprendre. Analyser. Décider. » · « Comprends la bourse. Maîtrise tes décisions. Construis ton patrimoine. » · « Apprends. Analyse. Investis. Progresse. » |
+| Accroche de fond | « La bourse n'est pas réservée aux experts. Mais investir sans méthode peut coûter cher. » |
+| Problème | Informations dispersées, analyse parfois difficile |
+| Transformation | Passer de l'intuition à une démarche structurée ; réfléchir avant d'agir |
+| Valeurs / personnalité | Rigueur, pédagogie, transparence · sérieuse, accessible, méthodique · identité : rigueur, autonomie, discipline |
+| Différenciation (5 axes) | Spécialisation BRVM · Pédagogie · Structuration (méthode cohérente) · Comparaison (critères identifiables) · Continuité (suivi régulier) |
+| Associations à installer | Campus Bourse = BRVM · analyse financière · compréhension des entreprises · comparaison des actions · décision structurée |
+| Offres (noms officiels) | Campus Bourse Découverte (gratuit) · Campus Bourse Premium Mensuel (5 000 FCFA) · Campus Bourse Premium Annuel (50 000 FCFA, paiement unique, sans renouvellement automatique) · essai Premium 7 jours sans carte bancaire |
+| Accroche d'offre | « Commence gratuitement. Passe au Premium quand tu es prêt. » |
+
+## Cibles (mise à jour du 25 nov 2026 : remplace l'ordre de priorité ci-dessus)
+- **Prioritaire – Profil B, l'investisseur régulier** (connaît les bases, manque de méthode) : Campus Bourse = analyser avec méthode. « Passez de la simple observation des cours à l'analyse structurée des entreprises. »
+- **Acquisition et éducation – Profil A, le débutant** : Campus Bourse = comprendre la bourse. « La Bourse devient plus accessible lorsque l'on comprend les entreprises dans lesquelles on investit. »
+- **Premium avancé – Profil C, l'expérimenté** : Campus Bourse = structurer et comparer. « Organisez vos critères d'analyse et comparez les sociétés cotées dans un environnement spécialisé. »
+Le « salarié qui construit son patrimoine » est un profil B ou A selon son niveau.
+
+## Lever les freins à l'abonnement (un frein traité par semaine, de préférence le jeudi ou le mercredi 18h)
+| Frein | Réponse en contenu |
+|---|---|
+| Prix | Démontrer la valeur : temps gagné, analyses faites en minutes, comparaison avec l'alternative (rapports annuels + Excel) |
+| Manque de confiance | Transparence : comment un indicateur est calculé, d'où viennent les données (publications officielles, à jour) |
+| Trop complexe | Simplicité : montrer une analyse en 3 étapes ; lecture en 3 niveaux (débutant, intermédiaire, avancé) |
+| Pas de besoin immédiat | Cas d'usage concrets : « avant d'acheter », « pendant la saison des dividendes », « quand le marché baisse » |
+| Peur de se tromper | Expliquer ce que fait chaque fonctionnalité et ce qu'elle ne fait pas |
+| Offre peu claire | Gratuit vs Premium, prix, durée, conditions (Premium Annuel : paiement unique, sans renouvellement automatique) |
+| Peut faire autrement | Différenciation : spécialisation BRVM, centralisation, méthode cohérente |
+Les 8 leviers de valeur perçue sans baisser le prix : démonstration, transparence (calculs expliqués), simplicité, comparaison, pédagogie (ratios expliqués), personnalisation (lecture par niveau), continuité (suivi des sociétés), fiabilité (données à jour et contrôlées).
+Règle : mieux vaut 10 fonctionnalités parfaitement expliquées que 50 mal comprises. L'utilisateur ne paie pas pour un PER, il paie pour un processus d'analyse reproductible.
+
+## INTERDIT (performance)
+Ne JAMAIS publier une performance passée de la méthode ou de la plateforme (ex. « une méthode qui a fait près de 60 % en 2026 ») ni aucun rendement obtenu ou promis. Raison : c'est une promesse de résultat implicite, non auditée, interdite par nos règles de conformité (pas de conseil, pas de rendement) et risquée vis-à-vis du régulateur du marché financier de l'UMOA.
