@@ -58,16 +58,18 @@ def texte(im, x, y, s, logo_h, maxw, sous=True, site=True):
     y += int(s * .2)
     if sous:
         fs = fnt(M, int(s * .44)); cur = ""
-        for w in "Les sociétés cotées à la BRVM, analysées sur 5 exercices.".split(" "):
+        for w in "Les sociétés cotées à la BRVM, expliquées simplement pour mieux décider.".split(" "):
             if cur and d.textlength(cur + " " + w, font=fs) > maxw:
                 d.text((x, y), cur, font=fs, fill=IVOIRE + (215,)); y += int(s * .62); cur = w
             else: cur = (cur + " " + w).strip()
         d.text((x, y), cur, font=fs, fill=IVOIRE + (215,)); y += int(s * .75)
     if site:
-        fc = fnt(B, int(s * .4)); t = "Essai gratuit 7 jours  ·  campusbourse.com"; tw = d.textlength(t, font=fc)
-        ph = int(s * .82); y += int(s * .2)
+        fc = fnt(B, int(s * .38)); t = "Ratios  ·  Dividendes  ·  Comparaisons  ·  Alertes"; tw = d.textlength(t, font=fc)
+        ph = int(s * .8); y += int(s * .2)
         d.rounded_rectangle((x, y, x + tw + ph, y + ph), ph // 2, fill=OR)
-        d.text((x + ph / 2, y + ph / 2), t, font=fc, fill=FORET, anchor="lm"); y += ph
+        d.text((x + ph / 2, y + ph / 2), t, font=fc, fill=FORET, anchor="lm")
+        y += ph + int(s * .22)
+        d.text((x + 4, y), "campusbourse.com", font=fnt(B, int(s * .4)), fill=IVOIRE); y += int(s * .5)
     return y
 
 def legal(im, W, H, s, x=None, anchor="rs"):
@@ -79,23 +81,23 @@ def main(out):
     # Facebook 1640x624 — zone sûre mobile ≈ centre 1110 px ; photo de profil en bas à gauche
     W, H = 1640, 624; im = bg(W, H)
     frame(im, shot, 1010, 118, 760)
-    texte(im, 290, 84, 58, 84, maxw=680)
+    texte(im, 290, 56, 58, 84, maxw=680)
     legal(im, W, H, 17, x=1375)
     im.save(os.path.join(out, "couverture_facebook_1640x624.png"), optimize=True)
     # X 1500x500 — photo de profil en bas à gauche, bords haut/bas parfois rognés
     W, H = 1500, 500; im = bg(W, H)
     frame(im, shot, 930, 72, 650)
-    texte(im, 300, 58, 48, 70, maxw=590)
+    texte(im, 300, 40, 46, 66, maxw=590)
     legal(im, W, H, 16, x=1440)
     im.save(os.path.join(out, "couverture_x_1500x500.png"), optimize=True)
     # LinkedIn page 1128x191 (rendu en 2x : 2256x382) — logo de page en bas à gauche
     W, H = 2256, 382; im = bg(W, H, .8, .2)
-    frame(im, shot, 1560, 44, 600, rad=12)
+    frame(im, shot, 1640, 44, 560, rad=12)
     lg = badge(110); im.paste(lg, (430, 56), lg); d = ImageDraw.Draw(im, "RGBA")
     f = fnt(B, 62); xx = 430
     for w, col in (("Comprendre.", IVOIRE), ("Analyser.", IVOIRE), ("Décider.", OR)):
         d.text((xx, 190), w, font=f, fill=col); xx += d.textlength(w + " ", font=f)
-    d.text((430, 290), "Les sociétés cotées à la BRVM, analysées  ·  campusbourse.com", font=fnt(M, 34), fill=IVOIRE + (215,))
+    d.text((430, 290), "Ratios, dividendes, alertes : la BRVM en clair  ·  campusbourse.com", font=fnt(M, 34), fill=IVOIRE + (215,))
     im.save(os.path.join(out, "couverture_linkedin_2256x382.png"), optimize=True)
     im.resize((1128, 191), Image.LANCZOS).save(os.path.join(out, "couverture_linkedin_1128x191.png"), optimize=True)
     print("ok")
