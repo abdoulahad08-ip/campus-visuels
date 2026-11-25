@@ -1,18 +1,15 @@
-"""Version claire du logo (ivoire + or, fond transparent) pour fonds verts. -> marque/logo_clair.png"""
+"""Logo transparent (ivoire + or) pour fonds verts, tiré de la version sombre fournie le 25 nov.
+-> marque/logo_clair.png (transparent) ; marque/avatar_sombre_1080.png"""
 import os, numpy as np
 from PIL import Image
 R = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
-im = Image.open(os.path.join(R, "marque/logo_campus_bourse.png")).convert("RGB").crop((300, 300, 1750, 1720))
+im = Image.open(os.path.join(R, "marque/logo_campus_bourse_sombre.png")).convert("RGB")
 a = np.array(im).astype(float)
-dist = (255 - a.min(axis=2))                       # écart au fond clair
-alpha = np.clip((dist - 12) / 70, 0, 1)
-r, g, b = a[..., 0], a[..., 1], a[..., 2]
-vert = (r < 120) & (g > r)                          # parties vert foncé -> ivoire
-out = a.copy(); out[vert] = (246, 241, 228)
-lum = a.mean(axis=2)
-alpha = np.where(vert, np.clip((150 - lum) / 90, 0, 1), alpha)
-gris = (~vert) & (np.abs(r - b) < 18) & (lum > 150)   # ombres grises -> retirées
-alpha = np.where(gris, 0, alpha)
-# reconstituer la couleur pure des pixels d'anti-crénelage dorés
-rgba = np.dstack([out, alpha * 255]).astype("uint8")
-Image.fromarray(rgba, "RGBA").save(os.path.join(R, "marque/logo_clair.png")); print("ok")
+bg = np.array([10, 66, 48.0])
+al = np.clip((a[..., 0] - 30) / 130, 0, 1)[..., None]
+fg = np.clip((a - (1 - al) * bg) / np.maximum(al, 1e-3), 0, 255)
+rgba = np.dstack([fg, al[..., 0] * 255]).astype("uint8")
+lg = Image.fromarray(rgba, "RGBA").crop((300, 300, 1750, 1720))
+lg.save(os.path.join(R, "marque/logo_clair.png"))
+av = im.crop((180, 180, 1868, 1868)).resize((1080, 1080), Image.LANCZOS)
+av.save(os.path.join(R, "marque/avatar_sombre_1080.png")); print("ok")
