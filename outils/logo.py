@@ -4,7 +4,7 @@ mode "h" = horizontal (icône + CAMPUS BOURSE), "v" = logo complet avec la devis
 import os
 from PIL import Image, ImageDraw
 HERE = os.path.dirname(os.path.abspath(__file__))
-SRC = os.path.join(HERE, "..", "marque", "logo_campus_bourse_source.jpg")
+SRC = os.path.join(HERE, "..", "marque", "logo_campus_bourse.png")
 CREME = (250, 248, 243)
 _cache = {}
 
