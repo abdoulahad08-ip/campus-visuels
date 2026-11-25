@@ -1,1 +1,4 @@
-Dépose ici des captures d'écran réelles de Campus Bourse (PNG/JPG). Les posts DÉMO les utiliseront en priorité.
+Déposez ici des captures d'écran RÉELLES de campusbourse.com (PNG ou JPG, en haute netteté, ordinateur ou téléphone).
+Nommez-les clairement : fiche-sonatel.png, comparateur-banques.png, tableau-de-bord.png, mon-portefeuille.png, master-liste.png, prix-securise-fiche.png...
+Les tâches les mettent en forme avec outils/capture_cadre.py et MASQUENT TOUJOURS pour une société nommée : statut, note, badges, prix sécurisé, projections.
+Idéal : 1 capture par fonctionnalité (fiche société par section, comparateur, Master Liste / Top BRVM, liste de suivi, Mon portefeuille avec alerte 35 %, analyse technique, calendrier des dividendes, assistant IA, Académie).

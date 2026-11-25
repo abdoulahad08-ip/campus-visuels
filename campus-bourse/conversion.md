@@ -137,3 +137,15 @@ Conséquences pour les posts :
 4. Les comparaisons de sociétés nommées (ex. Sonatel vs Orange CI) restent factuelles : ratios publics sourcés, aucun gagnant, aucun statut (Acheter / Surveiller / Attendre), score ou prix sécurisé de la plateforme.
 5. Les noms d'offres restent : Découverte, Premium Mensuel (5 000 FCFA), Premium Annuel (50 000 FCFA). Ne pas utiliser « PRO » ni d'autres prix.
 6. Le numéro WhatsApp ne figure pas dans les posts automatiques (décision du 22 nov). La conclusion des ventes sur WhatsApp est faite par l'utilisateur (voir campus-bourse/vente-whatsapp.md).
+
+## VISUELS « PREUVE PRODUIT » avec de VRAIES captures (décision du 25 nov 2026)
+Les investisseurs sont saturés de visuels génériques : une capture réelle de l'interface prouve que l'outil existe, qu'il est propre et qu'il répond vite.
+Source : UNIQUEMENT des captures réelles fournies par l'utilisateur dans campus-bourse/captures/ (jamais d'interface dessinée, générée ou imitée). Mise en forme : outils/capture_cadre.py (fond vert, cadre navigateur avec ombre, titre court en ivoire/or, zones floutées « Réservé Premium », CAMPUS BOURSE + campusbourse.com, mention légale) → _fb.png (1080x1350), _carre.png (1080x1080), _tt.jpg (1080x1920). Inspecte la capture avec Read pour choisir le recadrage et les zones à masquer.
+Les 4 formats :
+1. **Preuve produit** (LinkedIn, Facebook) : une section de fiche société zoomée (2 ou 3 indicateurs maximum, lisibles sur mobile), titre éducatif au-dessus (« 3 chiffres à lire avant de décider »).
+2. **Duel / comparateur** : le module Comparer avec deux sociétés d'un même secteur sur des critères factuels (ROE 5 ans, taux de distribution, régularité du dividende, endettement). Ça fait débattre : finir par « Et toi, tu regardes quel critère en premier ? ».
+3. **Carrousel éducatif 4-5 diapos** : diapo 1 promesse éducative (« 3 chiffres à vérifier avant d'acheter une action en baisse ») ; diapos 2-4 une règle + une mini-capture zoomée de la zone correspondante (payout, trajectoire du BNPA sur 5 ans, marge de sécurité expliquée) ; diapo 5 CTA « Compare les sociétés cotées à la BRVM sur campusbourse.com ».
+4. **Vidéo écran + voix** (TikTok, Reels, 35 s) : tournée par l'utilisateur (3 s face caméra + 30 s de navigation réelle). Si l'utilisateur dépose une vidéo dans videos/, la signaler et proposer texte + hashtags.
+Floutage stratégique : environ 80 % d'information visible (valeur éducative) et 20 % masquée.
+RÈGLES BLOQUANTES pour toute capture montrant une société NOMMÉE : le statut (Acheter / Surveiller / Attendre / À éviter), la note sur 100 et les piliers notés, les badges, le prix sécurisé et les projections 5-10 ans sont TOUJOURS masqués (« Réservé Premium »), jamais visibles. Pas de titre du type « Faut-il acheter ou attendre ? » sur une société nommée : préférer « Sonatel : 3 chiffres à lire avant de décider ». Pas de « Score Campus » dans un duel public. Le cours cité doit être daté et sourcé. CTA : le site seulement (pas de numéro de téléphone, décision du 22 nov).
+Sans capture disponible, on reste sur les carrousels pédagogiques et on demande des captures dans le rapport.
