@@ -14,6 +14,7 @@ Sorties : <nom>_fb.png 1080x1350, <nom>_tt.jpg 1080x1920, <nom>_carre.png 1080x1
 """
 import json, os, sys
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
+import sys as _s, os as _o; _s.path.insert(0, _o.path.dirname(_o.path.abspath(__file__))); from logo import badge
 HERE = os.path.dirname(os.path.abspath(__file__))
 def _f(n):
     for d in (os.path.join(HERE, "fonts"), "/usr/share/fonts/truetype/google-fonts"):
@@ -52,10 +53,8 @@ def render(c, W, H, out):
     bg = Image.fromarray(arr.astype("uint8"), "RGB")
     d = ImageDraw.Draw(bg, "RGBA"); m = 72
     # marque
-    for i in range(4):
-        d.rectangle((m + i*12, 86 - i*8, m + i*12 + 8, 96), fill=OR)
-    d.text((m + 60, 91), "CAMPUS BOURSE", font=F(B, 26), fill=IVOIRE, anchor="lm")
-    y = 160 if H > W else 140
+    lg = badge(84); bg.paste(lg, (m, 52), lg); d = ImageDraw.Draw(bg, "RGBA")
+    y = 172 if H > W else 160
     if c.get("kicker"):
         d.text((m, y), c["kicker"].upper(), font=F(B, 26), fill=OR); y += 52
     fs = 92 if H >= 1350 else 78

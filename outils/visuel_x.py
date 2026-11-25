@@ -17,6 +17,7 @@ Pas d'emoji ; espaces insécables avant « : ? ! ». Mention légale en bas, fix
 import json, os, sys
 from PIL import Image, ImageDraw, ImageFont
 
+import sys as _s, os as _o; _s.path.insert(0, _o.path.dirname(_o.path.abspath(__file__))); from logo import badge
 HERE = os.path.dirname(os.path.abspath(__file__))
 def _f(n):
     for d in (os.path.join(HERE, "fonts"), "/usr/share/fonts/truetype/google-fonts"):
@@ -45,8 +46,9 @@ def main():
     for r in range(420, 0, -6):
         d.ellipse((W - 260 - r, -160 - r, W - 260 + r, -160 + r), fill=OR + (int(3 + (420 - r) / 30),))
     d.rectangle((0, 0, 14, H), fill=OR)
+    lg = badge(84); im.paste(lg, (W - 80 - lg.width, 74), lg); d = ImageDraw.Draw(im, "RGBA")
     # tag
-    ft = F(B, 26); tag = cfg.get("tag", "Campus Bourse").upper()
+    ft = F(B, 26); tag = cfg.get("tag", "BRVM").upper()
     tw = d.textlength(tag, font=ft)
     d.rounded_rectangle((80, 90, 80 + tw + 44, 90 + 52), 26, fill=OR)
     d.text((102, 100), tag, font=ft, fill=FORET)

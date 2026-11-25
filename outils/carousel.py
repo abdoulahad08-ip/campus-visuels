@@ -29,6 +29,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 FONT_DIRS = [os.path.join(HERE, "fonts"), "/usr/share/fonts/truetype/google-fonts"]
 
 
+import sys as _s, os as _o; _s.path.insert(0, _o.path.dirname(_o.path.abspath(__file__))); from logo import badge
 def _f(name):
     for d in FONT_DIRS:
         p = os.path.join(d, name)
@@ -332,8 +333,13 @@ def render(s, idx, total, W, H, path):
     d.rectangle([M, fy - 30, W - M, fy - 27], fill=gold_line + (170,))
     ff = font(F_BOLD, 30)
     name = "CAMPUS DES BÂTISSEURS"
-    brick(d, M, fy + 4, 26, OR if dark else FORET)
-    if terr:
+    if terr and terr[0] == "CAMPUS BOURSE":
+        lg = badge(70); im.paste(lg, (M, fy - 16), lg); d = ImageDraw.Draw(im, "RGBA")
+    else:
+        brick(d, M, fy + 4, 26, OR if dark else FORET)
+    if terr and terr[0] == "CAMPUS BOURSE":
+        pass
+    elif terr:
         lab, col = terr
         pref = "" if lab == "CAMPUS BOURSE" else "CB"
         if pref:

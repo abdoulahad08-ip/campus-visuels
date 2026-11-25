@@ -18,6 +18,7 @@ capture.json = {
 import json, os, sys
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
+import sys as _s, os as _o; _s.path.insert(0, _o.path.dirname(_o.path.abspath(__file__))); from logo import badge
 HERE = os.path.dirname(os.path.abspath(__file__))
 def _f(n):
     for d in (os.path.join(HERE, "fonts"), "/usr/share/fonts/truetype/google-fonts"):
@@ -115,7 +116,7 @@ def render(cfg, shot, W, H, out):
     d.text((fx + 126, fy + 23), "campusbourse.com", font=F(M, 18), fill=(90, 90, 90), anchor="lm")
     bg.paste(shot.resize((sw, sh), Image.LANCZOS), (fx, fy + bar))
     # pied
-    d.text((m, H - 118), "CAMPUS BOURSE", font=F(B, 30), fill=OR)
+    lg = badge(66); bg.paste(lg, (m, H - 136), lg); d = ImageDraw.Draw(bg, "RGBA")
     d.text((W - m, H - 118), "campusbourse.com", font=F(B, 30), fill=IVOIRE, anchor="ra")
     d.text((W // 2, H - 38), "Outil d'aide à l'analyse. Pas un conseil en investissement.", font=F(M, 20), fill=(244, 238, 223, 160), anchor="mm")
     bg.save(out, quality=92) if out.endswith(".jpg") else bg.save(out, optimize=True)
