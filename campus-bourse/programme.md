@@ -14,6 +14,12 @@ Le 19 nov 2026, l'utilisateur a ARRÊTÉ tout le contenu Campus des Bâtisseurs 
 
 **PUBLICATION VIA BUFFER depuis le 22 nov 2026** (procédure : outils/buffer.md). Metricool n'est plus utilisé. X est maintenant publié automatiquement via Buffer ; WhatsApp reste manuel. Premier commentaire LinkedIn impossible sur le forfait gratuit Buffer : il est envoyé à l'utilisateur pour qu'il le poste à la main.
 
+## VISUELS PREUVE PRODUIT DISPONIBLES (25 nov)
+12 visuels tirés de vraies captures du site sont prêts : lire campus-bourse/captures/rendus/INDEX.md.
+Utiliser chaque jour, quand le pilier correspond, UN de ces visuels comme 1re diapo (FB/LinkedIn : _fb.png ; TikTok : _tt.jpg),
+suivi des diapos pédagogiques habituelles. Pas plus d'un par jour et par réseau, pas de réutilisation avant 14 jours (journal.csv).
+Ne JAMAIS publier un fichier de captures/sources/ (brut, non masqué).
+
 ## Rythme (calendrier hebdomadaire validé le 19 nov 2026)
 **FACEBOOK ARRÊTÉ le 19 nov 2026 (décision de l'utilisateur) : ne JAMAIS programmer de post Facebook.** Les mentions Facebook restantes dans ce fichier sont caduques.
 
@@ -98,7 +104,7 @@ Noms à ne PAS utiliser (n'existent pas dans le produit) : « Score de Convictio
 - **LinkedIn 11h (lun/mer/ven)** : accroche ≤ 120 caractères, 900 à 1 300 caractères, vouvoiement, carrousel PDF ; pas de lien dans le texte, le lien va dans le PREMIER COMMENTAIRE (campus-bourse/premier_commentaire_modele.txt) ; disclaimer + signature à la fin.
 - **18h Facebook + TikTok** : 1 image (carrousel d'1 à 3 diapos) avec une question/quiz BRVM, un concept expliqué (PER, ROE, rendement du dividende, marge de sécurité…), ou une démo courte d'UNE fonctionnalité réelle ; réponse/explication dans le texte ; invitation à l'essai gratuit 7 jours au plus un jour sur deux.
 - Visuels : outils/carousel.py avec "territoire": "bourse" ; dernière diapo : big = « campusbourse.com ».
-- DÉMO : si des captures réelles sont dans campus-bourse/captures/, les utiliser en priorité ; sinon carrousel explicatif, sans fausse capture.
+- DÉMO : si des visuels sont dans campus-bourse/captures/rendus/ (INDEX.md), les utiliser en priorité ; sinon carrousel explicatif, sans fausse capture.
 
 ## Mesure
 journal.csv : date, thème, sujet, post Metricool. Le rapport du lundi suit, par réseau et par thème, la portée, les réactions, commentaires, partages et clics, ainsi que les ventes Chariow des abonnements Premium Campus Bourse (analys-mens, analys-an).
