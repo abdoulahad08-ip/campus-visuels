@@ -127,3 +127,13 @@ Règle : mieux vaut 10 fonctionnalités parfaitement expliquées que 50 mal comp
 
 ## INTERDIT (performance)
 Ne JAMAIS publier une performance passée de la méthode ou de la plateforme (ex. « une méthode qui a fait près de 60 % en 2026 ») ni aucun rendement obtenu ou promis. Raison : c'est une promesse de résultat implicite, non auditée, interdite par nos règles de conformité (pas de conseil, pas de rendement) et risquée vis-à-vis du régulateur du marché financier de l'UMOA.
+
+## ENTONNOIR « VALEUR D'ABORD » / PRODUCT-LED GROWTH (décision du 25 nov 2026)
+Attirer par l'éducation gratuite (TikTok, LinkedIn, Facebook, X) → prouver la valeur en quelques secondes dans l'offre gratuite (Découverte) → l'offre Premium se découvre dans l'outil, au moment où l'utilisateur en a besoin → conclusion humaine sur WhatsApp (par l'utilisateur, hors posts) → fidélisation par un rituel hebdomadaire.
+Conséquences pour les posts :
+1. **On ne vend jamais l'abonnement sur les réseaux : on vend le déclic intellectuel.** Chaque post est une « micro-preuve d'autorité » : une analyse claire et gratuite qui résout UN problème précis de l'investisseur BRVM (ex. « Pourquoi un dividende élevé peut être un piège », « Deux banques cotées comparées en 4 ratios »). Le lecteur doit se dire « ce compte m'aide à mieux décider », pas « ce compte veut me vendre ».
+2. **Le CTA pousse vers le « moment Aha » gratuit, pas vers le paiement.** CTA à privilégier (varier) : « Commence gratuitement : ouvre la fiche d'une société que tu suis. » · « Crée ton compte Découverte et compare deux sociétés. » · « Teste gratuitement : regarde les 4 piliers d'une société que tu détiens. » Le prix Premium n'apparaît que dans les posts qui traitent le frein « prix » ou « offre peu claire ».
+3. Ancrage du prix (seulement dans ces posts-là) : comparer le prix de l'abonnement au temps gagné et au montant investi (« 5 000 FCFA par mois, comparé au montant que tu engages sur un seul ordre »). Jamais de calcul de perte évitée non vérifiable (interdit : « une seule mauvaise entrée coûte 10 fois l'abonnement »).
+4. Les comparaisons de sociétés nommées (ex. Sonatel vs Orange CI) restent factuelles : ratios publics sourcés, aucun gagnant, aucun statut (Acheter / Surveiller / Attendre), score ou prix sécurisé de la plateforme.
+5. Les noms d'offres restent : Découverte, Premium Mensuel (5 000 FCFA), Premium Annuel (50 000 FCFA). Ne pas utiliser « PRO » ni d'autres prix.
+6. Le numéro WhatsApp ne figure pas dans les posts automatiques (décision du 22 nov). La conclusion des ventes sur WhatsApp est faite par l'utilisateur (voir campus-bourse/vente-whatsapp.md).
