@@ -1,0 +1,52 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Leçon d'anglais",
+   "title": "Tu dis « *earnings* » pour le chiffre d'affaires ? Faux.",
+   "body": "Revenue, earnings, turnover : les 3 mots des rapports annuels. Glisse."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "Mot n°1",
+   "title": "Chiffre d'affaires = *revenue*",
+   "body": "Revenue rose by 10%. → Le chiffre d'affaires a augmenté de 10 %. Au Royaume-Uni : turnover."
+  },
+  {
+   "type": "solution",
+   "theme": "or",
+   "tag": "Mot n°2",
+   "title": "Bénéfice = *earnings* (ou net income)",
+   "body": "Earnings fell this year. → Le bénéfice a baissé cette année. C'est ce qui reste après les charges."
+  },
+  {
+   "type": "probleme",
+   "theme": "corail",
+   "tag": "Erreur fréquente",
+   "title": "Jamais « business figure » ni *earnings* pour le CA",
+   "body": "Faux : Its earnings reached 500 billion (pour le CA). Juste : Its revenue reached 500 billion."
+  },
+  {
+   "type": "promesse",
+   "tag": "Exercice",
+   "title": "À toi : revenue, earnings ou *turnover* ?",
+   "body": "1. Total sales = ___\n2. Profit after all costs = ___\n3. British word for revenue = ___"
+  },
+  {
+   "type": "resultat",
+   "tag": "Correction",
+   "title": "Tu as trouvé les *trois* ?",
+   "big": "revenue · earnings · turnover",
+   "body": "Une société peut avoir un gros revenue et de faibles earnings."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Apprendre, une leçon à la *fois.*",
+   "big": "campusbourse.com",
+   "body": "Analyse les sociétés cotées à la BRVM. Essai gratuit 7 jours."
+  }
+ ]
+}
