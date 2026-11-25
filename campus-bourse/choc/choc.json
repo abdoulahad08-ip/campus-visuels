@@ -1,0 +1,145 @@
+[
+ {
+  "nom": "c01_alerte",
+  "kicker": "Mon portefeuille",
+  "titre": "Trop de *banques* dans ton portefeuille ?",
+  "texte": "Au-delà de 35 % sur un secteur, Campus Bourse t'alerte.",
+  "source": "campus-bourse/captures/sources/tableau-de-bord.png",
+  "crop": [
+   120,
+   680,
+   925,
+   785
+  ],
+  "stats": [
+   {
+    "v": "43,4 %",
+    "l": "Banque dans le portefeuille",
+    "couleur": "rouge"
+   },
+   {
+    "v": "35 %",
+    "l": "Plafond par secteur"
+   }
+  ]
+ },
+ {
+  "nom": "c02_dividende",
+  "kicker": "Dividendes",
+  "titre": "Le dividende, *sans fouiller* les rapports.",
+  "texte": "Exemple réel d'une fiche : dividende, rendement, payout, régularité.",
+  "source": "campus-bourse/captures/sources/dividende-rendement.png",
+  "crop": [
+   95,
+   95,
+   720,
+   185
+  ],
+  "stats": [
+   {
+    "v": "174",
+    "l": "Dividende (FCFA)"
+   },
+   {
+    "v": "4,5 %",
+    "l": "Rendement"
+   },
+   {
+    "v": "57,5 %",
+    "l": "Payout"
+   },
+   {
+    "v": "5/5",
+    "l": "Années avec dividende"
+   }
+  ]
+ },
+ {
+  "nom": "c03_ratios",
+  "kicker": "Fiche société",
+  "titre": "SONATEL : les ratios clés, *d'un coup d'œil.*",
+  "texte": "ROE, taux de distribution, PER : sur la fiche, calculés pour toi.",
+  "source": "campus-bourse/captures/sources/fiche-sonatel-entete.png",
+  "crop": [
+   580,
+   525,
+   1290,
+   605
+  ],
+  "stats": [
+   {
+    "v": "31,1 %",
+    "l": "ROE"
+   },
+   {
+    "v": "57,5 %",
+    "l": "Distribution"
+   },
+   {
+    "v": "11,4",
+    "l": "PER"
+   }
+  ]
+ },
+ {
+  "nom": "c04_comparer",
+  "kicker": "Comparer",
+  "titre": "2 sociétés. *Une seule image.*",
+  "texte": "Qualité, valeur, croissance, risque : côte à côte.",
+  "source": "campus-bourse/captures/sources/comparer-radar.png",
+  "crop": [
+   720,
+   140,
+   1120,
+   495
+  ]
+ },
+ {
+  "nom": "c05_trajectoire",
+  "kicker": "Historique",
+  "titre": "5 ans de chiffres. *Un graphique.*",
+  "texte": "Chiffre d'affaires et résultat net, exercice par exercice.",
+  "source": "campus-bourse/captures/sources/trajectoire-5-ans.png",
+  "crop": [
+   130,
+   160,
+   1740,
+   650
+  ]
+ },
+ {
+  "nom": "c06_methode",
+  "kicker": "La méthode",
+  "titre": "Investir à la BRVM *en 4 étapes.*",
+  "puces": [
+   "Filtrer les sociétés cotées",
+   "Comparer les fondamentaux",
+   "Valider avant d'agir",
+   "Protéger ton portefeuille"
+  ]
+ },
+ {
+  "nom": "c07_promesse",
+  "kicker": "Campus Bourse",
+  "titre": "Comprendre. Analyser. *Décider.*",
+  "texte": "Les sociétés cotées à la BRVM, analysées sur 5 exercices.",
+  "puces": [
+   "Fiches sur 5 exercices",
+   "Dividendes et rendements",
+   "Alertes de portefeuille"
+  ]
+ },
+ {
+  "nom": "c08_secteurs",
+  "kicker": "Master Liste",
+  "titre": "Quels secteurs *créent de la richesse* ?",
+  "texte": "Les secteurs de la BRVM classés sur qualité, croissance et risque.",
+  "source": "campus-bourse/captures/sources/master-liste.png",
+  "crop": [
+   140,
+   420,
+   662,
+   650
+  ]
+ }
+]

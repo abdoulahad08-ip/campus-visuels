@@ -14,6 +14,13 @@ Le 19 nov 2026, l'utilisateur a ARRÊTÉ tout le contenu Campus des Bâtisseurs 
 
 **PUBLICATION VIA BUFFER depuis le 22 nov 2026** (procédure : outils/buffer.md). Metricool n'est plus utilisé. X est maintenant publié automatiquement via Buffer ; WhatsApp reste manuel. Premier commentaire LinkedIn impossible sur le forfait gratuit Buffer : il est envoyé à l'utilisateur pour qu'il le poste à la main.
 
+## VISUELS « CHOC » (25 nov, PRIORITÉ VISUELLE)
+Style par défaut des 1res diapos et des visuels uniques : simple, concis, pro. Outil : outils/visuel_choc.py (voir campus-bourse/choc/choc.json).
+Règles : 1 message (titre ≤ 7 mots, 1-2 mots en or), 1 phrase max, 1 preuve réelle zoomée (capture de captures/sources, cadrage serré,
+jamais de statut/note/prix max/projection/plus-value personnelle dans le cadre) ou 3-4 puces, chiffres-clés en grand recopiés EXACTEMENT
+de la capture, bouton « Commence gratuitement → » + campusbourse.com, mention légale. 8 visuels prêts dans campus-bourse/choc/.
+Nouveaux visuels choc : ajouter une entrée à choc.json, générer, vérifier visuellement, commit.
+
 ## VISUELS PREUVE PRODUIT DISPONIBLES (25 nov)
 12 visuels tirés de vraies captures du site sont prêts : lire campus-bourse/captures/rendus/INDEX.md.
 Utiliser chaque jour, quand le pilier correspond, UN de ces visuels comme 1re diapo (FB/LinkedIn : _fb.png ; TikTok : _tt.jpg),
