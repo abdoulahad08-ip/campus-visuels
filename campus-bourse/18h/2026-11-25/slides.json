@@ -1,0 +1,26 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "marque",
+   "theme": "turquoise",
+   "tag": "Démo Campus Bourse",
+   "title": "Tout ton portefeuille dans *un seul secteur* ?",
+   "body": "Campus Bourse te prévient quand un secteur dépasse 35 % de ton portefeuille.\nCombien de secteurs as-tu ? Un chiffre.\nRéponds en commentaire."
+  },
+  {
+   "type": "resultat",
+   "tag": "Exemple fictif",
+   "title": "1 000 000 FCFA investis, *600 000* en banques",
+   "big": "60 %",
+   "body": "60 % de ton portefeuille dans un seul secteur, au-dessus du plafond prudentiel de 35 % : l'alerte s'affiche dans Mon portefeuille.\nC'est un repère pour réfléchir, la décision reste la tienne."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Ton portefeuille, *vu d'en haut*",
+   "body": "Mon portefeuille, avec l'alerte de concentration sectorielle. Essai gratuit 7 jours, sans carte bancaire.",
+   "big": "campusbourse.com"
+  }
+ ]
+}
