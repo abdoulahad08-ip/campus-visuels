@@ -1,0 +1,16 @@
+Bilan mi-semaine BRVM — mercredi 25 nov 2026 (séances du lundi 23 et du mardi 24 nov 2026 ; séance du mercredi 25 non close au moment de la production)
+
+- BRVM, Indices (BRVM Composite 472,04, -0,94 %, préc. 476,54 ; BRVM 30 228,62 ; Prestige 180,92 ; capitalisation actions 18 511 176 505 734 FCFA ; transactions 2 238 217 762 FCFA ; séance du mardi 24 nov 2026)
+  https://www.brvm.org/fr/indices/1000
+- Le Jecos, « Bourse : La BRVM pique du nez en début de semaine » (lundi 23 nov : Composite -3,32 % à 476,54 ; capitalisation 18 687,506 Mds ; top 5 : SIB seule hausse +1,16 % ; flop 5 toutes > 7 %)
+  https://www.lejecos.com/Bourse-La-BRVM-pique-du-nez-en-debut-de-semaine_a31893.html
+- Le Jecos, « BRVM : Les indices phares enregistrent leur sixième journée de baisse ininterrompue ce vendredi 20 novembre 2026 » (Composite 492,89 ; capitalisation actions 19 328,818 Mds FCFA)
+  https://www.lejecos.com/BRVM-Les-indices-phares-enregistrent-leur-sixieme-journee-de-baisse-ininterrompue-ce-vendredi-20-novembre-2026_a31884.html
+- Richbourse, Palmarès BRVM du jour (mardi 24 nov 2026 : 15 hausses, 27 baisses ; TOTAL CI +6,42 % ; Air Liquide CI -7,50 %, concordant avec le Flop 5 de brvm.org)
+  https://www.richbourse.com/common/variation
+- Le Jecos, « La société NEI-CEDA réalise un résultat net déficitaire de 864 millions FCFA au premier semestre 2026 » (publié le 24 nov 2026 ; S1 2025 : bénéfice 1,088 Md FCFA)
+  https://www.lejecos.com/La-societe-NEI-CEDA-realise-un-resultat-net-deficitaire-de-864-millions-FCFA-au-premier-semestre-2026_a31894.html
+
+Calculs (Python) : 472,04/492,89-1 = -4,23 % ; 18 511,177-19 328,818 = -817,6 Mds FCFA (≈ 818).
+Aucun lien de cause présenté entre la publication NEI-CEDA (24 nov) et la baisse du titre le 23 nov.
+Cible : salarié qui construit son patrimoine (cible 1) · motivation : sécurité · déclencheur : confiance (comptes officiels sur 5 exercices).

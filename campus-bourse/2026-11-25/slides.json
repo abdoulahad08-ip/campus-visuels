@@ -1,0 +1,58 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "corail",
+   "tag": "Bilan mi-semaine BRVM",
+   "title": "BRVM : lundi et mardi, *deux baisses*",
+   "body": "Séances des 23 et 24 novembre 2026. La séance de mercredi n'est pas encore close."
+  },
+  {
+   "type": "resultat",
+   "theme": "foret",
+   "tag": "BRVM Composite",
+   "title": "L'indice perd *4,23 %* en deux séances",
+   "big": "472,04 points",
+   "body": "492,89 points le 20 nov. Lundi −3,32 %, mardi −0,94 %."
+  },
+  {
+   "type": "resultat",
+   "theme": "turquoise",
+   "tag": "Capitalisation actions",
+   "title": "Environ 818 milliards FCFA de *moins*",
+   "big": "18 511 milliards FCFA",
+   "body": "Au 24 nov, contre 19 329 milliards FCFA à la clôture du 20 nov."
+  },
+  {
+   "type": "resultat",
+   "theme": "or",
+   "tag": "Lundi 23 novembre",
+   "title": "Une seule *hausse* au palmarès",
+   "big": "+1,16 %",
+   "body": "SIB, seule hausse du top 5. Les cinq plus fortes baisses dépassent 7 %."
+  },
+  {
+   "type": "resultat",
+   "theme": "corail",
+   "tag": "Mardi 24 novembre",
+   "title": "Des hausses, mais *minoritaires*",
+   "big": "15 vs 27",
+   "body": "Hausses contre baisses. TOTAL CI +6,42 % en tête, Air Liquide CI −7,50 %."
+  },
+  {
+   "type": "solution",
+   "theme": "ivoire",
+   "tag": "Le fondamental de la semaine",
+   "title": "Le cours bouge, les *comptes* expliquent",
+   "body": "NEI-CEDA publie une perte de 864 millions FCFA au 1er semestre 2026, contre un bénéfice de 1,088 milliard."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Suis les *fondamentaux* des sociétés de la BRVM",
+   "body": "Comptes officiels sur 5 exercices, ratios expliqués. Essai gratuit 7 jours.",
+   "big": "campusbourse.com"
+  }
+ ]
+}
