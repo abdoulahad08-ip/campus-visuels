@@ -1,0 +1,28 @@
+{
+ "nom": "03_long_terme",
+ "source": "campus-bourse/captures/sources/lecture-long-terme.png",
+ "masquer": [
+  [
+   820,
+   145,
+   1240,
+   378
+  ],
+  [
+   95,
+   400,
+   420,
+   445
+  ]
+ ],
+ "tag": "Lecture long terme",
+ "titre": "Voir *au-delà* du cours du jour",
+ "sous_titre": "Projections du modèle, jamais des promesses",
+ "etiquette_masque": "Réservé Premium",
+ "crop": [
+  95,
+  20,
+  1250,
+  450
+ ]
+}

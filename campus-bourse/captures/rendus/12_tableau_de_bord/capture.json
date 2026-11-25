@@ -1,0 +1,15 @@
+{
+ "nom": "12_tableau_de_bord",
+ "source": "campus-bourse/captures/sources/tableau-de-bord.png",
+ "masquer": [],
+ "tag": "Tableau de bord",
+ "titre": "L'alerte qui *te protège* d'un secteur trop lourd",
+ "sous_titre": "Au-delà de 35 % sur un secteur, Campus Bourse te prévient",
+ "etiquette_masque": "Réservé Premium",
+ "crop": [
+  120,
+  610,
+  925,
+  860
+ ]
+}

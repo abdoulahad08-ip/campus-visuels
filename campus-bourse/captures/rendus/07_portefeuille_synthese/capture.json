@@ -1,0 +1,30 @@
+{
+ "nom": "07_portefeuille_synthese",
+ "source": "campus-bourse/captures/sources/portefeuille-synthese.png",
+ "masquer": [
+  [
+   640,
+   490,
+   915,
+   660
+  ]
+ ],
+ "tag": "Mon portefeuille",
+ "titre": "Ton portefeuille *et tes dividendes* au même endroit",
+ "sous_titre": "Calcul au cours affiché et sur le dernier dividende net publié",
+ "etiquette_masque": "Réservé Premium",
+ "empiler": [
+  [
+   130,
+   340,
+   935,
+   730
+  ],
+  [
+   935,
+   420,
+   1735,
+   730
+  ]
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "nom": "05_fiche_sonatel",
+ "source": "campus-bourse/captures/sources/fiche-sonatel-entete.png",
+ "masquer": [],
+ "tag": "Fiche société",
+ "titre": "SONATEL : *3 chiffres* à lire avant de décider",
+ "sous_titre": "ROE, taux de distribution, PER : l'essentiel en haut de la fiche",
+ "etiquette_masque": "Réservé Premium",
+ "empiler": [
+  [
+   120,
+   200,
+   900,
+   440
+  ],
+  [
+   120,
+   530,
+   1050,
+   600
+  ],
+  [
+   1050,
+   530,
+   1500,
+   600
+  ]
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "nom": "09_comparer",
+ "source": "campus-bourse/captures/sources/comparer-radar.png",
+ "masquer": [
+  [
+   805,
+   495,
+   1030,
+   535
+  ]
+ ],
+ "etiquette_masque": "Société masquée",
+ "tag": "Comparer",
+ "titre": "2 sociétés, *6 axes*, une seule image",
+ "sous_titre": "Qualité, valeur, croissance, risque... comparés côte à côte",
+ "crop": [
+  700,
+  130,
+  1130,
+  540
+ ]
+}

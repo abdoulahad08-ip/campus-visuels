@@ -1,0 +1,42 @@
+{
+ "nom": "06_portefeuille_lignes",
+ "source": "campus-bourse/captures/sources/portefeuille-lignes.png",
+ "masquer": [
+  [
+   820,
+   205,
+   960,
+   872
+  ],
+  [
+   1310,
+   205,
+   1535,
+   872
+  ],
+  [
+   535,
+   205,
+   650,
+   872
+  ]
+ ],
+ "tag": "Mon portefeuille",
+ "titre": "Chaque ligne, *surveillée pour toi*",
+ "sous_titre": "Poids, plafond, dépassement : tu vois où tu es trop exposé",
+ "etiquette_masque": "Réservé Premium",
+ "empiler": [
+  [
+   130,
+   120,
+   960,
+   500
+  ],
+  [
+   960,
+   120,
+   1745,
+   500
+  ]
+ ]
+}

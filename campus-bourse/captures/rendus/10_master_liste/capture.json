@@ -1,0 +1,42 @@
+{
+ "nom": "10_master_liste",
+ "source": "campus-bourse/captures/sources/master-liste.png",
+ "masquer": [
+  [
+   495,
+   665,
+   640,
+   810
+  ],
+  [
+   1030,
+   665,
+   1180,
+   810
+  ],
+  [
+   1570,
+   665,
+   1725,
+   810
+  ]
+ ],
+ "tag": "Master Liste",
+ "titre": "Quels secteurs *créent de la richesse* ?",
+ "sous_titre": "Les secteurs de la BRVM classés sur qualité, croissance et risque",
+ "etiquette_masque": "Réservé Premium",
+ "empiler": [
+  [
+   140,
+   420,
+   662,
+   830
+  ],
+  [
+   682,
+   420,
+   1204,
+   830
+  ]
+ ]
+}

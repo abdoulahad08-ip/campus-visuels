@@ -39,11 +39,19 @@ def prepare(cfg):
         im.paste(reg, (x0, y0))
         d = ImageDraw.Draw(im)
         lab = cfg.get("etiquette_masque", "Réservé Premium")
-        fs = max(14, min(36, (y1 - y0) // 2))
-        f = F(B, fs); w = d.textlength("🔒 " + lab if False else lab, font=f)
+        fs = max(14, min(40, (y1 - y0) // 2)); lab0 = lab
+        while fs > 14 and d.textlength(lab, font=F(B, fs)) > (x1 - x0) - 36: fs -= 2
+        if d.textlength(lab, font=F(B, fs)) > (x1 - x0) - 36: lab = "Premium"
+        f = F(B, fs); w = d.textlength(lab, font=f); lab = lab if lab else lab0
         cx, cy = (x0 + x1) // 2, (y0 + y1) // 2
         d.rounded_rectangle((cx - w / 2 - 14, cy - fs * 0.8, cx + w / 2 + 14, cy + fs * 0.8), 12, fill=OR)
         d.text((cx, cy), lab, font=f, fill=FORET, anchor="mm")
+    if cfg.get("empiler"):  # plusieurs zones empilées verticalement (captures très larges)
+        parts = [im.crop(tuple(b)) for b in cfg["empiler"]]; g = 24
+        W = max(p.width for p in parts); H = sum(p.height for p in parts) + g * (len(parts) - 1)
+        out = Image.new("RGB", (W, H), (12, 30, 25)); y = 0
+        for p in parts: out.paste(p, ((W - p.width) // 2, y)); y += p.height + g
+        return out
     if cfg.get("crop"):
         im = im.crop(tuple(cfg["crop"]))
     return im
@@ -64,27 +72,31 @@ def render(cfg, shot, W, H, out):
         c = tuple(int(EMER[i] * (1 - t) * 0.55 + FORET[i] * (0.45 + t * 0.2) + NUIT[i] * t * 0.35) for i in range(3))
         for x in range(W): px[x, y] = c
     d = ImageDraw.Draw(bg, "RGBA")
-    m = 70
+    m = 60
     # tag
     ft = F(B, 28); tag = cfg.get("tag", "Preuve produit").upper(); tw = d.textlength(tag, font=ft)
     d.rounded_rectangle((m, 70, m + tw + 44, 122), 26, fill=OR); d.text((m + 22, 80), tag, font=ft, fill=FORET)
     # titre
     fT = F(B, 62 if W == H else 68); y = 150; hl = False
     for ln in title_lines(d, cfg["titre"], fT, W - 2 * m):
-        x = m
+        x = m; segs = []
         for w in ln:
             if w.startswith("*"): hl = True
             end = w.rstrip(".!?,:;»").endswith("*")
-            txt = w.replace("*", ""); ww = d.textlength(txt, font=fT)
-            if hl:
-                d.rounded_rectangle((x - 6, y + 10, x + ww + 6, y + fT.size + 12), 8, fill=OR); d.text((x, y), txt, font=fT, fill=FORET)
+            txt = w.replace("*", "")
+            if segs and segs[-1][1] == hl: segs[-1][0] += " " + txt
+            else: segs.append([txt, hl])
+            if end: hl = False
+        for txt, h in segs:
+            ww = d.textlength(txt, font=fT)
+            if h:
+                d.rounded_rectangle((x - 8, y + 10, x + ww + 8, y + fT.size + 12), 10, fill=OR); d.text((x, y), txt, font=fT, fill=FORET)
             else:
                 d.text((x, y), txt, font=fT, fill=IVOIRE)
-            if end: hl = False
             x += ww + d.textlength(" ", font=fT)
         y += int(fT.size * 1.22)
     if cfg.get("sous_titre"):
-        d.text((m, y + 4), cfg["sous_titre"], font=F(M, 30), fill=(244, 238, 223, 200)); y += 50
+        d.text((m, y + 12), cfg["sous_titre"], font=F(M, 30), fill=(244, 238, 223, 200)); y += 58
     # zone capture : cadre navigateur
     top = y + 30; bottom = H - 150
     bar = 46

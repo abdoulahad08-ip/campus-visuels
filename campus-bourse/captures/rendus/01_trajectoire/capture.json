@@ -1,0 +1,15 @@
+{
+ "nom": "01_trajectoire",
+ "source": "campus-bourse/captures/sources/trajectoire-5-ans.png",
+ "masquer": [],
+ "tag": "Preuve produit",
+ "titre": "5 ans de chiffres *en un coup d'œil*",
+ "sous_titre": "Chiffre d'affaires et résultat net, exercice par exercice",
+ "etiquette_masque": "Réservé Premium",
+ "crop": [
+  130,
+  150,
+  1740,
+  650
+ ]
+}

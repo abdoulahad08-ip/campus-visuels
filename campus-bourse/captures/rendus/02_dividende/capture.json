@@ -1,0 +1,23 @@
+{
+ "nom": "02_dividende",
+ "source": "campus-bourse/captures/sources/dividende-rendement.png",
+ "masquer": [],
+ "tag": "Dividendes",
+ "titre": "Le dividende, *lu en 4 chiffres*",
+ "sous_titre": "Dernier dividende validé, rendement, payout, régularité sur 5 ans",
+ "etiquette_masque": "Réservé Premium",
+ "empiler": [
+  [
+   90,
+   30,
+   915,
+   200
+  ],
+  [
+   915,
+   30,
+   1760,
+   200
+  ]
+ ]
+}

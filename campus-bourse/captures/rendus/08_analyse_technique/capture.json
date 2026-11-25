@@ -1,0 +1,22 @@
+{
+ "nom": "08_analyse_technique",
+ "source": "campus-bourse/captures/sources/analyse-technique.png",
+ "masquer": [
+  [
+   545,
+   320,
+   800,
+   750
+  ]
+ ],
+ "tag": "Analyse technique",
+ "titre": "RSI et Bollinger, *déjà calculés*",
+ "sous_titre": "Pour chaque société cotée, sans logiciel de trading",
+ "etiquette_masque": "Réservé Premium",
+ "crop": [
+  125,
+  140,
+  1220,
+  750
+ ]
+}

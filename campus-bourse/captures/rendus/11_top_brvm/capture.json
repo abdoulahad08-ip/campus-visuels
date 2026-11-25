@@ -1,0 +1,22 @@
+{
+ "nom": "11_top_brvm",
+ "source": "campus-bourse/captures/sources/top-brvm.png",
+ "masquer": [
+  [
+   130,
+   462,
+   1735,
+   880
+  ]
+ ],
+ "etiquette_masque": "Classement complet : Réservé Premium",
+ "tag": "Top BRVM",
+ "titre": "Toutes les sociétés cotées, *classées et filtrables*",
+ "sous_titre": "Recherche, secteur, critère de tri : tu filtres en 1 clic",
+ "crop": [
+  125,
+  180,
+  1745,
+  880
+ ]
+}

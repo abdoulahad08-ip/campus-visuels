@@ -1,0 +1,36 @@
+{
+ "nom": "04_verdict",
+ "source": "campus-bourse/captures/sources/verdict-valorisation.png",
+ "masquer": [
+  [
+   150,
+   240,
+   640,
+   445
+  ],
+  [
+   680,
+   190,
+   1740,
+   395
+  ]
+ ],
+ "tag": "Verdict Campus",
+ "titre": "La synthèse qui *t'évite 3 h d'analyse*",
+ "sous_titre": "Qualité, valeur, croissance, risque : réunis sur une fiche",
+ "etiquette_masque": "Réservé Premium",
+ "empiler": [
+  [
+   120,
+   110,
+   670,
+   450
+  ],
+  [
+   670,
+   180,
+   1745,
+   400
+  ]
+ ]
+}
