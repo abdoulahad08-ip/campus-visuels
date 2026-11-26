@@ -1,0 +1,26 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "marque",
+   "theme": "or",
+   "tag": "Vrai ou faux ?",
+   "title": "Un gros dividende = une *bonne action* ?",
+   "body": "Un rendement de 10 % : tu achètes les yeux fermés ?\nRéponds VRAI ou FAUX en commentaire."
+  },
+  {
+   "type": "resultat",
+   "tag": "La réponse : FAUX",
+   "title": "Le rendement monte quand *le cours chute*",
+   "big": "de 6 à 10 %",
+   "body": "Exemple fictif : 600 FCFA de dividende par action.\nCours à 10 000 FCFA : rendement de 6 %.\nLe cours tombe à 6 000 FCFA : 10 %, sans un franc de plus pour toi."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Regarde aussi si *le bénéfice suit*",
+   "body": "Verser 600 FCFA pour 500 FCFA de bénéfice par action, c'est distribuer 120 % du bénéfice (exemple fictif).\nDividendes et comptes de 5 exercices officiels des sociétés cotées à la BRVM.",
+   "big": "campusbourse.com"
+  }
+ ]
+}
