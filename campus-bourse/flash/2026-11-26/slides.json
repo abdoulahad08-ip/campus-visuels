@@ -1,0 +1,69 @@
+{
+ "territoire": "bourse",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 26 novembre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 26 novembre",
+   "title": "La BRVM recule pour la *9e séance* d'affilée : ce que ça change pour toi.",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Sénégal : *55 %* des besoins de financement de l'État couverts par le marché régional UEMOA",
+   "body": "Source : Senego"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : le Composite recule de *1,54 %* à 464,78 points, 9e baisse d'affilée le 25 novembre",
+   "body": "Source : Lejecos",
+   "theme": "or"
+  },
+  {
+   "type": "resultat",
+   "tag": "Startup",
+   "title": "Nigeria : la start-up de cybersécurité Aeon porte sa levée d'amorçage à *2 millions* de dollars",
+   "body": "Source : TechTrends KE"
+  },
+  {
+   "type": "solution",
+   "tag": "Cybersécurité",
+   "title": "États-Unis : le Trésor enquête sur un accès non autorisé, des systèmes de *FinCEN* mis hors ligne",
+   "body": "Source : Cybernews",
+   "theme": "corail"
+  },
+  {
+   "type": "promesse",
+   "tag": "IT",
+   "title": "OpenAI : des protéines conçues par son IA se lient à *5 cibles* lors de tests en laboratoire",
+   "body": "Source : The Neuron",
+   "theme": "turquoise"
+  },
+  {
+   "type": "probleme",
+   "tag": "Géopolitique",
+   "title": "Ormuz : selon les Gardiens de la révolution iraniens, *deux pétroliers* ont heurté des mines",
+   "body": "Source : Reuters (via Just Security)"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Un indice résume le marché, pas la *valeur* de chaque société.",
+   "body": "9e baisse d'affilée du BRVM Composite (-1,54 % mercredi). Les cours bougent chaque jour, les comptes une fois par an : on revient aux chiffres publiés."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "S'informer, puis analyser avec *méthode.*",
+   "body": "Les sociétés cotées à la BRVM, analysées. Essai gratuit 7 jours.",
+   "big": "campusbourse.com"
+  }
+ ]
+}
