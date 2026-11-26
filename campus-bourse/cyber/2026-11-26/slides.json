@@ -1,0 +1,52 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Solution cyber",
+   "title": "Un recruteur qui te demande de l'argent ne recrute *pas.*",
+   "body": "Faux recrutements : comment les repérer et t'en protéger. Glisse."
+  },
+  {
+   "type": "probleme",
+   "tag": "Ça existe ici",
+   "title": "Juillet 2026 : la BOAD et la CIE *alertent*",
+   "body": "De fausses offres circulent à leur nom. Au Sénégal, la DSC a démantelé un réseau de faux recruteurs (déc. 2025)."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "Comment ça se présente",
+   "title": "Une offre trop belle, puis des *frais de dossier*",
+   "body": "Logo copié, contact par WhatsApp ou LinkedIn, entretien express. Puis on te demande de l'argent ou tes documents."
+  },
+  {
+   "type": "probleme",
+   "theme": "corail",
+   "tag": "Signaux d'alerte",
+   "title": "4 signaux d'un *faux recruteur*",
+   "body": "Un paiement demandé. Tes papiers exigés avant tout contrat. Une adresse e-mail personnelle. L'urgence : « réponds avant demain »."
+  },
+  {
+   "type": "solution",
+   "theme": "or",
+   "tag": "La solution pas à pas",
+   "title": "Vérifie l'offre *à la source*",
+   "body": "Ouvre toi-même le site officiel de l'entreprise, rubrique carrières. Appelle son standard officiel. Ne paie jamais rien."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "Déjà arrivé ?",
+   "title": "Arrête tout *paiement*, garde les preuves",
+   "body": "Signale la transaction à ton service Mobile Money, préviens l'entreprise usurpée, porte plainte (DSC au Sénégal, PLCC en Côte d'Ivoire)."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Protège ton argent, puis fais-le *travailler.*",
+   "body": "Analyse les sociétés cotées à la BRVM. Essai gratuit 7 jours.",
+   "big": "campusbourse.com"
+  }
+ ]
+}
