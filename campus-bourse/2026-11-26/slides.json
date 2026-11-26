@@ -1,0 +1,58 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "foret",
+   "tag": "L'audit fondamental",
+   "title": "Sonatel : 4 chiffres à lire *avant le cours*",
+   "body": "Ce que décrit la fiche valeur Campus Bourse, avec les comptes 2025 publiés par la société."
+  },
+  {
+   "type": "resultat",
+   "theme": "corail",
+   "tag": "1. Chiffre d'affaires 2025",
+   "title": "La *taille* de l'activité",
+   "big": "1 923,1 Md FCFA",
+   "body": "+8,3 % sur un an. Comptes consolidés au 31 décembre 2025."
+  },
+  {
+   "type": "resultat",
+   "theme": "turquoise",
+   "tag": "2. Résultat net 2025",
+   "title": "Ce qui *reste* à la fin",
+   "big": "413,6 Md FCFA",
+   "body": "+5,1 % : le bénéfice progresse moins vite que les ventes. Un écart à suivre dans le temps."
+  },
+  {
+   "type": "resultat",
+   "theme": "or",
+   "tag": "3. Marge nette",
+   "title": "Sur 100 FCFA de ventes, *21,5 FCFA* de bénéfice",
+   "big": "21,5 %",
+   "body": "Résultat net ÷ chiffre d'affaires, exercice 2025. Une marge se compare surtout d'une année à l'autre."
+  },
+  {
+   "type": "probleme",
+   "theme": "foret",
+   "tag": "4. Investissements",
+   "title": "*15 %* des ventes réinvestis",
+   "big": "288,6 Md FCFA",
+   "body": "Un opérateur télécom investit sans cesse dans ses réseaux. Ce chiffre pèse sur le cash disponible."
+  },
+  {
+   "type": "solution",
+   "theme": "ivoire",
+   "tag": "Dans la fiche valeur",
+   "title": "8 sections, *3 niveaux* de lecture",
+   "body": "Comptes de 5 exercices, PER, ROE, PEG, dividendes. Projections 5 et 10 ans en Premium."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Ouvre la fiche d'une société *que tu suis*",
+   "body": "Analyse complète et projections avec Premium. Essai gratuit 7 jours, sans carte bancaire.",
+   "big": "campusbourse.com"
+  }
+ ]
+}

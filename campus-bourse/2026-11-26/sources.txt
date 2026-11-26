@@ -1,0 +1,6 @@
+Groupe Sonatel – Communiqué de presse, résultats consolidés au 31 décembre 2025 (BRVM, 16 février 2026)
+https://www.brvm.org/sites/default/files/20260216_-_communique_de_presse_-_sonatel_sn.pdf
+Sikafinance – SONATEL réalise un bénéfice de plus de 413 milliards FCFA en 2025 (17/02/2026)
+https://www.sikafinance.com/marches/sonatel-realise-un-benefice-de-plus-de-413-milliards-fcfa-en-2025_59852
+Calculs (Python) : marge nette = 413,6 / 1 923,1 = 21,5 % ; investissements / CA = 288,6 / 1 923,1 = 15,0 %.
+Non utilisés volontairement : cours, PER et rendement (division du nominal par dix en 2026, comparabilité des cours non vérifiée).
