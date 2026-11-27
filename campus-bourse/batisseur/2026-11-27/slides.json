@@ -1,0 +1,52 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Leçon de bâtisseur",
+   "title": "Épargner n'est pas le plus dur. *Ne pas y toucher*, si.",
+   "body": "Pourquoi ton épargne repart à zéro tous les trois mois. Glisse."
+  },
+  {
+   "type": "probleme",
+   "theme": "corail",
+   "tag": "Le piège",
+   "title": "L'« urgence » qui n'en est pas *une.*",
+   "body": "Une fête, une promo, un prêt à un proche : ton épargne sert de caisse pour tout."
+  },
+  {
+   "type": "resultat",
+   "theme": "turquoise",
+   "tag": "Exemple fictif",
+   "title": "25 000 FCFA par mois pendant 12 mois",
+   "big": "300 000 FCFA",
+   "body": "Vidée tous les trois mois, la même épargne ne dépasse jamais 75 000 FCFA."
+  },
+  {
+   "type": "solution",
+   "theme": "or",
+   "tag": "La leçon",
+   "title": "Ton épargne grandit avec le temps *sans retrait.*",
+   "body": "La constance compte plus que le montant. Chaque retrait inutile remet le compteur à zéro."
+  },
+  {
+   "type": "solution",
+   "tag": "3 actions cette semaine",
+   "title": "Rends ton épargne *difficile* à toucher.",
+   "body": "1. Un compte séparé du quotidien. 2. Ta liste écrite des vraies urgences. 3. 48 h d'attente avant tout retrait."
+  },
+  {
+   "type": "promesse",
+   "tag": "Et en bourse ?",
+   "title": "Le long terme ne marche que si tu le *laisses* durer.",
+   "body": "Vendre sous l'émotion à chaque baisse, c'est retirer trop tôt. Décide à froid, pas dans la panique."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Bâtir, puis investir avec *méthode.*",
+   "big": "campusbourse.com",
+   "body": "Analyse les sociétés cotées à la BRVM. Essai gratuit 7 jours."
+  }
+ ]
+}
