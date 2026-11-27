@@ -1,0 +1,53 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "corail",
+   "tag": "Top dividendes",
+   "title": "Les 5 rendements *nets* les plus élevés de la BRVM",
+   "body": "Dernier dividende versé ÷ cours du jeudi 26 novembre 2026."
+  },
+  {
+   "type": "resultat",
+   "tag": "Classement au 26 nov.",
+   "title": "SITAB arrive en *tête*",
+   "big": "8,54 %",
+   "body": "Puis NEI-CEDA 7,84 %, SERVAIR 7,78 %, BOA Bénin 7,31 %, SOGB 6,94 %."
+  },
+  {
+   "type": "probleme",
+   "tag": "Le piège",
+   "title": "Un rendement regarde le *passé*",
+   "body": "Il repose sur le dernier dividende versé. Le prochain peut baisser, ou ne pas venir."
+  },
+  {
+   "type": "probleme",
+   "theme": "turquoise",
+   "tag": "Exemple réel · NEI-CEDA",
+   "title": "7,84 % de rendement, mais une *perte* au 1er semestre",
+   "big": "−864 M FCFA",
+   "body": "Résultat net du 1er semestre 2026, contre un bénéfice de 1,088 milliard un an plus tôt."
+  },
+  {
+   "type": "solution",
+   "tag": "La méthode",
+   "title": "Lis 3 chiffres avant le *rendement*",
+   "body": "Le bénéfice, le taux de distribution, la régularité du dividende sur 5 exercices."
+  },
+  {
+   "type": "solution",
+   "tag": "Preuve produit",
+   "title": "Emplacement de la *capture*",
+   "body": "Remplacé par captures/rendus/02_dividende."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Prépare ton analyse avec *Campus Bourse*",
+   "big": "campusbourse.com",
+   "body": "Dividendes, payout et régularité sur 5 exercices. Essai gratuit 7 jours."
+  }
+ ],
+ "preuve_produit": "diapo 6 = captures/rendus/02_dividende (capture réelle, société non nommée)"
+}

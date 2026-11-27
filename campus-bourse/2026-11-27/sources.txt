@@ -1,0 +1,14 @@
+Bilan hebdo & Top dividendes — vendredi 27 nov 2026 (cours de clôture du jeudi 26 nov 2026 ; séance du vendredi 27 non close au moment de la production)
+
+- Richbourse, « Dividendes BRVM année 2026 » : dividendes de l'exercice 2025 versés en 2026, montant NET par action (IRVM déjà retenu à la source, selon la page), rendements calculés par Richbourse sur les cours du jeudi 26 novembre 2026.
+  SITAB 1 707,20 FCFA / 8,54 % ; NEI-CEDA 140,40 / 7,84 % ; SERVAIR 201,52 / 7,78 % ; BOA Bénin 585 / 7,31 % ; SOGB 501,60 / 6,94 % (suivants : SGBCI 6,28 %, PALM CI 6,13 %, BOA Sénégal et SICABLE 6,08 %).
+  https://www.richbourse.com/common/dividende
+- Sikafinance, « Dividendes des sociétés cotées à la BRVM » (montants 2025 concordants : SITAB 1 707, NEI-CEDA 140, SERVAIR 202, BOA Bénin 585, SOGB 502)
+  https://sikafinance.com/marches/dividendes
+- Le Jecos, « La société NEI-CEDA réalise un résultat net déficitaire de 864 millions FCFA au premier semestre 2026 » (24 nov 2026 ; S1 2025 : bénéfice 1,088 Md FCFA)
+  https://www.lejecos.com/La-societe-NEI-CEDA-realise-un-resultat-net-deficitaire-de-864-millions-FCFA-au-premier-semestre-2026_a31894.html
+
+Calculs (Python) : contrôle de cohérence cours implicite = dividende ÷ rendement (SITAB ≈ 19 991, NEI-CEDA ≈ 1 791, SERVAIR ≈ 2 590, BOA Bénin ≈ 8 003, SOGB ≈ 7 228 FCFA) ; cours non publiés faute de page de cotation ouverte (brvm.org et la page de variation Richbourse non accessibles).
+Rendement présenté comme NET (source Richbourse : IRVM déjà retenu), sans conseil. Bilan des indices de la semaine non publié : séance du 26 nov non confirmée par une page ouverte.
+Diapo 6 : visuel preuve produit captures/rendus/02_dividende (capture réelle, société non nommée, 1re utilisation).
+Cible : salarié qui construit son patrimoine (cible 1) · motivation : besoin (organiser, suivre) · déclencheur : valeur · fonctionnalité : n°7 calendrier des dividendes (+ fiche dividende : payout, régularité 5 exercices).
