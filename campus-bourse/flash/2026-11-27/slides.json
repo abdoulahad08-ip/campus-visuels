@@ -1,0 +1,69 @@
+{
+ "territoire": "bourse",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 27 novembre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 27 novembre",
+   "title": "La BRVM baisse pour la *10e séance* d'affilée : ce que ça change pour ton épargne.",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Sénégal : EDK lève *30 milliards* FCFA par emprunt obligataire sur le marché de l'UEMOA",
+   "body": "Source : Bénin Web TV"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : le Composite chute de *2,41 %* à 453,57 points le 26 novembre, 10e baisse d'affilée",
+   "body": "Source : Lejecos",
+   "theme": "or"
+  },
+  {
+   "type": "resultat",
+   "tag": "Startup",
+   "title": "Afrique : First Circle Capital clôture à *26 millions* de dollars un fonds pour fintechs en amorçage",
+   "body": "Source : TV47"
+  },
+  {
+   "type": "solution",
+   "tag": "Cybersécurité",
+   "title": "États-Unis : plus de *800 escrocs* présumés visés par la plus vaste opération anti-arnaques",
+   "body": "Source : Help Net Security",
+   "theme": "corail"
+  },
+  {
+   "type": "promesse",
+   "tag": "IT",
+   "title": "New York interdit pendant *5 ans* la fabrication et la vente de jouets dotés d'un chatbot IA",
+   "body": "Source : The Neuron",
+   "theme": "turquoise"
+  },
+  {
+   "type": "probleme",
+   "tag": "Géopolitique",
+   "title": "Un consortium mené par les États-Unis s'accorde pour racheter les actifs étrangers de *Lukoil*",
+   "body": "Source : AP"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "Une baisse pèse plus lourd quand l'épargne est *concentrée.*",
+   "body": "-2,41 % jeudi, 10e baisse d'affilée du BRVM Composite. Mais cinq valeurs ont gagné plus de 3 % : regarde comment ton épargne est répartie."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "S'informer, puis analyser avec *méthode.*",
+   "body": "Les sociétés cotées à la BRVM, analysées. Essai gratuit 7 jours.",
+   "big": "campusbourse.com"
+  }
+ ]
+}
