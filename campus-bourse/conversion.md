@@ -10,7 +10,7 @@ Règle d'or : on ne vend pas une fonctionnalité, on vend le **problème qu'elle
 ## L'équation de chaque post
 FONCTIONNALITÉ → UTILITÉ → VALEUR PERÇUE → CONFIANCE → ACHAT
 Exemple : comparaison de deux sociétés → visualiser leurs différences → gagner du temps, structurer son analyse → comprendre les indicateurs et la méthode → essai gratuit puis Premium.
-Structure type d'un post : 1. le problème du prospect (ses mots) → 2. la fonctionnalité réelle qui y répond → 3. ce qu'elle permet concrètement → 4. un élément de confiance (méthode expliquée, source des données, transparence du calcul) → 5. l'appel : essai gratuit 7 jours.
+Structure type d'un post : 1. le problème du prospect (ses mots) → 2. la fonctionnalité réelle qui y répond → 3. ce qu'elle permet concrètement → 4. un élément de confiance (méthode expliquée, données datées, transparence du calcul — sans citer de source tierce) → 5. l'appel : essai gratuit 7 jours.
 
 ## Les cibles
 Prioritaires :

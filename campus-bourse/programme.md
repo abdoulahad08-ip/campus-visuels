@@ -14,6 +14,13 @@ Le 19 nov 2026, l'utilisateur a ARRÊTÉ tout le contenu Campus des Bâtisseurs 
 
 **PUBLICATION VIA BUFFER depuis le 22 nov 2026** (procédure : outils/buffer.md). Metricool n'est plus utilisé. X est maintenant publié automatiquement via Buffer ; WhatsApp reste manuel. Premier commentaire LinkedIn impossible sur le forfait gratuit Buffer : il est envoyé à l'utilisateur pour qu'il le poste à la main.
 
+## AUCUNE SOURCE CITÉE DANS LES POSTS (27 nov, demande de l'utilisateur — PRIORITAIRE)
+Ne JAMAIS écrire de ligne « Source : … » ni nommer un site/média tiers dans un post, une diapo ou un visuel
+(ex. interdits : « Source : Richbourse (dividendes nets 2025, cours du 26/11/2026) ; Le Jecos (NEI-CEDA, 24/11/2026) »,
+« d'après sikafinance / brvm.org / BOC »). Les chiffres restent vérifiés sur des sources publiques fiables, mais la source
+est notée UNIQUEMENT dans journal.csv (colonne sujet, entre crochets « [src: …] »), jamais publiée.
+Dans le post, on peut seulement dater le chiffre de façon neutre : « cours du 26 nov. », « dividende net 2025 ».
+
 ## VISUELS « CHOC » (25 nov, PRIORITÉ VISUELLE)
 Style par défaut des 1res diapos et des visuels uniques : simple, concis, pro. Outil : outils/visuel_choc.py (voir campus-bourse/choc/choc.json).
 Règles : 1 message (titre ≤ 7 mots, 1-2 mots en or), 1 phrase max, 1 preuve réelle zoomée (capture de captures/sources, cadrage serré,
@@ -55,7 +62,7 @@ On INFORME (Flash 12h), on ÉDUQUE (piliers bourse 10h, leçons de bâtisseur et
 - seulement des fonctionnalités réelles (liste ci-dessous), jamais de pression ni de fausse urgence.
 
 ### Flash infos (12h TikTok, 13h LinkedIn)
-Titre fixe : « Voici les dernières 24h en finance, bourse, startup, cybersécurité, IT et géopolitique ». 6 à 8 actus des dernières 24–36 h, une par catégorie au minimum (BRVM / UEMOA / Afrique de l'Ouest dès qu'il y a une actu fiable), chacune ≤ 100 caractères, source fiable ouverte, puis « Ce que ça change pour toi » (2 à 3 phrases). Faits vérifiés uniquement, ton neutre sur la politique, aucune prédiction présentée comme un fait, aucune recommandation d'achat/vente.
+Titre fixe : « Voici les dernières 24h en finance, bourse, startup, cybersécurité, IT et géopolitique ». 6 à 8 actus des dernières 24–36 h, une par catégorie au minimum (BRVM / UEMOA / Afrique de l'Ouest dès qu'il y a une actu fiable), chacune ≤ 100 caractères, vérifiée sur une source fiable ouverte (source NON citée dans le post, notée dans journal.csv), puis « Ce que ça change pour toi » (2 à 3 phrases). Faits vérifiés uniquement, ton neutre sur la politique, aucune prédiction présentée comme un fait, aucune recommandation d'achat/vente.
 
 ### Leçon de bâtisseur (16h TikTok, lundi et vendredi)
 Une leçon de vie et de méthode pour bâtir : discipline, travail, constance, gestion de l'argent, patience et long terme, apprendre, entreprendre, choisir son entourage. Ton audacieux : l'accroche bouscule une croyance (ex. « Un revenu élevé ne garantit pas un patrimoine élevé. »), puis une leçon claire, 3 actions concrètes à appliquer cette semaine, une question. Jamais de banalité, de promesse de richesse, de témoignage ou d'histoire inventée ; citation d'une personne réelle seulement si elle est vérifiée et attribuée. Lien naturel possible avec l'investissement long terme. Si l'utilisateur a déposé une vidéo de leçon dans videos/, elle est signalée en priorité.
@@ -71,11 +78,11 @@ Une menace concrète et actuelle en Afrique de l'Ouest (arnaques Mobile Money, p
 |---|---|---|---|---|
 | Lundi | LA SOLUTION DE LA SEMAINE (pédagogie appliquée) | Comment utiliser un ratio, avec un piège (ex. « Pourquoi un PER bas peut être un piège sans le ROE »), exemple pédagogique chiffré | TikTok, LinkedIn, X | « Teste gratuitement les ratios des sociétés cotées à la BRVM sur Campus Bourse (lien en bio). » |
 | Mardi | LE DUEL DE VALEUR (comparatif sectoriel) | 2 sociétés du même secteur (ex. SGBCI vs SIB, PALM CI vs SOGB) : ROE, dividende et PER du dernier exercice publié, chiffres publics sourcés. AUCUN gagnant désigné, aucun score ni verdict | TikTok, LinkedIn, X, statut WhatsApp | « Compare-les toi-même sur Campus Bourse : fiches complètes, essai gratuit 7 jours. » |
-| Mercredi | BILAN MI-SEMAINE BRVM (actualité) | Mouvements marquants des séances lundi → mercredi (BRVM Composite, plus fortes hausses/baisses, volumes notables), d'après le Bulletin Officiel de la Cote / brvm.org / sikafinance, avec l'explication fondamentale quand elle est publique (résultats, dividende, actualité). Faits datés, sources | TikTok, LinkedIn, X, canal WhatsApp | « Suis les fondamentaux des sociétés de la BRVM sur Campus Bourse. » (jamais « temps réel ») |
+| Mercredi | BILAN MI-SEMAINE BRVM (actualité) | Mouvements marquants des séances lundi → mercredi (BRVM Composite, plus fortes hausses/baisses, volumes notables), vérifiés sur le Bulletin Officiel de la Cote / brvm.org (sans les citer dans le post), avec l'explication fondamentale quand elle est publique (résultats, dividende, actualité). Faits datés, sans citer de source | TikTok, LinkedIn, X, canal WhatsApp | « Suis les fondamentaux des sociétés de la BRVM sur Campus Bourse. » (jamais « temps réel ») |
 | Jeudi | L'AUDIT FONDAMENTAL (teaser abonnement) | Carrousel qui décrit la fiche valeur Campus Bourse (8 sections, 3 niveaux, ratios, projections 5 et 10 ans) pour une société très suivie (ex. Orange CI, Coris Bank) : ratios PUBLICS sourcés seulement ; le verdict reste sur la plateforme et n'est ni montré ni suggéré. Pas de fausse capture | TikTok, X | « Débloque l'analyse complète et les projections avec Premium (essai gratuit 7 jours). » |
 | Vendredi | BILAN HEBDO & TOP DIVIDENDES (preuve de valeur) | Infographie : variations de la semaine (indices, plus fortes hausses/baisses) OU classement des rendements du dividende (dernier dividende publié ÷ cours de clôture du vendredi, calcul en Python, « rendement brut » sauf si l'IRVM de chaque pays est vérifié). Classement = faits, pas une recommandation | TikTok, LinkedIn, X, canal WhatsApp | « Prépare ton analyse avec les outils d'aide à l'analyse de Campus Bourse. » |
 | Samedi | L'ERREUR QUI COÛTE CHER (psychologie & méthode) | Déconstruire une croyance (ex. « acheter seulement sur l'analyse technique à la BRVM », « ignorer la fiscalité IRVM » : taux vérifiés et sourcés) | TikTok, thread X | « Investissez avec méthode. Rejoignez Campus Bourse. » |
-| Dimanche | PRÉPARATION DE SÉANCE (agenda factuel) | EXCLUSIF canal WhatsApp / newsletter (pas de post 10h sur TikTok) : agenda factuel de la semaine (détachements et paiements de dividendes, assemblées générales, publications de résultats annoncées), sources. Jamais « valeurs à surveiller / à acheter » | WhatsApp (texte envoyé à l'utilisateur) | « Accède aux fiches détaillées sur Campus Bourse avant l'ouverture lundi. » |
+| Dimanche | PRÉPARATION DE SÉANCE (agenda factuel) | EXCLUSIF canal WhatsApp / newsletter (pas de post 10h sur TikTok) : agenda factuel de la semaine (détachements et paiements de dividendes, assemblées générales, publications de résultats annoncées), datées, sans citer de source. Jamais « valeurs à surveiller / à acheter » | WhatsApp (texte envoyé à l'utilisateur) | « Accède aux fiches détaillées sur Campus Bourse avant l'ouverture lundi. » |
 
 Sociétés déjà traitées : colonne `sujet` de journal.csv (varier les secteurs et les sociétés).
 **Formulation (décision du 23 nov 2026)** : on parle « des sociétés cotées (à la BRVM) », pas systématiquement « 46 sociétés ». Le chiffre 46 seulement quand il sert vraiment le message (ex. couverture complète de la cote), au plus une fois par semaine et par réseau ; jamais dans les CTA, les dernières diapos ni les lignes de promotion répétées.
@@ -102,7 +109,7 @@ Noms à ne PAS utiliser (n'existent pas dans le produit) : « Score de Convictio
 - Ne JAMAIS publier les décisions de la plateforme (ACHETER, CONSERVER, RÉDUIRE…), un score ou un « prix maximum » pour une société nommée : ce serait un conseil en investissement.
 - Jamais « v8 », « classeur », date d'extraction ou de cours des données de la plateforme.
 - Jamais de rendement garanti, de « titre sous-évalué » affirmé, de faux témoignage, de faux nombre d'utilisateurs, de capture d'écran inventée.
-- Chiffres d'une société : uniquement depuis des sources publiques ouvertes (rapport annuel, BRVM, communiqués), datés, source en une ligne.
+- Chiffres d'une société : uniquement depuis des sources publiques ouvertes (rapport annuel, BRVM, communiqués), datés ; source notée dans journal.csv, JAMAIS dans le post.
 - Mention finale obligatoire : « Outil d'aide à l'analyse. Ceci n'est pas un conseil en investissement. »
 
 ## Format
