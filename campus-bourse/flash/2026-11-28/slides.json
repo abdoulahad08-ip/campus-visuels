@@ -1,0 +1,75 @@
+{
+ "territoire": "bourse",
+ "cover": {
+  "type": "curiosite",
+  "tag": "Flash du 28 novembre",
+  "title": "Les dernières 24h en *une minute*…",
+  "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+ },
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Flash du 28 novembre",
+   "title": "BRVM : *-12,6 %* en 10 séances. Ce que ça change pour ton épargne.",
+   "body": "Finance • Bourse • Startup\nCyber • IT • Géopolitique\nGlisse pour lire →"
+  },
+  {
+   "type": "solution",
+   "tag": "Finance",
+   "title": "Wall Street signe sa *meilleure semaine* depuis avril 2025, portée par l'IA",
+   "body": "Semaine du 23 au 27 novembre"
+  },
+  {
+   "type": "promesse",
+   "tag": "Bourse",
+   "title": "BRVM : le Composite perd *12,6 %* en 10 séances, de 518,96 à 453,57 points",
+   "body": "Séances du 12 au 26 novembre",
+   "theme": "or"
+  },
+  {
+   "type": "probleme",
+   "tag": "UEMOA",
+   "title": "Sénégal : le marché de l'UEMOA couvre *55 %* des besoins de financement de l'État",
+   "body": "Annonce du 25 novembre"
+  },
+  {
+   "type": "resultat",
+   "tag": "Startup",
+   "title": "Éthiopie : le fonds souverain engage *10 M$* pour tester des startups dans 8 sociétés d'État",
+   "body": "Annonce du 27 novembre"
+  },
+  {
+   "type": "solution",
+   "tag": "Cybersécurité",
+   "title": "Des pirates liés à la Chine et à la Corée du Nord utilisent *ARTEX*, un outil d'attaque IA",
+   "body": "Rapport publié le 27 novembre",
+   "theme": "corail"
+  },
+  {
+   "type": "promesse",
+   "tag": "IT",
+   "title": "Canada : *700 M$ CA* de plus pour l'accès au calcul IA, soit 1 milliard au total",
+   "body": "Annonce du 27 novembre",
+   "theme": "turquoise"
+  },
+  {
+   "type": "probleme",
+   "tag": "Géopolitique",
+   "title": "UE : sommet à Bruxelles sur le budget et un prêt de *45 Md€* à l'Ukraine",
+   "body": "Sommet ouvert le 26 novembre"
+  },
+  {
+   "type": "resultat",
+   "tag": "Ce que ça change pour toi",
+   "title": "L'indice ne raconte pas *chaque action.*",
+   "body": "-12,6 % en 10 séances, mais encore environ +31 % depuis janvier. Deux sociétés expliquent 36 % de la baisse : regarde une par une celles que tu suis."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "S'informer, puis analyser avec *méthode.*",
+   "body": "Les sociétés cotées à la BRVM, analysées. Essai gratuit 7 jours.",
+   "big": "campusbourse.com"
+  }
+ ]
+}
