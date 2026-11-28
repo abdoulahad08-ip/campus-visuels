@@ -1,0 +1,6 @@
+L'erreur qui coûte cher — samedi 28 nov 2026
+Aucun chiffre de marché ni de société réelle : tous les chiffres du carrousel, du texte et du thread X sont un EXEMPLE FICTIF signalé comme tel.
+Calculs (Python) : PER avant = 10 000 ÷ 1 000 = 10 ; après = 7 000 ÷ 500 = 14 ; contre-exemple = 7 000 ÷ 1 000 = 7 ; baisse du cours (10 000 → 7 000) = −30 % ; baisse du bénéfice (1 000 → 500) = −50 %.
+Diapo 6 : visuel preuve produit captures/rendus/01_trajectoire (capture réelle, société non nommée, 1re utilisation).
+Cible : tous (débutant → investisseur régulier) · motivation : peur (payer trop cher, décider sous l'émotion) · déclencheur : problème · fonctionnalité : n°6 notation 4 piliers sur 5 exercices de comptes officiels (fiche société : comptes de 5 exercices + ratios).
+Aucune ligne « Source : » dans les posts (programme.md, règle du 27 nov).

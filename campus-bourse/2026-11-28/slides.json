@@ -1,0 +1,54 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "curiosite",
+   "theme": "corail",
+   "tag": "L'erreur qui coûte cher",
+   "title": "Elle a baissé de 30 %, donc elle est *bon marché* ?",
+   "body": "L'erreur la plus fréquente quand le marché recule. Démonstration avec un exemple fictif."
+  },
+  {
+   "type": "probleme",
+   "tag": "Exemple fictif · avant",
+   "title": "Cours 10 000 FCFA, bénéfice *1 000 FCFA* par action",
+   "big": "PER 10",
+   "body": "Tu paies 10 fois ce que la société gagne en un an."
+  },
+  {
+   "type": "resultat",
+   "tag": "Exemple fictif · après",
+   "title": "Le cours chute de 30 %, le bénéfice de *50 %*",
+   "big": "PER 14",
+   "body": "7 000 ÷ 500 = 14. L'action a baissé, mais elle est devenue plus chère."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "Contre-exemple fictif",
+   "title": "Même baisse, mais bénéfice *stable*",
+   "big": "PER 7",
+   "body": "7 000 ÷ 1 000 = 7. Ici, l'action est moins chère. Reste à comprendre pourquoi elle baisse."
+  },
+  {
+   "type": "solution",
+   "tag": "La méthode",
+   "title": "3 questions avant d'acheter une *baisse*",
+   "body": "Le bénéfice a-t-il baissé aussi ? Le PER est-il plus bas qu'avant ? Que disent les derniers communiqués ?"
+  },
+  {
+   "type": "solution",
+   "tag": "Preuve produit",
+   "title": "Emplacement de la *capture*",
+   "body": "Remplacé par captures/rendus/01_trajectoire."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Investis avec *méthode*",
+   "big": "campusbourse.com",
+   "body": "Les comptes de 5 exercices et les ratios de chaque société. Essai gratuit 7 jours."
+  }
+ ],
+ "preuve_produit": "diapo 6 = captures/rendus/01_trajectoire (capture réelle, société non nommée, 1re utilisation)"
+}

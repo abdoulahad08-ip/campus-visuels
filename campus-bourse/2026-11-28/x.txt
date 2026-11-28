@@ -1,0 +1,26 @@
+1/5 « Elle a baissé de 30 %, donc elle est bon marché. »
+C'est l'erreur qui coûte cher à la BRVM. Un cours qui baisse ne dit pas si tu paies moins cher. Démonstration avec un exemple fictif 👇
+
+---
+
+2/5 Avant : cours 10 000 FCFA, bénéfice 1 000 FCFA par action.
+PER = 10 000 ÷ 1 000 = 10.
+Tu paies 10 fois ce que la société gagne en un an.
+
+---
+
+3/5 Après : le cours chute de 30 % à 7 000 FCFA, mais le bénéfice chute de 50 % à 500 FCFA.
+PER = 7 000 ÷ 500 = 14.
+L'action a baissé… et elle est devenue plus chère.
+
+---
+
+4/5 Même baisse, bénéfice stable à 1 000 FCFA : PER = 7. Là, l'action est moins chère.
+Avant d'acheter une baisse, 3 questions : le bénéfice a-t-il baissé aussi ? Le PER est-il plus bas qu'avant ? Que disent les derniers communiqués ?
+
+---
+
+5/5 Investissez avec méthode. Rejoignez Campus Bourse : comptes de 5 exercices et ratios de chaque société cotée, essai gratuit 7 jours.
+https://campusbourse.com
+Pas un conseil en investissement.
+#BRVM #Bourse #CampusBourse
