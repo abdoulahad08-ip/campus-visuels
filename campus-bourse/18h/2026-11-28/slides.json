@@ -1,0 +1,19 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "solution",
+   "theme": "corail",
+   "tag": "Démo Campus Bourse",
+   "title": "RSI et Bollinger, *en clair*",
+   "body": "RSI : un repère de 0 à 100 sur la force des dernières variations du cours.\nBollinger : un canal autour de la moyenne des cours.\nCampus Bourse les calcule et les explique pour chaque société cotée. Un repère, jamais un signal d'achat à lui seul."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Le graphique, *puis les comptes*",
+   "body": "Analyse technique expliquée + comptes de 5 exercices. Essai gratuit 7 jours, sans carte bancaire.",
+   "big": "campusbourse.com"
+  }
+ ]
+}
