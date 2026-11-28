@@ -1,0 +1,52 @@
+{
+ "territoire": "bourse",
+ "slides": [
+  {
+   "type": "curiosite",
+   "tag": "Leçon d'anglais",
+   "title": "Tu dis « I *invest since* 2024 » ? Faux.",
+   "body": "« Depuis » en anglais : le temps du verbe change. Glisse."
+  },
+  {
+   "type": "solution",
+   "theme": "turquoise",
+   "tag": "La règle",
+   "title": "Depuis + ça dure encore = *present perfect*",
+   "body": "for + une durée, since + un point de départ.\nI have worked here for 5 years.\n→ Je travaille ici depuis 5 ans."
+  },
+  {
+   "type": "solution",
+   "theme": "or",
+   "tag": "Exemples bourse",
+   "title": "Deux phrases à *retenir*",
+   "body": "I have owned these shares since 2024.\n→ J'ai ces actions depuis 2024.\nThe company has paid a dividend since 2015.\n→ La société verse un dividende depuis 2015."
+  },
+  {
+   "type": "probleme",
+   "theme": "corail",
+   "tag": "Erreur fréquente",
+   "title": "Jamais le *présent simple* avec « depuis »",
+   "body": "Faux : I invest since 2024.\nJuste : I have been investing since 2024.\nFaux : I know him for years.\nJuste : I have known him for years."
+  },
+  {
+   "type": "promesse",
+   "tag": "Exercice",
+   "title": "À toi : *for* ou *since* ?",
+   "body": "1. I have had this account ___ 2022.\n2. The share price has fallen ___ three weeks.\n3. We have been saving ___ January."
+  },
+  {
+   "type": "resultat",
+   "tag": "Correction",
+   "title": "Tu as trouvé les *trois* ?",
+   "big": "since · for · since",
+   "body": "Une date ou un moment : since. Une durée : for."
+  },
+  {
+   "type": "cta",
+   "tag": "Campus Bourse",
+   "title": "Apprendre, une leçon à la *fois.*",
+   "big": "campusbourse.com",
+   "body": "Analyse les sociétés cotées à la BRVM. Essai gratuit 7 jours."
+  }
+ ]
+}
